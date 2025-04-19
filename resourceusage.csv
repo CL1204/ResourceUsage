@@ -1,0 +1,5905 @@
+City,ResourceType,Year,Month,UsageAmount
+Johor Bahru,Water,2020,1,129.23
+Johor Bahru,Electricity,2020,1,283.52
+Johor Bahru,Fuel,2020,1,169.52
+Iskandar Puteri,Water,2020,1,139.21
+Iskandar Puteri,Electricity,2020,1,274.92
+Iskandar Puteri,Fuel,2020,1,111.54
+Pasir Gudang,Water,2020,1,84.29
+Pasir Gudang,Electricity,2020,1,294.01
+Pasir Gudang,Fuel,2020,1,143.63
+Alor Setar,Water,2020,1,95.04
+Alor Setar,Electricity,2020,1,259.31
+Alor Setar,Fuel,2020,1,225.52
+Sungai Petani,Water,2020,1,114.33
+Sungai Petani,Electricity,2020,1,284.23
+Sungai Petani,Fuel,2020,1,120.63
+Kota Bharu,Water,2020,1,148.9
+Kota Bharu,Electricity,2020,1,346.25
+Kota Bharu,Fuel,2020,1,236.81
+Melaka City,Water,2020,1,152.67
+Melaka City,Electricity,2020,1,235.08
+Melaka City,Fuel,2020,1,216.45
+Seremban,Water,2020,1,149.97
+Seremban,Electricity,2020,1,302.99
+Seremban,Fuel,2020,1,175.58
+Kuantan,Water,2020,1,113.43
+Kuantan,Electricity,2020,1,373.72
+Kuantan,Fuel,2020,1,140.38
+George Town,Water,2020,1,104.28
+George Town,Electricity,2020,1,452.48
+George Town,Fuel,2020,1,107.97
+Seberang Perai,Water,2020,1,99.8
+Seberang Perai,Electricity,2020,1,295.2
+Seberang Perai,Fuel,2020,1,172.37
+Ipoh,Water,2020,1,158.2
+Ipoh,Electricity,2020,1,325.18
+Ipoh,Fuel,2020,1,113.72
+Kangar,Water,2020,1,99.46
+Kangar,Electricity,2020,1,413.04
+Kangar,Fuel,2020,1,169.3
+Shah Alam,Water,2020,1,143.07
+Shah Alam,Electricity,2020,1,349.05
+Shah Alam,Fuel,2020,1,139.46
+Petaling Jaya,Water,2020,1,161.13
+Petaling Jaya,Electricity,2020,1,295.21
+Petaling Jaya,Fuel,2020,1,119.09
+Subang Jaya,Water,2020,1,78.78
+Subang Jaya,Electricity,2020,1,322.96
+Subang Jaya,Fuel,2020,1,140.46
+Klang,Water,2020,1,140.3
+Klang,Electricity,2020,1,261.54
+Klang,Fuel,2020,1,122.93
+Kuala Terengganu,Water,2020,1,147.5
+Kuala Terengganu,Electricity,2020,1,296.65
+Kuala Terengganu,Fuel,2020,1,219.66
+Kota Kinabalu,Water,2020,1,139.46
+Kota Kinabalu,Electricity,2020,1,379.7
+Kota Kinabalu,Fuel,2020,1,199.82
+Sandakan,Water,2020,1,100.47
+Sandakan,Electricity,2020,1,201.78
+Sandakan,Fuel,2020,1,152.95
+Tawau,Water,2020,1,111.39
+Tawau,Electricity,2020,1,351.6
+Tawau,Fuel,2020,1,126.84
+Kuching,Water,2020,1,138.04
+Kuching,Electricity,2020,1,318.4
+Kuching,Fuel,2020,1,129.28
+Miri,Water,2020,1,108.47
+Miri,Electricity,2020,1,328.46
+Miri,Fuel,2020,1,191.62
+Sibu,Water,2020,1,116.95
+Sibu,Electricity,2020,1,263.14
+Sibu,Fuel,2020,1,320.56
+Johor Bahru,Water,2020,2,133.9
+Johor Bahru,Electricity,2020,2,393.48
+Johor Bahru,Fuel,2020,2,139.16
+Iskandar Puteri,Water,2020,2,130.43
+Iskandar Puteri,Electricity,2020,2,467.11
+Iskandar Puteri,Fuel,2020,2,166.82
+Pasir Gudang,Water,2020,2,138.45
+Pasir Gudang,Electricity,2020,2,331.61
+Pasir Gudang,Fuel,2020,2,218.26
+Alor Setar,Water,2020,2,139.32
+Alor Setar,Electricity,2020,2,282.13
+Alor Setar,Fuel,2020,2,156.35
+Sungai Petani,Water,2020,2,82.77
+Sungai Petani,Electricity,2020,2,354.02
+Sungai Petani,Fuel,2020,2,262.09
+Kota Bharu,Water,2020,2,116.98
+Kota Bharu,Electricity,2020,2,382.93
+Kota Bharu,Fuel,2020,2,194.14
+Melaka City,Water,2020,2,96.96
+Melaka City,Electricity,2020,2,384.14
+Melaka City,Fuel,2020,2,302.81
+Seremban,Water,2020,2,121.79
+Seremban,Electricity,2020,2,343.55
+Seremban,Fuel,2020,2,154.07
+Kuantan,Water,2020,2,139.39
+Kuantan,Electricity,2020,2,364.97
+Kuantan,Fuel,2020,2,98.92
+George Town,Water,2020,2,155.39
+George Town,Electricity,2020,2,347.34
+George Town,Fuel,2020,2,342.76
+Seberang Perai,Water,2020,2,121.02
+Seberang Perai,Electricity,2020,2,334.05
+Seberang Perai,Fuel,2020,2,153.31
+Ipoh,Water,2020,2,82.25
+Ipoh,Electricity,2020,2,240.3
+Ipoh,Fuel,2020,2,185.33
+Kangar,Water,2020,2,106.67
+Kangar,Electricity,2020,2,361.41
+Kangar,Fuel,2020,2,239.42
+Shah Alam,Water,2020,2,151.94
+Shah Alam,Electricity,2020,2,224.26
+Shah Alam,Fuel,2020,2,159.52
+Petaling Jaya,Water,2020,2,178.22
+Petaling Jaya,Electricity,2020,2,234.11
+Petaling Jaya,Fuel,2020,2,125.3
+Subang Jaya,Water,2020,2,116.54
+Subang Jaya,Electricity,2020,2,284.8
+Subang Jaya,Fuel,2020,2,191.58
+Klang,Water,2020,2,111.53
+Klang,Electricity,2020,2,248.24
+Klang,Fuel,2020,2,237.71
+Kuala Terengganu,Water,2020,2,109.34
+Kuala Terengganu,Electricity,2020,2,555.98
+Kuala Terengganu,Fuel,2020,2,257.21
+Kota Kinabalu,Water,2020,2,91.88
+Kota Kinabalu,Electricity,2020,2,368.66
+Kota Kinabalu,Fuel,2020,2,241.47
+Sandakan,Water,2020,2,146.61
+Sandakan,Electricity,2020,2,284.63
+Sandakan,Fuel,2020,2,234.2
+Tawau,Water,2020,2,123.73
+Tawau,Electricity,2020,2,206.87
+Tawau,Fuel,2020,2,183.25
+Kuching,Water,2020,2,159.14
+Kuching,Electricity,2020,2,283.2
+Kuching,Fuel,2020,2,188.24
+Miri,Water,2020,2,120.82
+Miri,Electricity,2020,2,454.47
+Miri,Fuel,2020,2,245.86
+Sibu,Water,2020,2,118.71
+Sibu,Electricity,2020,2,376.03
+Sibu,Fuel,2020,2,144.67
+Johor Bahru,Water,2020,3,116.91
+Johor Bahru,Electricity,2020,3,216.38
+Johor Bahru,Fuel,2020,3,216.56
+Iskandar Puteri,Water,2020,3,136.12
+Iskandar Puteri,Electricity,2020,3,246.32
+Iskandar Puteri,Fuel,2020,3,129.78
+Pasir Gudang,Water,2020,3,119.38
+Pasir Gudang,Electricity,2020,3,336.44
+Pasir Gudang,Fuel,2020,3,260.09
+Alor Setar,Water,2020,3,121.95
+Alor Setar,Electricity,2020,3,311.58
+Alor Setar,Fuel,2020,3,164.92
+Sungai Petani,Water,2020,3,129.77
+Sungai Petani,Electricity,2020,3,436.82
+Sungai Petani,Fuel,2020,3,224.66
+Kota Bharu,Water,2020,3,158.53
+Kota Bharu,Electricity,2020,3,367.18
+Kota Bharu,Fuel,2020,3,153.73
+Melaka City,Water,2020,3,150.23
+Melaka City,Electricity,2020,3,393.4
+Melaka City,Fuel,2020,3,197.81
+Seremban,Water,2020,3,108.52
+Seremban,Electricity,2020,3,337.36
+Seremban,Fuel,2020,3,201.93
+Kuantan,Water,2020,3,134.48
+Kuantan,Electricity,2020,3,235.63
+Kuantan,Fuel,2020,3,142.17
+George Town,Water,2020,3,131.02
+George Town,Electricity,2020,3,235.14
+George Town,Fuel,2020,3,236.07
+Seberang Perai,Water,2020,3,178.83
+Seberang Perai,Electricity,2020,3,363.06
+Seberang Perai,Fuel,2020,3,100.41
+Ipoh,Water,2020,3,110.97
+Ipoh,Electricity,2020,3,341.2
+Ipoh,Fuel,2020,3,133.11
+Kangar,Water,2020,3,102.1
+Kangar,Electricity,2020,3,218.7
+Kangar,Fuel,2020,3,198.5
+Shah Alam,Water,2020,3,117.09
+Shah Alam,Electricity,2020,3,551.84
+Shah Alam,Fuel,2020,3,179.64
+Petaling Jaya,Water,2020,3,168.48
+Petaling Jaya,Electricity,2020,3,247.7
+Petaling Jaya,Fuel,2020,3,250.61
+Subang Jaya,Water,2020,3,142.15
+Subang Jaya,Electricity,2020,3,247.61
+Subang Jaya,Fuel,2020,3,256.53
+Klang,Water,2020,3,106.45
+Klang,Electricity,2020,3,349.55
+Klang,Fuel,2020,3,120.42
+Kuala Terengganu,Water,2020,3,80.33
+Kuala Terengganu,Electricity,2020,3,311.81
+Kuala Terengganu,Fuel,2020,3,136.39
+Kota Kinabalu,Water,2020,3,144.58
+Kota Kinabalu,Electricity,2020,3,492.69
+Kota Kinabalu,Fuel,2020,3,223.65
+Sandakan,Water,2020,3,107.0
+Sandakan,Electricity,2020,3,332.8
+Sandakan,Fuel,2020,3,165.08
+Tawau,Water,2020,3,83.1
+Tawau,Electricity,2020,3,303.15
+Tawau,Fuel,2020,3,104.02
+Kuching,Water,2020,3,105.75
+Kuching,Electricity,2020,3,228.26
+Kuching,Fuel,2020,3,182.35
+Miri,Water,2020,3,94.68
+Miri,Electricity,2020,3,241.09
+Miri,Fuel,2020,3,159.4
+Sibu,Water,2020,3,115.8
+Sibu,Electricity,2020,3,246.41
+Sibu,Fuel,2020,3,129.26
+Johor Bahru,Water,2020,4,80.03
+Johor Bahru,Electricity,2020,4,248.55
+Johor Bahru,Fuel,2020,4,189.01
+Iskandar Puteri,Water,2020,4,109.64
+Iskandar Puteri,Electricity,2020,4,356.68
+Iskandar Puteri,Fuel,2020,4,180.74
+Pasir Gudang,Water,2020,4,184.03
+Pasir Gudang,Electricity,2020,4,222.82
+Pasir Gudang,Fuel,2020,4,166.35
+Alor Setar,Water,2020,4,152.3
+Alor Setar,Electricity,2020,4,283.84
+Alor Setar,Fuel,2020,4,164.11
+Sungai Petani,Water,2020,4,136.67
+Sungai Petani,Electricity,2020,4,326.02
+Sungai Petani,Fuel,2020,4,121.82
+Kota Bharu,Water,2020,4,107.91
+Kota Bharu,Electricity,2020,4,315.9
+Kota Bharu,Fuel,2020,4,287.89
+Melaka City,Water,2020,4,154.22
+Melaka City,Electricity,2020,4,221.58
+Melaka City,Fuel,2020,4,199.67
+Seremban,Water,2020,4,124.1
+Seremban,Electricity,2020,4,325.18
+Seremban,Fuel,2020,4,174.89
+Kuantan,Water,2020,4,94.04
+Kuantan,Electricity,2020,4,484.08
+Kuantan,Fuel,2020,4,226.91
+George Town,Water,2020,4,154.83
+George Town,Electricity,2020,4,438.39
+George Town,Fuel,2020,4,189.58
+Seberang Perai,Water,2020,4,120.08
+Seberang Perai,Electricity,2020,4,210.47
+Seberang Perai,Fuel,2020,4,203.33
+Ipoh,Water,2020,4,81.83
+Ipoh,Electricity,2020,4,514.99
+Ipoh,Fuel,2020,4,206.96
+Kangar,Water,2020,4,90.32
+Kangar,Electricity,2020,4,256.6
+Kangar,Fuel,2020,4,121.65
+Shah Alam,Water,2020,4,137.42
+Shah Alam,Electricity,2020,4,277.52
+Shah Alam,Fuel,2020,4,179.25
+Petaling Jaya,Water,2020,4,140.7
+Petaling Jaya,Electricity,2020,4,397.11
+Petaling Jaya,Fuel,2020,4,336.79
+Subang Jaya,Water,2020,4,148.82
+Subang Jaya,Electricity,2020,4,333.77
+Subang Jaya,Fuel,2020,4,286.67
+Klang,Water,2020,4,85.42
+Klang,Electricity,2020,4,372.74
+Klang,Fuel,2020,4,148.08
+Kuala Terengganu,Water,2020,4,145.41
+Kuala Terengganu,Electricity,2020,4,269.1
+Kuala Terengganu,Fuel,2020,4,223.77
+Kota Kinabalu,Water,2020,4,138.39
+Kota Kinabalu,Electricity,2020,4,346.0
+Kota Kinabalu,Fuel,2020,4,118.74
+Sandakan,Water,2020,4,157.55
+Sandakan,Electricity,2020,4,344.94
+Sandakan,Fuel,2020,4,179.67
+Tawau,Water,2020,4,121.35
+Tawau,Electricity,2020,4,441.83
+Tawau,Fuel,2020,4,100.7
+Kuching,Water,2020,4,138.68
+Kuching,Electricity,2020,4,368.52
+Kuching,Fuel,2020,4,195.0
+Miri,Water,2020,4,122.81
+Miri,Electricity,2020,4,221.72
+Miri,Fuel,2020,4,159.82
+Sibu,Water,2020,4,180.93
+Sibu,Electricity,2020,4,342.81
+Sibu,Fuel,2020,4,166.72
+Johor Bahru,Water,2020,5,154.99
+Johor Bahru,Electricity,2020,5,327.66
+Johor Bahru,Fuel,2020,5,220.55
+Iskandar Puteri,Water,2020,5,146.78
+Iskandar Puteri,Electricity,2020,5,302.36
+Iskandar Puteri,Fuel,2020,5,189.54
+Pasir Gudang,Water,2020,5,155.54
+Pasir Gudang,Electricity,2020,5,393.35
+Pasir Gudang,Fuel,2020,5,185.23
+Alor Setar,Water,2020,5,150.2
+Alor Setar,Electricity,2020,5,189.22
+Alor Setar,Fuel,2020,5,214.79
+Sungai Petani,Water,2020,5,166.79
+Sungai Petani,Electricity,2020,5,324.03
+Sungai Petani,Fuel,2020,5,254.57
+Kota Bharu,Water,2020,5,95.01
+Kota Bharu,Electricity,2020,5,332.1
+Kota Bharu,Fuel,2020,5,230.42
+Melaka City,Water,2020,5,100.16
+Melaka City,Electricity,2020,5,241.2
+Melaka City,Fuel,2020,5,193.34
+Seremban,Water,2020,5,115.93
+Seremban,Electricity,2020,5,399.22
+Seremban,Fuel,2020,5,120.43
+Kuantan,Water,2020,5,144.5
+Kuantan,Electricity,2020,5,307.87
+Kuantan,Fuel,2020,5,133.95
+George Town,Water,2020,5,153.88
+George Town,Electricity,2020,5,236.8
+George Town,Fuel,2020,5,154.84
+Seberang Perai,Water,2020,5,136.39
+Seberang Perai,Electricity,2020,5,225.86
+Seberang Perai,Fuel,2020,5,165.23
+Ipoh,Water,2020,5,92.53
+Ipoh,Electricity,2020,5,315.01
+Ipoh,Fuel,2020,5,126.64
+Kangar,Water,2020,5,151.37
+Kangar,Electricity,2020,5,258.77
+Kangar,Fuel,2020,5,166.71
+Shah Alam,Water,2020,5,89.93
+Shah Alam,Electricity,2020,5,450.83
+Shah Alam,Fuel,2020,5,120.25
+Petaling Jaya,Water,2020,5,105.02
+Petaling Jaya,Electricity,2020,5,373.38
+Petaling Jaya,Fuel,2020,5,144.85
+Subang Jaya,Water,2020,5,123.07
+Subang Jaya,Electricity,2020,5,344.88
+Subang Jaya,Fuel,2020,5,117.71
+Klang,Water,2020,5,130.5
+Klang,Electricity,2020,5,214.04
+Klang,Fuel,2020,5,296.38
+Kuala Terengganu,Water,2020,5,84.03
+Kuala Terengganu,Electricity,2020,5,389.33
+Kuala Terengganu,Fuel,2020,5,239.69
+Kota Kinabalu,Water,2020,5,87.21
+Kota Kinabalu,Electricity,2020,5,357.59
+Kota Kinabalu,Fuel,2020,5,148.51
+Sandakan,Water,2020,5,135.3
+Sandakan,Electricity,2020,5,245.04
+Sandakan,Fuel,2020,5,114.31
+Tawau,Water,2020,5,95.27
+Tawau,Electricity,2020,5,369.37
+Tawau,Fuel,2020,5,176.05
+Kuching,Water,2020,5,144.92
+Kuching,Electricity,2020,5,397.94
+Kuching,Fuel,2020,5,122.24
+Miri,Water,2020,5,111.64
+Miri,Electricity,2020,5,264.03
+Miri,Fuel,2020,5,152.07
+Sibu,Water,2020,5,136.08
+Sibu,Electricity,2020,5,367.03
+Sibu,Fuel,2020,5,172.28
+Johor Bahru,Water,2020,6,130.24
+Johor Bahru,Electricity,2020,6,297.13
+Johor Bahru,Fuel,2020,6,134.35
+Iskandar Puteri,Water,2020,6,164.0
+Iskandar Puteri,Electricity,2020,6,272.96
+Iskandar Puteri,Fuel,2020,6,117.55
+Pasir Gudang,Water,2020,6,107.51
+Pasir Gudang,Electricity,2020,6,217.25
+Pasir Gudang,Fuel,2020,6,269.03
+Alor Setar,Water,2020,6,102.61
+Alor Setar,Electricity,2020,6,298.63
+Alor Setar,Fuel,2020,6,230.71
+Sungai Petani,Water,2020,6,166.78
+Sungai Petani,Electricity,2020,6,283.09
+Sungai Petani,Fuel,2020,6,254.15
+Kota Bharu,Water,2020,6,99.2
+Kota Bharu,Electricity,2020,6,345.29
+Kota Bharu,Fuel,2020,6,215.14
+Melaka City,Water,2020,6,94.51
+Melaka City,Electricity,2020,6,222.68
+Melaka City,Fuel,2020,6,182.17
+Seremban,Water,2020,6,96.13
+Seremban,Electricity,2020,6,404.11
+Seremban,Fuel,2020,6,142.46
+Kuantan,Water,2020,6,129.96
+Kuantan,Electricity,2020,6,286.89
+Kuantan,Fuel,2020,6,203.21
+George Town,Water,2020,6,126.31
+George Town,Electricity,2020,6,251.69
+George Town,Fuel,2020,6,171.1
+Seberang Perai,Water,2020,6,98.07
+Seberang Perai,Electricity,2020,6,222.11
+Seberang Perai,Fuel,2020,6,225.24
+Ipoh,Water,2020,6,85.23
+Ipoh,Electricity,2020,6,205.64
+Ipoh,Fuel,2020,6,233.71
+Kangar,Water,2020,6,178.22
+Kangar,Electricity,2020,6,322.18
+Kangar,Fuel,2020,6,247.23
+Shah Alam,Water,2020,6,100.61
+Shah Alam,Electricity,2020,6,433.09
+Shah Alam,Fuel,2020,6,145.38
+Petaling Jaya,Water,2020,6,124.21
+Petaling Jaya,Electricity,2020,6,282.89
+Petaling Jaya,Fuel,2020,6,246.13
+Subang Jaya,Water,2020,6,93.81
+Subang Jaya,Electricity,2020,6,350.35
+Subang Jaya,Fuel,2020,6,177.19
+Klang,Water,2020,6,133.19
+Klang,Electricity,2020,6,367.32
+Klang,Fuel,2020,6,156.16
+Kuala Terengganu,Water,2020,6,181.41
+Kuala Terengganu,Electricity,2020,6,304.76
+Kuala Terengganu,Fuel,2020,6,307.71
+Kota Kinabalu,Water,2020,6,84.42
+Kota Kinabalu,Electricity,2020,6,223.25
+Kota Kinabalu,Fuel,2020,6,250.43
+Sandakan,Water,2020,6,166.6
+Sandakan,Electricity,2020,6,367.2
+Sandakan,Fuel,2020,6,124.63
+Tawau,Water,2020,6,118.91
+Tawau,Electricity,2020,6,294.15
+Tawau,Fuel,2020,6,101.91
+Kuching,Water,2020,6,117.33
+Kuching,Electricity,2020,6,270.73
+Kuching,Fuel,2020,6,218.86
+Miri,Water,2020,6,117.07
+Miri,Electricity,2020,6,408.93
+Miri,Fuel,2020,6,117.58
+Sibu,Water,2020,6,111.89
+Sibu,Electricity,2020,6,348.35
+Sibu,Fuel,2020,6,117.58
+Johor Bahru,Water,2020,7,123.03
+Johor Bahru,Electricity,2020,7,462.16
+Johor Bahru,Fuel,2020,7,124.33
+Iskandar Puteri,Water,2020,7,99.33
+Iskandar Puteri,Electricity,2020,7,253.51
+Iskandar Puteri,Fuel,2020,7,183.67
+Pasir Gudang,Water,2020,7,203.66
+Pasir Gudang,Electricity,2020,7,331.0
+Pasir Gudang,Fuel,2020,7,258.05
+Alor Setar,Water,2020,7,125.49
+Alor Setar,Electricity,2020,7,285.44
+Alor Setar,Fuel,2020,7,208.75
+Sungai Petani,Water,2020,7,81.0
+Sungai Petani,Electricity,2020,7,219.44
+Sungai Petani,Fuel,2020,7,150.98
+Kota Bharu,Water,2020,7,105.33
+Kota Bharu,Electricity,2020,7,412.51
+Kota Bharu,Fuel,2020,7,116.89
+Melaka City,Water,2020,7,90.3
+Melaka City,Electricity,2020,7,259.43
+Melaka City,Fuel,2020,7,229.46
+Seremban,Water,2020,7,138.71
+Seremban,Electricity,2020,7,305.81
+Seremban,Fuel,2020,7,226.18
+Kuantan,Water,2020,7,153.95
+Kuantan,Electricity,2020,7,358.2
+Kuantan,Fuel,2020,7,123.82
+George Town,Water,2020,7,100.55
+George Town,Electricity,2020,7,297.74
+George Town,Fuel,2020,7,113.55
+Seberang Perai,Water,2020,7,170.32
+Seberang Perai,Electricity,2020,7,354.68
+Seberang Perai,Fuel,2020,7,212.82
+Ipoh,Water,2020,7,92.53
+Ipoh,Electricity,2020,7,278.19
+Ipoh,Fuel,2020,7,144.01
+Kangar,Water,2020,7,166.63
+Kangar,Electricity,2020,7,285.61
+Kangar,Fuel,2020,7,255.44
+Shah Alam,Water,2020,7,86.26
+Shah Alam,Electricity,2020,7,235.92
+Shah Alam,Fuel,2020,7,166.92
+Petaling Jaya,Water,2020,7,139.1
+Petaling Jaya,Electricity,2020,7,270.1
+Petaling Jaya,Fuel,2020,7,272.53
+Subang Jaya,Water,2020,7,149.91
+Subang Jaya,Electricity,2020,7,287.82
+Subang Jaya,Fuel,2020,7,100.56
+Klang,Water,2020,7,163.82
+Klang,Electricity,2020,7,287.43
+Klang,Fuel,2020,7,221.6
+Kuala Terengganu,Water,2020,7,104.99
+Kuala Terengganu,Electricity,2020,7,372.32
+Kuala Terengganu,Fuel,2020,7,145.41
+Kota Kinabalu,Water,2020,7,88.59
+Kota Kinabalu,Electricity,2020,7,291.06
+Kota Kinabalu,Fuel,2020,7,263.11
+Sandakan,Water,2020,7,97.52
+Sandakan,Electricity,2020,7,268.35
+Sandakan,Fuel,2020,7,210.5
+Tawau,Water,2020,7,97.53
+Tawau,Electricity,2020,7,321.84
+Tawau,Fuel,2020,7,142.69
+Kuching,Water,2020,7,88.58
+Kuching,Electricity,2020,7,248.57
+Kuching,Fuel,2020,7,96.1
+Miri,Water,2020,7,113.93
+Miri,Electricity,2020,7,190.47
+Miri,Fuel,2020,7,103.91
+Sibu,Water,2020,7,103.23
+Sibu,Electricity,2020,7,232.56
+Sibu,Fuel,2020,7,150.08
+Johor Bahru,Water,2020,8,126.13
+Johor Bahru,Electricity,2020,8,387.71
+Johor Bahru,Fuel,2020,8,258.51
+Iskandar Puteri,Water,2020,8,136.66
+Iskandar Puteri,Electricity,2020,8,238.76
+Iskandar Puteri,Fuel,2020,8,159.38
+Pasir Gudang,Water,2020,8,110.13
+Pasir Gudang,Electricity,2020,8,355.72
+Pasir Gudang,Fuel,2020,8,133.71
+Alor Setar,Water,2020,8,104.68
+Alor Setar,Electricity,2020,8,261.98
+Alor Setar,Fuel,2020,8,116.07
+Sungai Petani,Water,2020,8,132.31
+Sungai Petani,Electricity,2020,8,379.27
+Sungai Petani,Fuel,2020,8,195.01
+Kota Bharu,Water,2020,8,105.69
+Kota Bharu,Electricity,2020,8,405.94
+Kota Bharu,Fuel,2020,8,140.07
+Melaka City,Water,2020,8,117.58
+Melaka City,Electricity,2020,8,269.87
+Melaka City,Fuel,2020,8,116.44
+Seremban,Water,2020,8,105.0
+Seremban,Electricity,2020,8,454.87
+Seremban,Fuel,2020,8,238.88
+Kuantan,Water,2020,8,104.11
+Kuantan,Electricity,2020,8,392.23
+Kuantan,Fuel,2020,8,102.77
+George Town,Water,2020,8,124.75
+George Town,Electricity,2020,8,365.88
+George Town,Fuel,2020,8,286.69
+Seberang Perai,Water,2020,8,78.21
+Seberang Perai,Electricity,2020,8,333.44
+Seberang Perai,Fuel,2020,8,164.34
+Ipoh,Water,2020,8,131.54
+Ipoh,Electricity,2020,8,258.07
+Ipoh,Fuel,2020,8,143.96
+Kangar,Water,2020,8,148.06
+Kangar,Electricity,2020,8,364.7
+Kangar,Fuel,2020,8,157.78
+Shah Alam,Water,2020,8,135.32
+Shah Alam,Electricity,2020,8,277.01
+Shah Alam,Fuel,2020,8,221.41
+Petaling Jaya,Water,2020,8,110.49
+Petaling Jaya,Electricity,2020,8,310.82
+Petaling Jaya,Fuel,2020,8,149.44
+Subang Jaya,Water,2020,8,131.23
+Subang Jaya,Electricity,2020,8,254.76
+Subang Jaya,Fuel,2020,8,142.36
+Klang,Water,2020,8,166.0
+Klang,Electricity,2020,8,279.3
+Klang,Fuel,2020,8,124.59
+Kuala Terengganu,Water,2020,8,128.54
+Kuala Terengganu,Electricity,2020,8,454.56
+Kuala Terengganu,Fuel,2020,8,145.88
+Kota Kinabalu,Water,2020,8,97.58
+Kota Kinabalu,Electricity,2020,8,354.76
+Kota Kinabalu,Fuel,2020,8,174.64
+Sandakan,Water,2020,8,106.74
+Sandakan,Electricity,2020,8,261.73
+Sandakan,Fuel,2020,8,224.03
+Tawau,Water,2020,8,162.13
+Tawau,Electricity,2020,8,273.7
+Tawau,Fuel,2020,8,243.58
+Kuching,Water,2020,8,110.69
+Kuching,Electricity,2020,8,271.96
+Kuching,Fuel,2020,8,178.62
+Miri,Water,2020,8,131.22
+Miri,Electricity,2020,8,224.99
+Miri,Fuel,2020,8,210.93
+Sibu,Water,2020,8,168.15
+Sibu,Electricity,2020,8,239.03
+Sibu,Fuel,2020,8,137.59
+Johor Bahru,Water,2020,9,129.04
+Johor Bahru,Electricity,2020,9,377.51
+Johor Bahru,Fuel,2020,9,114.83
+Iskandar Puteri,Water,2020,9,99.12
+Iskandar Puteri,Electricity,2020,9,343.14
+Iskandar Puteri,Fuel,2020,9,142.35
+Pasir Gudang,Water,2020,9,121.89
+Pasir Gudang,Electricity,2020,9,311.55
+Pasir Gudang,Fuel,2020,9,240.71
+Alor Setar,Water,2020,9,127.7
+Alor Setar,Electricity,2020,9,436.77
+Alor Setar,Fuel,2020,9,199.28
+Sungai Petani,Water,2020,9,124.92
+Sungai Petani,Electricity,2020,9,374.03
+Sungai Petani,Fuel,2020,9,244.3
+Kota Bharu,Water,2020,9,92.58
+Kota Bharu,Electricity,2020,9,233.25
+Kota Bharu,Fuel,2020,9,119.22
+Melaka City,Water,2020,9,155.49
+Melaka City,Electricity,2020,9,271.45
+Melaka City,Fuel,2020,9,225.29
+Seremban,Water,2020,9,155.35
+Seremban,Electricity,2020,9,239.12
+Seremban,Fuel,2020,9,214.92
+Kuantan,Water,2020,9,144.88
+Kuantan,Electricity,2020,9,406.39
+Kuantan,Fuel,2020,9,122.44
+George Town,Water,2020,9,92.1
+George Town,Electricity,2020,9,304.98
+George Town,Fuel,2020,9,106.83
+Seberang Perai,Water,2020,9,176.46
+Seberang Perai,Electricity,2020,9,288.91
+Seberang Perai,Fuel,2020,9,166.45
+Ipoh,Water,2020,9,79.96
+Ipoh,Electricity,2020,9,261.13
+Ipoh,Fuel,2020,9,181.59
+Kangar,Water,2020,9,158.36
+Kangar,Electricity,2020,9,325.88
+Kangar,Fuel,2020,9,164.2
+Shah Alam,Water,2020,9,126.18
+Shah Alam,Electricity,2020,9,354.43
+Shah Alam,Fuel,2020,9,255.25
+Petaling Jaya,Water,2020,9,161.0
+Petaling Jaya,Electricity,2020,9,272.13
+Petaling Jaya,Fuel,2020,9,161.42
+Subang Jaya,Water,2020,9,119.07
+Subang Jaya,Electricity,2020,9,353.88
+Subang Jaya,Fuel,2020,9,179.05
+Klang,Water,2020,9,163.7
+Klang,Electricity,2020,9,255.93
+Klang,Fuel,2020,9,148.84
+Kuala Terengganu,Water,2020,9,118.28
+Kuala Terengganu,Electricity,2020,9,427.13
+Kuala Terengganu,Fuel,2020,9,195.53
+Kota Kinabalu,Water,2020,9,120.1
+Kota Kinabalu,Electricity,2020,9,324.59
+Kota Kinabalu,Fuel,2020,9,163.35
+Sandakan,Water,2020,9,130.03
+Sandakan,Electricity,2020,9,226.33
+Sandakan,Fuel,2020,9,202.66
+Tawau,Water,2020,9,125.16
+Tawau,Electricity,2020,9,359.5
+Tawau,Fuel,2020,9,206.54
+Kuching,Water,2020,9,141.53
+Kuching,Electricity,2020,9,349.42
+Kuching,Fuel,2020,9,101.85
+Miri,Water,2020,9,84.54
+Miri,Electricity,2020,9,304.87
+Miri,Fuel,2020,9,226.76
+Sibu,Water,2020,9,122.03
+Sibu,Electricity,2020,9,316.88
+Sibu,Fuel,2020,9,253.99
+Johor Bahru,Water,2020,10,150.4
+Johor Bahru,Electricity,2020,10,400.68
+Johor Bahru,Fuel,2020,10,179.35
+Iskandar Puteri,Water,2020,10,153.63
+Iskandar Puteri,Electricity,2020,10,332.5
+Iskandar Puteri,Fuel,2020,10,257.1
+Pasir Gudang,Water,2020,10,110.52
+Pasir Gudang,Electricity,2020,10,375.83
+Pasir Gudang,Fuel,2020,10,155.51
+Alor Setar,Water,2020,10,133.18
+Alor Setar,Electricity,2020,10,323.95
+Alor Setar,Fuel,2020,10,226.5
+Sungai Petani,Water,2020,10,131.58
+Sungai Petani,Electricity,2020,10,366.47
+Sungai Petani,Fuel,2020,10,181.59
+Kota Bharu,Water,2020,10,183.96
+Kota Bharu,Electricity,2020,10,256.86
+Kota Bharu,Fuel,2020,10,214.18
+Melaka City,Water,2020,10,148.18
+Melaka City,Electricity,2020,10,324.58
+Melaka City,Fuel,2020,10,160.86
+Seremban,Water,2020,10,155.32
+Seremban,Electricity,2020,10,344.21
+Seremban,Fuel,2020,10,127.02
+Kuantan,Water,2020,10,121.8
+Kuantan,Electricity,2020,10,368.07
+Kuantan,Fuel,2020,10,138.17
+George Town,Water,2020,10,165.2
+George Town,Electricity,2020,10,415.77
+George Town,Fuel,2020,10,192.93
+Seberang Perai,Water,2020,10,156.04
+Seberang Perai,Electricity,2020,10,409.17
+Seberang Perai,Fuel,2020,10,162.99
+Ipoh,Water,2020,10,106.03
+Ipoh,Electricity,2020,10,322.44
+Ipoh,Fuel,2020,10,148.52
+Kangar,Water,2020,10,180.14
+Kangar,Electricity,2020,10,293.66
+Kangar,Fuel,2020,10,243.98
+Shah Alam,Water,2020,10,93.21
+Shah Alam,Electricity,2020,10,248.85
+Shah Alam,Fuel,2020,10,198.29
+Petaling Jaya,Water,2020,10,101.29
+Petaling Jaya,Electricity,2020,10,321.75
+Petaling Jaya,Fuel,2020,10,211.51
+Subang Jaya,Water,2020,10,131.45
+Subang Jaya,Electricity,2020,10,357.17
+Subang Jaya,Fuel,2020,10,253.83
+Klang,Water,2020,10,114.78
+Klang,Electricity,2020,10,265.3
+Klang,Fuel,2020,10,207.96
+Kuala Terengganu,Water,2020,10,115.88
+Kuala Terengganu,Electricity,2020,10,561.86
+Kuala Terengganu,Fuel,2020,10,281.27
+Kota Kinabalu,Water,2020,10,90.29
+Kota Kinabalu,Electricity,2020,10,294.5
+Kota Kinabalu,Fuel,2020,10,188.58
+Sandakan,Water,2020,10,130.79
+Sandakan,Electricity,2020,10,210.4
+Sandakan,Fuel,2020,10,224.0
+Tawau,Water,2020,10,86.73
+Tawau,Electricity,2020,10,320.62
+Tawau,Fuel,2020,10,266.56
+Kuching,Water,2020,10,99.68
+Kuching,Electricity,2020,10,427.89
+Kuching,Fuel,2020,10,162.34
+Miri,Water,2020,10,158.37
+Miri,Electricity,2020,10,377.72
+Miri,Fuel,2020,10,251.56
+Sibu,Water,2020,10,129.68
+Sibu,Electricity,2020,10,482.39
+Sibu,Fuel,2020,10,286.62
+Johor Bahru,Water,2020,11,168.26
+Johor Bahru,Electricity,2020,11,305.89
+Johor Bahru,Fuel,2020,11,155.4
+Iskandar Puteri,Water,2020,11,186.49
+Iskandar Puteri,Electricity,2020,11,306.98
+Iskandar Puteri,Fuel,2020,11,276.49
+Pasir Gudang,Water,2020,11,94.54
+Pasir Gudang,Electricity,2020,11,336.74
+Pasir Gudang,Fuel,2020,11,230.51
+Alor Setar,Water,2020,11,106.62
+Alor Setar,Electricity,2020,11,195.47
+Alor Setar,Fuel,2020,11,169.38
+Sungai Petani,Water,2020,11,156.1
+Sungai Petani,Electricity,2020,11,227.07
+Sungai Petani,Fuel,2020,11,129.12
+Kota Bharu,Water,2020,11,182.11
+Kota Bharu,Electricity,2020,11,233.08
+Kota Bharu,Fuel,2020,11,217.35
+Melaka City,Water,2020,11,128.47
+Melaka City,Electricity,2020,11,293.85
+Melaka City,Fuel,2020,11,234.67
+Seremban,Water,2020,11,121.78
+Seremban,Electricity,2020,11,292.54
+Seremban,Fuel,2020,11,252.51
+Kuantan,Water,2020,11,107.9
+Kuantan,Electricity,2020,11,293.39
+Kuantan,Fuel,2020,11,124.37
+George Town,Water,2020,11,173.96
+George Town,Electricity,2020,11,413.59
+George Town,Fuel,2020,11,240.65
+Seberang Perai,Water,2020,11,146.05
+Seberang Perai,Electricity,2020,11,361.05
+Seberang Perai,Fuel,2020,11,238.87
+Ipoh,Water,2020,11,109.01
+Ipoh,Electricity,2020,11,452.62
+Ipoh,Fuel,2020,11,364.66
+Kangar,Water,2020,11,134.34
+Kangar,Electricity,2020,11,395.16
+Kangar,Fuel,2020,11,142.35
+Shah Alam,Water,2020,11,92.5
+Shah Alam,Electricity,2020,11,290.98
+Shah Alam,Fuel,2020,11,248.4
+Petaling Jaya,Water,2020,11,163.33
+Petaling Jaya,Electricity,2020,11,400.46
+Petaling Jaya,Fuel,2020,11,178.49
+Subang Jaya,Water,2020,11,183.45
+Subang Jaya,Electricity,2020,11,434.28
+Subang Jaya,Fuel,2020,11,262.02
+Klang,Water,2020,11,157.37
+Klang,Electricity,2020,11,221.52
+Klang,Fuel,2020,11,156.93
+Kuala Terengganu,Water,2020,11,134.64
+Kuala Terengganu,Electricity,2020,11,403.83
+Kuala Terengganu,Fuel,2020,11,254.24
+Kota Kinabalu,Water,2020,11,88.83
+Kota Kinabalu,Electricity,2020,11,405.26
+Kota Kinabalu,Fuel,2020,11,165.12
+Sandakan,Water,2020,11,96.98
+Sandakan,Electricity,2020,11,461.88
+Sandakan,Fuel,2020,11,94.9
+Tawau,Water,2020,11,133.59
+Tawau,Electricity,2020,11,289.64
+Tawau,Fuel,2020,11,157.99
+Kuching,Water,2020,11,102.03
+Kuching,Electricity,2020,11,343.85
+Kuching,Fuel,2020,11,204.3
+Miri,Water,2020,11,129.39
+Miri,Electricity,2020,11,329.37
+Miri,Fuel,2020,11,132.52
+Sibu,Water,2020,11,159.28
+Sibu,Electricity,2020,11,277.42
+Sibu,Fuel,2020,11,113.33
+Johor Bahru,Water,2020,12,99.17
+Johor Bahru,Electricity,2020,12,377.6
+Johor Bahru,Fuel,2020,12,139.27
+Iskandar Puteri,Water,2020,12,96.92
+Iskandar Puteri,Electricity,2020,12,435.66
+Iskandar Puteri,Fuel,2020,12,232.36
+Pasir Gudang,Water,2020,12,87.27
+Pasir Gudang,Electricity,2020,12,323.14
+Pasir Gudang,Fuel,2020,12,226.13
+Alor Setar,Water,2020,12,161.26
+Alor Setar,Electricity,2020,12,268.32
+Alor Setar,Fuel,2020,12,208.66
+Sungai Petani,Water,2020,12,158.19
+Sungai Petani,Electricity,2020,12,406.59
+Sungai Petani,Fuel,2020,12,100.95
+Kota Bharu,Water,2020,12,94.0
+Kota Bharu,Electricity,2020,12,334.75
+Kota Bharu,Fuel,2020,12,222.41
+Melaka City,Water,2020,12,172.28
+Melaka City,Electricity,2020,12,409.15
+Melaka City,Fuel,2020,12,181.55
+Seremban,Water,2020,12,124.76
+Seremban,Electricity,2020,12,359.26
+Seremban,Fuel,2020,12,129.95
+Kuantan,Water,2020,12,151.22
+Kuantan,Electricity,2020,12,428.45
+Kuantan,Fuel,2020,12,177.7
+George Town,Water,2020,12,148.34
+George Town,Electricity,2020,12,338.87
+George Town,Fuel,2020,12,116.29
+Seberang Perai,Water,2020,12,173.19
+Seberang Perai,Electricity,2020,12,405.4
+Seberang Perai,Fuel,2020,12,178.27
+Ipoh,Water,2020,12,110.18
+Ipoh,Electricity,2020,12,374.74
+Ipoh,Fuel,2020,12,106.71
+Kangar,Water,2020,12,118.17
+Kangar,Electricity,2020,12,355.9
+Kangar,Fuel,2020,12,214.17
+Shah Alam,Water,2020,12,116.89
+Shah Alam,Electricity,2020,12,271.92
+Shah Alam,Fuel,2020,12,174.63
+Petaling Jaya,Water,2020,12,161.83
+Petaling Jaya,Electricity,2020,12,355.33
+Petaling Jaya,Fuel,2020,12,201.0
+Subang Jaya,Water,2020,12,110.12
+Subang Jaya,Electricity,2020,12,414.27
+Subang Jaya,Fuel,2020,12,126.85
+Klang,Water,2020,12,170.42
+Klang,Electricity,2020,12,250.05
+Klang,Fuel,2020,12,224.45
+Kuala Terengganu,Water,2020,12,154.89
+Kuala Terengganu,Electricity,2020,12,383.58
+Kuala Terengganu,Fuel,2020,12,194.44
+Kota Kinabalu,Water,2020,12,91.47
+Kota Kinabalu,Electricity,2020,12,407.22
+Kota Kinabalu,Fuel,2020,12,240.31
+Sandakan,Water,2020,12,157.72
+Sandakan,Electricity,2020,12,293.3
+Sandakan,Fuel,2020,12,129.56
+Tawau,Water,2020,12,81.87
+Tawau,Electricity,2020,12,348.51
+Tawau,Fuel,2020,12,133.11
+Kuching,Water,2020,12,188.71
+Kuching,Electricity,2020,12,427.32
+Kuching,Fuel,2020,12,161.94
+Miri,Water,2020,12,94.17
+Miri,Electricity,2020,12,202.27
+Miri,Fuel,2020,12,119.54
+Sibu,Water,2020,12,103.65
+Sibu,Electricity,2020,12,415.61
+Sibu,Fuel,2020,12,278.13
+Johor Bahru,Water,2021,1,140.87
+Johor Bahru,Electricity,2021,1,364.71
+Johor Bahru,Fuel,2021,1,137.68
+Iskandar Puteri,Water,2021,1,113.92
+Iskandar Puteri,Electricity,2021,1,217.47
+Iskandar Puteri,Fuel,2021,1,184.26
+Pasir Gudang,Water,2021,1,147.61
+Pasir Gudang,Electricity,2021,1,345.47
+Pasir Gudang,Fuel,2021,1,244.08
+Alor Setar,Water,2021,1,99.57
+Alor Setar,Electricity,2021,1,401.31
+Alor Setar,Fuel,2021,1,281.44
+Sungai Petani,Water,2021,1,112.86
+Sungai Petani,Electricity,2021,1,228.8
+Sungai Petani,Fuel,2021,1,113.28
+Kota Bharu,Water,2021,1,116.33
+Kota Bharu,Electricity,2021,1,307.63
+Kota Bharu,Fuel,2021,1,169.62
+Melaka City,Water,2021,1,132.69
+Melaka City,Electricity,2021,1,247.51
+Melaka City,Fuel,2021,1,225.21
+Seremban,Water,2021,1,106.38
+Seremban,Electricity,2021,1,316.97
+Seremban,Fuel,2021,1,272.55
+Kuantan,Water,2021,1,136.49
+Kuantan,Electricity,2021,1,205.02
+Kuantan,Fuel,2021,1,194.57
+George Town,Water,2021,1,96.47
+George Town,Electricity,2021,1,319.25
+George Town,Fuel,2021,1,217.81
+Seberang Perai,Water,2021,1,135.01
+Seberang Perai,Electricity,2021,1,392.36
+Seberang Perai,Fuel,2021,1,193.23
+Ipoh,Water,2021,1,133.9
+Ipoh,Electricity,2021,1,435.36
+Ipoh,Fuel,2021,1,159.08
+Kangar,Water,2021,1,185.98
+Kangar,Electricity,2021,1,243.59
+Kangar,Fuel,2021,1,249.22
+Shah Alam,Water,2021,1,144.82
+Shah Alam,Electricity,2021,1,258.21
+Shah Alam,Fuel,2021,1,129.16
+Petaling Jaya,Water,2021,1,178.08
+Petaling Jaya,Electricity,2021,1,336.77
+Petaling Jaya,Fuel,2021,1,248.15
+Subang Jaya,Water,2021,1,127.62
+Subang Jaya,Electricity,2021,1,336.39
+Subang Jaya,Fuel,2021,1,190.1
+Klang,Water,2021,1,132.52
+Klang,Electricity,2021,1,305.01
+Klang,Fuel,2021,1,211.69
+Kuala Terengganu,Water,2021,1,146.21
+Kuala Terengganu,Electricity,2021,1,339.17
+Kuala Terengganu,Fuel,2021,1,249.55
+Kota Kinabalu,Water,2021,1,149.78
+Kota Kinabalu,Electricity,2021,1,293.48
+Kota Kinabalu,Fuel,2021,1,238.83
+Sandakan,Water,2021,1,109.83
+Sandakan,Electricity,2021,1,342.19
+Sandakan,Fuel,2021,1,191.66
+Tawau,Water,2021,1,85.85
+Tawau,Electricity,2021,1,215.9
+Tawau,Fuel,2021,1,150.52
+Kuching,Water,2021,1,119.79
+Kuching,Electricity,2021,1,248.66
+Kuching,Fuel,2021,1,189.49
+Miri,Water,2021,1,121.45
+Miri,Electricity,2021,1,349.74
+Miri,Fuel,2021,1,200.44
+Sibu,Water,2021,1,135.56
+Sibu,Electricity,2021,1,327.34
+Sibu,Fuel,2021,1,110.95
+Johor Bahru,Water,2021,2,150.07
+Johor Bahru,Electricity,2021,2,322.49
+Johor Bahru,Fuel,2021,2,149.0
+Iskandar Puteri,Water,2021,2,199.95
+Iskandar Puteri,Electricity,2021,2,353.81
+Iskandar Puteri,Fuel,2021,2,173.27
+Pasir Gudang,Water,2021,2,140.01
+Pasir Gudang,Electricity,2021,2,322.46
+Pasir Gudang,Fuel,2021,2,222.23
+Alor Setar,Water,2021,2,95.47
+Alor Setar,Electricity,2021,2,369.86
+Alor Setar,Fuel,2021,2,183.55
+Sungai Petani,Water,2021,2,153.36
+Sungai Petani,Electricity,2021,2,535.29
+Sungai Petani,Fuel,2021,2,147.02
+Kota Bharu,Water,2021,2,151.13
+Kota Bharu,Electricity,2021,2,220.63
+Kota Bharu,Fuel,2021,2,134.8
+Melaka City,Water,2021,2,143.71
+Melaka City,Electricity,2021,2,391.59
+Melaka City,Fuel,2021,2,284.15
+Seremban,Water,2021,2,124.55
+Seremban,Electricity,2021,2,442.66
+Seremban,Fuel,2021,2,215.95
+Kuantan,Water,2021,2,125.88
+Kuantan,Electricity,2021,2,431.83
+Kuantan,Fuel,2021,2,139.94
+George Town,Water,2021,2,91.79
+George Town,Electricity,2021,2,419.69
+George Town,Fuel,2021,2,149.9
+Seberang Perai,Water,2021,2,136.3
+Seberang Perai,Electricity,2021,2,332.74
+Seberang Perai,Fuel,2021,2,180.94
+Ipoh,Water,2021,2,146.15
+Ipoh,Electricity,2021,2,278.65
+Ipoh,Fuel,2021,2,95.23
+Kangar,Water,2021,2,149.39
+Kangar,Electricity,2021,2,288.15
+Kangar,Fuel,2021,2,133.52
+Shah Alam,Water,2021,2,138.78
+Shah Alam,Electricity,2021,2,291.64
+Shah Alam,Fuel,2021,2,150.77
+Petaling Jaya,Water,2021,2,138.46
+Petaling Jaya,Electricity,2021,2,363.13
+Petaling Jaya,Fuel,2021,2,154.69
+Subang Jaya,Water,2021,2,146.15
+Subang Jaya,Electricity,2021,2,224.46
+Subang Jaya,Fuel,2021,2,195.76
+Klang,Water,2021,2,139.49
+Klang,Electricity,2021,2,293.89
+Klang,Fuel,2021,2,172.47
+Kuala Terengganu,Water,2021,2,117.4
+Kuala Terengganu,Electricity,2021,2,289.62
+Kuala Terengganu,Fuel,2021,2,192.65
+Kota Kinabalu,Water,2021,2,165.45
+Kota Kinabalu,Electricity,2021,2,273.85
+Kota Kinabalu,Fuel,2021,2,206.97
+Sandakan,Water,2021,2,160.81
+Sandakan,Electricity,2021,2,318.67
+Sandakan,Fuel,2021,2,107.64
+Tawau,Water,2021,2,127.59
+Tawau,Electricity,2021,2,311.17
+Tawau,Fuel,2021,2,220.58
+Kuching,Water,2021,2,141.53
+Kuching,Electricity,2021,2,410.04
+Kuching,Fuel,2021,2,124.08
+Miri,Water,2021,2,82.12
+Miri,Electricity,2021,2,289.02
+Miri,Fuel,2021,2,254.31
+Sibu,Water,2021,2,82.17
+Sibu,Electricity,2021,2,216.01
+Sibu,Fuel,2021,2,273.49
+Johor Bahru,Water,2021,3,86.77
+Johor Bahru,Electricity,2021,3,229.77
+Johor Bahru,Fuel,2021,3,121.61
+Iskandar Puteri,Water,2021,3,103.41
+Iskandar Puteri,Electricity,2021,3,347.22
+Iskandar Puteri,Fuel,2021,3,145.28
+Pasir Gudang,Water,2021,3,116.59
+Pasir Gudang,Electricity,2021,3,311.25
+Pasir Gudang,Fuel,2021,3,127.3
+Alor Setar,Water,2021,3,126.46
+Alor Setar,Electricity,2021,3,326.83
+Alor Setar,Fuel,2021,3,231.31
+Sungai Petani,Water,2021,3,118.76
+Sungai Petani,Electricity,2021,3,441.84
+Sungai Petani,Fuel,2021,3,204.42
+Kota Bharu,Water,2021,3,135.52
+Kota Bharu,Electricity,2021,3,333.27
+Kota Bharu,Fuel,2021,3,195.86
+Melaka City,Water,2021,3,158.46
+Melaka City,Electricity,2021,3,396.61
+Melaka City,Fuel,2021,3,118.01
+Seremban,Water,2021,3,163.6
+Seremban,Electricity,2021,3,254.98
+Seremban,Fuel,2021,3,134.54
+Kuantan,Water,2021,3,148.06
+Kuantan,Electricity,2021,3,342.46
+Kuantan,Fuel,2021,3,142.68
+George Town,Water,2021,3,132.5
+George Town,Electricity,2021,3,298.44
+George Town,Fuel,2021,3,213.54
+Seberang Perai,Water,2021,3,98.15
+Seberang Perai,Electricity,2021,3,389.91
+Seberang Perai,Fuel,2021,3,226.06
+Ipoh,Water,2021,3,162.78
+Ipoh,Electricity,2021,3,370.16
+Ipoh,Fuel,2021,3,249.64
+Kangar,Water,2021,3,112.45
+Kangar,Electricity,2021,3,290.07
+Kangar,Fuel,2021,3,186.89
+Shah Alam,Water,2021,3,184.48
+Shah Alam,Electricity,2021,3,280.9
+Shah Alam,Fuel,2021,3,125.46
+Petaling Jaya,Water,2021,3,103.52
+Petaling Jaya,Electricity,2021,3,212.9
+Petaling Jaya,Fuel,2021,3,193.11
+Subang Jaya,Water,2021,3,125.56
+Subang Jaya,Electricity,2021,3,296.66
+Subang Jaya,Fuel,2021,3,126.34
+Klang,Water,2021,3,129.19
+Klang,Electricity,2021,3,197.39
+Klang,Fuel,2021,3,214.05
+Kuala Terengganu,Water,2021,3,132.7
+Kuala Terengganu,Electricity,2021,3,303.43
+Kuala Terengganu,Fuel,2021,3,213.79
+Kota Kinabalu,Water,2021,3,111.63
+Kota Kinabalu,Electricity,2021,3,308.5
+Kota Kinabalu,Fuel,2021,3,103.95
+Sandakan,Water,2021,3,80.59
+Sandakan,Electricity,2021,3,217.55
+Sandakan,Fuel,2021,3,145.39
+Tawau,Water,2021,3,89.62
+Tawau,Electricity,2021,3,235.86
+Tawau,Fuel,2021,3,217.02
+Kuching,Water,2021,3,130.36
+Kuching,Electricity,2021,3,236.1
+Kuching,Fuel,2021,3,239.57
+Miri,Water,2021,3,172.19
+Miri,Electricity,2021,3,376.43
+Miri,Fuel,2021,3,141.75
+Sibu,Water,2021,3,126.56
+Sibu,Electricity,2021,3,235.36
+Sibu,Fuel,2021,3,196.9
+Johor Bahru,Water,2021,4,90.88
+Johor Bahru,Electricity,2021,4,313.71
+Johor Bahru,Fuel,2021,4,202.81
+Iskandar Puteri,Water,2021,4,122.55
+Iskandar Puteri,Electricity,2021,4,277.08
+Iskandar Puteri,Fuel,2021,4,134.37
+Pasir Gudang,Water,2021,4,95.25
+Pasir Gudang,Electricity,2021,4,410.87
+Pasir Gudang,Fuel,2021,4,127.28
+Alor Setar,Water,2021,4,145.18
+Alor Setar,Electricity,2021,4,429.28
+Alor Setar,Fuel,2021,4,201.44
+Sungai Petani,Water,2021,4,105.92
+Sungai Petani,Electricity,2021,4,427.42
+Sungai Petani,Fuel,2021,4,129.57
+Kota Bharu,Water,2021,4,119.91
+Kota Bharu,Electricity,2021,4,419.73
+Kota Bharu,Fuel,2021,4,225.24
+Melaka City,Water,2021,4,162.88
+Melaka City,Electricity,2021,4,263.16
+Melaka City,Fuel,2021,4,253.1
+Seremban,Water,2021,4,136.82
+Seremban,Electricity,2021,4,298.45
+Seremban,Fuel,2021,4,200.55
+Kuantan,Water,2021,4,89.34
+Kuantan,Electricity,2021,4,352.18
+Kuantan,Fuel,2021,4,259.49
+George Town,Water,2021,4,132.74
+George Town,Electricity,2021,4,282.8
+George Town,Fuel,2021,4,142.61
+Seberang Perai,Water,2021,4,79.81
+Seberang Perai,Electricity,2021,4,439.02
+Seberang Perai,Fuel,2021,4,175.43
+Ipoh,Water,2021,4,97.42
+Ipoh,Electricity,2021,4,283.99
+Ipoh,Fuel,2021,4,150.32
+Kangar,Water,2021,4,113.07
+Kangar,Electricity,2021,4,315.13
+Kangar,Fuel,2021,4,238.18
+Shah Alam,Water,2021,4,139.31
+Shah Alam,Electricity,2021,4,373.7
+Shah Alam,Fuel,2021,4,228.21
+Petaling Jaya,Water,2021,4,160.26
+Petaling Jaya,Electricity,2021,4,294.81
+Petaling Jaya,Fuel,2021,4,212.72
+Subang Jaya,Water,2021,4,151.22
+Subang Jaya,Electricity,2021,4,420.86
+Subang Jaya,Fuel,2021,4,187.16
+Klang,Water,2021,4,146.08
+Klang,Electricity,2021,4,319.87
+Klang,Fuel,2021,4,230.97
+Kuala Terengganu,Water,2021,4,148.46
+Kuala Terengganu,Electricity,2021,4,357.48
+Kuala Terengganu,Fuel,2021,4,195.13
+Kota Kinabalu,Water,2021,4,151.96
+Kota Kinabalu,Electricity,2021,4,359.08
+Kota Kinabalu,Fuel,2021,4,159.1
+Sandakan,Water,2021,4,122.37
+Sandakan,Electricity,2021,4,459.3
+Sandakan,Fuel,2021,4,314.57
+Tawau,Water,2021,4,93.03
+Tawau,Electricity,2021,4,243.01
+Tawau,Fuel,2021,4,170.38
+Kuching,Water,2021,4,119.19
+Kuching,Electricity,2021,4,333.11
+Kuching,Fuel,2021,4,182.97
+Miri,Water,2021,4,135.18
+Miri,Electricity,2021,4,285.09
+Miri,Fuel,2021,4,204.4
+Sibu,Water,2021,4,106.23
+Sibu,Electricity,2021,4,336.52
+Sibu,Fuel,2021,4,162.21
+Johor Bahru,Water,2021,5,125.63
+Johor Bahru,Electricity,2021,5,240.34
+Johor Bahru,Fuel,2021,5,222.35
+Iskandar Puteri,Water,2021,5,159.78
+Iskandar Puteri,Electricity,2021,5,292.28
+Iskandar Puteri,Fuel,2021,5,270.03
+Pasir Gudang,Water,2021,5,134.71
+Pasir Gudang,Electricity,2021,5,302.4
+Pasir Gudang,Fuel,2021,5,147.63
+Alor Setar,Water,2021,5,150.63
+Alor Setar,Electricity,2021,5,255.29
+Alor Setar,Fuel,2021,5,257.48
+Sungai Petani,Water,2021,5,85.35
+Sungai Petani,Electricity,2021,5,337.88
+Sungai Petani,Fuel,2021,5,200.72
+Kota Bharu,Water,2021,5,152.81
+Kota Bharu,Electricity,2021,5,373.47
+Kota Bharu,Fuel,2021,5,201.45
+Melaka City,Water,2021,5,100.37
+Melaka City,Electricity,2021,5,224.07
+Melaka City,Fuel,2021,5,324.92
+Seremban,Water,2021,5,83.09
+Seremban,Electricity,2021,5,256.78
+Seremban,Fuel,2021,5,253.57
+Kuantan,Water,2021,5,114.03
+Kuantan,Electricity,2021,5,261.66
+Kuantan,Fuel,2021,5,109.01
+George Town,Water,2021,5,144.55
+George Town,Electricity,2021,5,403.5
+George Town,Fuel,2021,5,195.47
+Seberang Perai,Water,2021,5,109.72
+Seberang Perai,Electricity,2021,5,407.5
+Seberang Perai,Fuel,2021,5,256.0
+Ipoh,Water,2021,5,105.82
+Ipoh,Electricity,2021,5,212.78
+Ipoh,Fuel,2021,5,193.42
+Kangar,Water,2021,5,98.32
+Kangar,Electricity,2021,5,256.33
+Kangar,Fuel,2021,5,256.26
+Shah Alam,Water,2021,5,99.33
+Shah Alam,Electricity,2021,5,219.55
+Shah Alam,Fuel,2021,5,181.97
+Petaling Jaya,Water,2021,5,104.5
+Petaling Jaya,Electricity,2021,5,347.82
+Petaling Jaya,Fuel,2021,5,163.97
+Subang Jaya,Water,2021,5,140.83
+Subang Jaya,Electricity,2021,5,257.71
+Subang Jaya,Fuel,2021,5,245.79
+Klang,Water,2021,5,86.04
+Klang,Electricity,2021,5,223.66
+Klang,Fuel,2021,5,178.45
+Kuala Terengganu,Water,2021,5,117.75
+Kuala Terengganu,Electricity,2021,5,245.29
+Kuala Terengganu,Fuel,2021,5,126.54
+Kota Kinabalu,Water,2021,5,110.81
+Kota Kinabalu,Electricity,2021,5,298.14
+Kota Kinabalu,Fuel,2021,5,141.96
+Sandakan,Water,2021,5,130.05
+Sandakan,Electricity,2021,5,279.5
+Sandakan,Fuel,2021,5,350.36
+Tawau,Water,2021,5,172.0
+Tawau,Electricity,2021,5,459.87
+Tawau,Fuel,2021,5,267.95
+Kuching,Water,2021,5,116.63
+Kuching,Electricity,2021,5,249.16
+Kuching,Fuel,2021,5,247.71
+Miri,Water,2021,5,208.13
+Miri,Electricity,2021,5,219.3
+Miri,Fuel,2021,5,157.28
+Sibu,Water,2021,5,121.27
+Sibu,Electricity,2021,5,318.68
+Sibu,Fuel,2021,5,243.19
+Johor Bahru,Water,2021,6,136.61
+Johor Bahru,Electricity,2021,6,235.27
+Johor Bahru,Fuel,2021,6,125.71
+Iskandar Puteri,Water,2021,6,141.15
+Iskandar Puteri,Electricity,2021,6,398.49
+Iskandar Puteri,Fuel,2021,6,143.13
+Pasir Gudang,Water,2021,6,110.93
+Pasir Gudang,Electricity,2021,6,211.99
+Pasir Gudang,Fuel,2021,6,98.17
+Alor Setar,Water,2021,6,154.68
+Alor Setar,Electricity,2021,6,360.83
+Alor Setar,Fuel,2021,6,127.04
+Sungai Petani,Water,2021,6,92.5
+Sungai Petani,Electricity,2021,6,233.57
+Sungai Petani,Fuel,2021,6,222.41
+Kota Bharu,Water,2021,6,116.98
+Kota Bharu,Electricity,2021,6,198.77
+Kota Bharu,Fuel,2021,6,179.33
+Melaka City,Water,2021,6,86.81
+Melaka City,Electricity,2021,6,265.63
+Melaka City,Fuel,2021,6,181.8
+Seremban,Water,2021,6,75.31
+Seremban,Electricity,2021,6,215.34
+Seremban,Fuel,2021,6,249.88
+Kuantan,Water,2021,6,148.04
+Kuantan,Electricity,2021,6,277.14
+Kuantan,Fuel,2021,6,240.99
+George Town,Water,2021,6,118.22
+George Town,Electricity,2021,6,199.84
+George Town,Fuel,2021,6,190.07
+Seberang Perai,Water,2021,6,101.76
+Seberang Perai,Electricity,2021,6,437.91
+Seberang Perai,Fuel,2021,6,199.2
+Ipoh,Water,2021,6,154.84
+Ipoh,Electricity,2021,6,232.56
+Ipoh,Fuel,2021,6,192.92
+Kangar,Water,2021,6,99.33
+Kangar,Electricity,2021,6,303.62
+Kangar,Fuel,2021,6,279.42
+Shah Alam,Water,2021,6,87.29
+Shah Alam,Electricity,2021,6,232.13
+Shah Alam,Fuel,2021,6,172.67
+Petaling Jaya,Water,2021,6,87.33
+Petaling Jaya,Electricity,2021,6,383.52
+Petaling Jaya,Fuel,2021,6,213.72
+Subang Jaya,Water,2021,6,145.57
+Subang Jaya,Electricity,2021,6,282.81
+Subang Jaya,Fuel,2021,6,238.41
+Klang,Water,2021,6,147.57
+Klang,Electricity,2021,6,254.61
+Klang,Fuel,2021,6,133.43
+Kuala Terengganu,Water,2021,6,158.05
+Kuala Terengganu,Electricity,2021,6,397.94
+Kuala Terengganu,Fuel,2021,6,135.64
+Kota Kinabalu,Water,2021,6,104.45
+Kota Kinabalu,Electricity,2021,6,338.07
+Kota Kinabalu,Fuel,2021,6,178.45
+Sandakan,Water,2021,6,126.68
+Sandakan,Electricity,2021,6,358.2
+Sandakan,Fuel,2021,6,184.17
+Tawau,Water,2021,6,155.95
+Tawau,Electricity,2021,6,408.09
+Tawau,Fuel,2021,6,204.79
+Kuching,Water,2021,6,117.69
+Kuching,Electricity,2021,6,289.78
+Kuching,Fuel,2021,6,242.82
+Miri,Water,2021,6,121.39
+Miri,Electricity,2021,6,350.28
+Miri,Fuel,2021,6,140.92
+Sibu,Water,2021,6,96.03
+Sibu,Electricity,2021,6,345.99
+Sibu,Fuel,2021,6,191.68
+Johor Bahru,Water,2021,7,93.3
+Johor Bahru,Electricity,2021,7,313.61
+Johor Bahru,Fuel,2021,7,230.1
+Iskandar Puteri,Water,2021,7,87.32
+Iskandar Puteri,Electricity,2021,7,269.02
+Iskandar Puteri,Fuel,2021,7,139.32
+Pasir Gudang,Water,2021,7,132.55
+Pasir Gudang,Electricity,2021,7,344.57
+Pasir Gudang,Fuel,2021,7,148.74
+Alor Setar,Water,2021,7,167.88
+Alor Setar,Electricity,2021,7,323.95
+Alor Setar,Fuel,2021,7,187.78
+Sungai Petani,Water,2021,7,151.82
+Sungai Petani,Electricity,2021,7,469.17
+Sungai Petani,Fuel,2021,7,222.42
+Kota Bharu,Water,2021,7,97.27
+Kota Bharu,Electricity,2021,7,193.58
+Kota Bharu,Fuel,2021,7,194.3
+Melaka City,Water,2021,7,167.76
+Melaka City,Electricity,2021,7,319.54
+Melaka City,Fuel,2021,7,185.06
+Seremban,Water,2021,7,101.37
+Seremban,Electricity,2021,7,304.2
+Seremban,Fuel,2021,7,260.1
+Kuantan,Water,2021,7,117.82
+Kuantan,Electricity,2021,7,279.25
+Kuantan,Fuel,2021,7,282.85
+George Town,Water,2021,7,124.42
+George Town,Electricity,2021,7,293.27
+George Town,Fuel,2021,7,144.87
+Seberang Perai,Water,2021,7,148.09
+Seberang Perai,Electricity,2021,7,359.71
+Seberang Perai,Fuel,2021,7,275.74
+Ipoh,Water,2021,7,147.19
+Ipoh,Electricity,2021,7,350.92
+Ipoh,Fuel,2021,7,155.13
+Kangar,Water,2021,7,91.46
+Kangar,Electricity,2021,7,330.24
+Kangar,Fuel,2021,7,216.11
+Shah Alam,Water,2021,7,217.49
+Shah Alam,Electricity,2021,7,341.68
+Shah Alam,Fuel,2021,7,129.41
+Petaling Jaya,Water,2021,7,153.78
+Petaling Jaya,Electricity,2021,7,298.08
+Petaling Jaya,Fuel,2021,7,203.71
+Subang Jaya,Water,2021,7,136.46
+Subang Jaya,Electricity,2021,7,355.08
+Subang Jaya,Fuel,2021,7,203.91
+Klang,Water,2021,7,155.16
+Klang,Electricity,2021,7,308.7
+Klang,Fuel,2021,7,204.2
+Kuala Terengganu,Water,2021,7,142.11
+Kuala Terengganu,Electricity,2021,7,392.82
+Kuala Terengganu,Fuel,2021,7,105.34
+Kota Kinabalu,Water,2021,7,130.33
+Kota Kinabalu,Electricity,2021,7,248.37
+Kota Kinabalu,Fuel,2021,7,213.87
+Sandakan,Water,2021,7,83.68
+Sandakan,Electricity,2021,7,339.81
+Sandakan,Fuel,2021,7,146.5
+Tawau,Water,2021,7,138.31
+Tawau,Electricity,2021,7,233.51
+Tawau,Fuel,2021,7,199.01
+Kuching,Water,2021,7,127.18
+Kuching,Electricity,2021,7,342.26
+Kuching,Fuel,2021,7,234.16
+Miri,Water,2021,7,131.8
+Miri,Electricity,2021,7,208.7
+Miri,Fuel,2021,7,181.15
+Sibu,Water,2021,7,120.21
+Sibu,Electricity,2021,7,374.66
+Sibu,Fuel,2021,7,316.46
+Johor Bahru,Water,2021,8,168.73
+Johor Bahru,Electricity,2021,8,202.25
+Johor Bahru,Fuel,2021,8,240.45
+Iskandar Puteri,Water,2021,8,163.96
+Iskandar Puteri,Electricity,2021,8,314.1
+Iskandar Puteri,Fuel,2021,8,262.23
+Pasir Gudang,Water,2021,8,118.93
+Pasir Gudang,Electricity,2021,8,315.1
+Pasir Gudang,Fuel,2021,8,141.72
+Alor Setar,Water,2021,8,137.75
+Alor Setar,Electricity,2021,8,316.59
+Alor Setar,Fuel,2021,8,244.45
+Sungai Petani,Water,2021,8,87.51
+Sungai Petani,Electricity,2021,8,357.45
+Sungai Petani,Fuel,2021,8,166.58
+Kota Bharu,Water,2021,8,126.56
+Kota Bharu,Electricity,2021,8,291.6
+Kota Bharu,Fuel,2021,8,199.15
+Melaka City,Water,2021,8,191.54
+Melaka City,Electricity,2021,8,364.88
+Melaka City,Fuel,2021,8,121.64
+Seremban,Water,2021,8,96.06
+Seremban,Electricity,2021,8,340.67
+Seremban,Fuel,2021,8,253.65
+Kuantan,Water,2021,8,161.96
+Kuantan,Electricity,2021,8,330.6
+Kuantan,Fuel,2021,8,204.57
+George Town,Water,2021,8,97.75
+George Town,Electricity,2021,8,452.31
+George Town,Fuel,2021,8,211.77
+Seberang Perai,Water,2021,8,113.24
+Seberang Perai,Electricity,2021,8,366.7
+Seberang Perai,Fuel,2021,8,209.74
+Ipoh,Water,2021,8,108.3
+Ipoh,Electricity,2021,8,290.25
+Ipoh,Fuel,2021,8,172.88
+Kangar,Water,2021,8,152.48
+Kangar,Electricity,2021,8,240.41
+Kangar,Fuel,2021,8,183.49
+Shah Alam,Water,2021,8,155.79
+Shah Alam,Electricity,2021,8,291.06
+Shah Alam,Fuel,2021,8,325.33
+Petaling Jaya,Water,2021,8,101.56
+Petaling Jaya,Electricity,2021,8,309.83
+Petaling Jaya,Fuel,2021,8,125.71
+Subang Jaya,Water,2021,8,118.01
+Subang Jaya,Electricity,2021,8,311.65
+Subang Jaya,Fuel,2021,8,159.36
+Klang,Water,2021,8,153.87
+Klang,Electricity,2021,8,428.77
+Klang,Fuel,2021,8,253.71
+Kuala Terengganu,Water,2021,8,109.74
+Kuala Terengganu,Electricity,2021,8,194.28
+Kuala Terengganu,Fuel,2021,8,208.2
+Kota Kinabalu,Water,2021,8,97.36
+Kota Kinabalu,Electricity,2021,8,218.23
+Kota Kinabalu,Fuel,2021,8,270.0
+Sandakan,Water,2021,8,118.28
+Sandakan,Electricity,2021,8,366.87
+Sandakan,Fuel,2021,8,130.25
+Tawau,Water,2021,8,124.75
+Tawau,Electricity,2021,8,404.59
+Tawau,Fuel,2021,8,235.81
+Kuching,Water,2021,8,164.93
+Kuching,Electricity,2021,8,277.95
+Kuching,Fuel,2021,8,101.65
+Miri,Water,2021,8,213.65
+Miri,Electricity,2021,8,229.81
+Miri,Fuel,2021,8,140.36
+Sibu,Water,2021,8,159.27
+Sibu,Electricity,2021,8,504.04
+Sibu,Fuel,2021,8,239.64
+Johor Bahru,Water,2021,9,117.86
+Johor Bahru,Electricity,2021,9,454.38
+Johor Bahru,Fuel,2021,9,263.25
+Iskandar Puteri,Water,2021,9,125.03
+Iskandar Puteri,Electricity,2021,9,376.29
+Iskandar Puteri,Fuel,2021,9,161.6
+Pasir Gudang,Water,2021,9,150.86
+Pasir Gudang,Electricity,2021,9,285.94
+Pasir Gudang,Fuel,2021,9,184.45
+Alor Setar,Water,2021,9,130.76
+Alor Setar,Electricity,2021,9,244.06
+Alor Setar,Fuel,2021,9,203.95
+Sungai Petani,Water,2021,9,165.47
+Sungai Petani,Electricity,2021,9,453.62
+Sungai Petani,Fuel,2021,9,155.04
+Kota Bharu,Water,2021,9,130.64
+Kota Bharu,Electricity,2021,9,406.03
+Kota Bharu,Fuel,2021,9,211.06
+Melaka City,Water,2021,9,146.15
+Melaka City,Electricity,2021,9,400.9
+Melaka City,Fuel,2021,9,227.37
+Seremban,Water,2021,9,117.3
+Seremban,Electricity,2021,9,275.57
+Seremban,Fuel,2021,9,136.92
+Kuantan,Water,2021,9,173.75
+Kuantan,Electricity,2021,9,361.06
+Kuantan,Fuel,2021,9,209.39
+George Town,Water,2021,9,117.71
+George Town,Electricity,2021,9,417.39
+George Town,Fuel,2021,9,189.28
+Seberang Perai,Water,2021,9,157.4
+Seberang Perai,Electricity,2021,9,381.63
+Seberang Perai,Fuel,2021,9,207.79
+Ipoh,Water,2021,9,151.43
+Ipoh,Electricity,2021,9,466.41
+Ipoh,Fuel,2021,9,163.37
+Kangar,Water,2021,9,181.2
+Kangar,Electricity,2021,9,326.64
+Kangar,Fuel,2021,9,242.61
+Shah Alam,Water,2021,9,118.74
+Shah Alam,Electricity,2021,9,266.63
+Shah Alam,Fuel,2021,9,125.74
+Petaling Jaya,Water,2021,9,95.81
+Petaling Jaya,Electricity,2021,9,305.19
+Petaling Jaya,Fuel,2021,9,93.45
+Subang Jaya,Water,2021,9,127.93
+Subang Jaya,Electricity,2021,9,367.53
+Subang Jaya,Fuel,2021,9,165.33
+Klang,Water,2021,9,114.48
+Klang,Electricity,2021,9,260.46
+Klang,Fuel,2021,9,241.73
+Kuala Terengganu,Water,2021,9,104.98
+Kuala Terengganu,Electricity,2021,9,348.96
+Kuala Terengganu,Fuel,2021,9,177.22
+Kota Kinabalu,Water,2021,9,149.76
+Kota Kinabalu,Electricity,2021,9,368.94
+Kota Kinabalu,Fuel,2021,9,121.48
+Sandakan,Water,2021,9,150.44
+Sandakan,Electricity,2021,9,220.51
+Sandakan,Fuel,2021,9,150.18
+Tawau,Water,2021,9,121.89
+Tawau,Electricity,2021,9,384.88
+Tawau,Fuel,2021,9,104.73
+Kuching,Water,2021,9,140.24
+Kuching,Electricity,2021,9,383.59
+Kuching,Fuel,2021,9,182.37
+Miri,Water,2021,9,146.68
+Miri,Electricity,2021,9,292.3
+Miri,Fuel,2021,9,229.05
+Sibu,Water,2021,9,108.78
+Sibu,Electricity,2021,9,348.3
+Sibu,Fuel,2021,9,209.39
+Johor Bahru,Water,2021,10,112.26
+Johor Bahru,Electricity,2021,10,353.08
+Johor Bahru,Fuel,2021,10,177.9
+Iskandar Puteri,Water,2021,10,117.55
+Iskandar Puteri,Electricity,2021,10,298.31
+Iskandar Puteri,Fuel,2021,10,172.0
+Pasir Gudang,Water,2021,10,86.63
+Pasir Gudang,Electricity,2021,10,302.25
+Pasir Gudang,Fuel,2021,10,163.61
+Alor Setar,Water,2021,10,102.92
+Alor Setar,Electricity,2021,10,311.27
+Alor Setar,Fuel,2021,10,167.86
+Sungai Petani,Water,2021,10,184.71
+Sungai Petani,Electricity,2021,10,398.49
+Sungai Petani,Fuel,2021,10,208.24
+Kota Bharu,Water,2021,10,175.95
+Kota Bharu,Electricity,2021,10,231.2
+Kota Bharu,Fuel,2021,10,133.57
+Melaka City,Water,2021,10,97.26
+Melaka City,Electricity,2021,10,333.28
+Melaka City,Fuel,2021,10,184.77
+Seremban,Water,2021,10,86.85
+Seremban,Electricity,2021,10,404.82
+Seremban,Fuel,2021,10,130.61
+Kuantan,Water,2021,10,128.99
+Kuantan,Electricity,2021,10,256.62
+Kuantan,Fuel,2021,10,159.87
+George Town,Water,2021,10,84.99
+George Town,Electricity,2021,10,301.83
+George Town,Fuel,2021,10,133.91
+Seberang Perai,Water,2021,10,85.55
+Seberang Perai,Electricity,2021,10,261.99
+Seberang Perai,Fuel,2021,10,213.07
+Ipoh,Water,2021,10,171.34
+Ipoh,Electricity,2021,10,406.57
+Ipoh,Fuel,2021,10,244.69
+Kangar,Water,2021,10,124.23
+Kangar,Electricity,2021,10,251.89
+Kangar,Fuel,2021,10,155.37
+Shah Alam,Water,2021,10,146.41
+Shah Alam,Electricity,2021,10,242.85
+Shah Alam,Fuel,2021,10,215.34
+Petaling Jaya,Water,2021,10,110.69
+Petaling Jaya,Electricity,2021,10,332.28
+Petaling Jaya,Fuel,2021,10,133.74
+Subang Jaya,Water,2021,10,130.99
+Subang Jaya,Electricity,2021,10,301.61
+Subang Jaya,Fuel,2021,10,181.26
+Klang,Water,2021,10,100.56
+Klang,Electricity,2021,10,316.35
+Klang,Fuel,2021,10,189.26
+Kuala Terengganu,Water,2021,10,129.86
+Kuala Terengganu,Electricity,2021,10,285.79
+Kuala Terengganu,Fuel,2021,10,163.47
+Kota Kinabalu,Water,2021,10,167.06
+Kota Kinabalu,Electricity,2021,10,420.48
+Kota Kinabalu,Fuel,2021,10,170.37
+Sandakan,Water,2021,10,117.8
+Sandakan,Electricity,2021,10,215.11
+Sandakan,Fuel,2021,10,158.83
+Tawau,Water,2021,10,145.8
+Tawau,Electricity,2021,10,338.95
+Tawau,Fuel,2021,10,250.4
+Kuching,Water,2021,10,148.78
+Kuching,Electricity,2021,10,318.27
+Kuching,Fuel,2021,10,235.4
+Miri,Water,2021,10,165.43
+Miri,Electricity,2021,10,329.97
+Miri,Fuel,2021,10,212.16
+Sibu,Water,2021,10,150.44
+Sibu,Electricity,2021,10,300.87
+Sibu,Fuel,2021,10,208.02
+Johor Bahru,Water,2021,11,111.0
+Johor Bahru,Electricity,2021,11,341.76
+Johor Bahru,Fuel,2021,11,253.59
+Iskandar Puteri,Water,2021,11,94.66
+Iskandar Puteri,Electricity,2021,11,309.91
+Iskandar Puteri,Fuel,2021,11,141.47
+Pasir Gudang,Water,2021,11,129.01
+Pasir Gudang,Electricity,2021,11,373.29
+Pasir Gudang,Fuel,2021,11,238.6
+Alor Setar,Water,2021,11,127.31
+Alor Setar,Electricity,2021,11,282.8
+Alor Setar,Fuel,2021,11,229.14
+Sungai Petani,Water,2021,11,137.93
+Sungai Petani,Electricity,2021,11,278.21
+Sungai Petani,Fuel,2021,11,128.05
+Kota Bharu,Water,2021,11,105.99
+Kota Bharu,Electricity,2021,11,439.86
+Kota Bharu,Fuel,2021,11,117.13
+Melaka City,Water,2021,11,134.54
+Melaka City,Electricity,2021,11,262.63
+Melaka City,Fuel,2021,11,110.75
+Seremban,Water,2021,11,107.39
+Seremban,Electricity,2021,11,244.68
+Seremban,Fuel,2021,11,145.21
+Kuantan,Water,2021,11,134.71
+Kuantan,Electricity,2021,11,440.77
+Kuantan,Fuel,2021,11,123.27
+George Town,Water,2021,11,169.04
+George Town,Electricity,2021,11,506.05
+George Town,Fuel,2021,11,218.95
+Seberang Perai,Water,2021,11,94.78
+Seberang Perai,Electricity,2021,11,281.23
+Seberang Perai,Fuel,2021,11,129.19
+Ipoh,Water,2021,11,95.41
+Ipoh,Electricity,2021,11,232.04
+Ipoh,Fuel,2021,11,214.49
+Kangar,Water,2021,11,114.72
+Kangar,Electricity,2021,11,342.72
+Kangar,Fuel,2021,11,153.03
+Shah Alam,Water,2021,11,116.1
+Shah Alam,Electricity,2021,11,345.1
+Shah Alam,Fuel,2021,11,185.86
+Petaling Jaya,Water,2021,11,110.29
+Petaling Jaya,Electricity,2021,11,368.03
+Petaling Jaya,Fuel,2021,11,229.25
+Subang Jaya,Water,2021,11,173.69
+Subang Jaya,Electricity,2021,11,396.42
+Subang Jaya,Fuel,2021,11,172.24
+Klang,Water,2021,11,147.75
+Klang,Electricity,2021,11,355.41
+Klang,Fuel,2021,11,157.56
+Kuala Terengganu,Water,2021,11,167.48
+Kuala Terengganu,Electricity,2021,11,220.91
+Kuala Terengganu,Fuel,2021,11,177.14
+Kota Kinabalu,Water,2021,11,107.62
+Kota Kinabalu,Electricity,2021,11,384.39
+Kota Kinabalu,Fuel,2021,11,179.34
+Sandakan,Water,2021,11,159.46
+Sandakan,Electricity,2021,11,392.78
+Sandakan,Fuel,2021,11,240.18
+Tawau,Water,2021,11,127.56
+Tawau,Electricity,2021,11,290.84
+Tawau,Fuel,2021,11,150.23
+Kuching,Water,2021,11,93.87
+Kuching,Electricity,2021,11,515.38
+Kuching,Fuel,2021,11,231.59
+Miri,Water,2021,11,157.21
+Miri,Electricity,2021,11,251.16
+Miri,Fuel,2021,11,249.74
+Sibu,Water,2021,11,167.84
+Sibu,Electricity,2021,11,274.51
+Sibu,Fuel,2021,11,169.76
+Johor Bahru,Water,2021,12,136.18
+Johor Bahru,Electricity,2021,12,409.59
+Johor Bahru,Fuel,2021,12,139.64
+Iskandar Puteri,Water,2021,12,102.24
+Iskandar Puteri,Electricity,2021,12,379.08
+Iskandar Puteri,Fuel,2021,12,96.11
+Pasir Gudang,Water,2021,12,116.55
+Pasir Gudang,Electricity,2021,12,270.48
+Pasir Gudang,Fuel,2021,12,227.39
+Alor Setar,Water,2021,12,134.65
+Alor Setar,Electricity,2021,12,291.19
+Alor Setar,Fuel,2021,12,144.4
+Sungai Petani,Water,2021,12,97.84
+Sungai Petani,Electricity,2021,12,222.81
+Sungai Petani,Fuel,2021,12,272.97
+Kota Bharu,Water,2021,12,73.78
+Kota Bharu,Electricity,2021,12,316.4
+Kota Bharu,Fuel,2021,12,225.51
+Melaka City,Water,2021,12,163.89
+Melaka City,Electricity,2021,12,258.82
+Melaka City,Fuel,2021,12,225.14
+Seremban,Water,2021,12,116.17
+Seremban,Electricity,2021,12,303.9
+Seremban,Fuel,2021,12,112.65
+Kuantan,Water,2021,12,106.47
+Kuantan,Electricity,2021,12,258.56
+Kuantan,Fuel,2021,12,213.14
+George Town,Water,2021,12,130.95
+George Town,Electricity,2021,12,412.96
+George Town,Fuel,2021,12,254.05
+Seberang Perai,Water,2021,12,179.11
+Seberang Perai,Electricity,2021,12,219.07
+Seberang Perai,Fuel,2021,12,206.14
+Ipoh,Water,2021,12,110.12
+Ipoh,Electricity,2021,12,258.9
+Ipoh,Fuel,2021,12,160.39
+Kangar,Water,2021,12,83.48
+Kangar,Electricity,2021,12,431.05
+Kangar,Fuel,2021,12,142.01
+Shah Alam,Water,2021,12,130.51
+Shah Alam,Electricity,2021,12,364.28
+Shah Alam,Fuel,2021,12,161.64
+Petaling Jaya,Water,2021,12,140.59
+Petaling Jaya,Electricity,2021,12,349.0
+Petaling Jaya,Fuel,2021,12,210.04
+Subang Jaya,Water,2021,12,108.2
+Subang Jaya,Electricity,2021,12,318.09
+Subang Jaya,Fuel,2021,12,151.08
+Klang,Water,2021,12,95.97
+Klang,Electricity,2021,12,397.96
+Klang,Fuel,2021,12,113.57
+Kuala Terengganu,Water,2021,12,87.53
+Kuala Terengganu,Electricity,2021,12,437.22
+Kuala Terengganu,Fuel,2021,12,156.43
+Kota Kinabalu,Water,2021,12,172.24
+Kota Kinabalu,Electricity,2021,12,275.34
+Kota Kinabalu,Fuel,2021,12,255.24
+Sandakan,Water,2021,12,154.61
+Sandakan,Electricity,2021,12,326.95
+Sandakan,Fuel,2021,12,222.78
+Tawau,Water,2021,12,139.18
+Tawau,Electricity,2021,12,371.64
+Tawau,Fuel,2021,12,115.29
+Kuching,Water,2021,12,131.16
+Kuching,Electricity,2021,12,258.02
+Kuching,Fuel,2021,12,187.43
+Miri,Water,2021,12,162.87
+Miri,Electricity,2021,12,445.15
+Miri,Fuel,2021,12,133.2
+Sibu,Water,2021,12,179.83
+Sibu,Electricity,2021,12,332.2
+Sibu,Fuel,2021,12,182.12
+Johor Bahru,Water,2022,1,109.95
+Johor Bahru,Electricity,2022,1,290.57
+Johor Bahru,Fuel,2022,1,171.68
+Iskandar Puteri,Water,2022,1,176.46
+Iskandar Puteri,Electricity,2022,1,273.94
+Iskandar Puteri,Fuel,2022,1,245.05
+Pasir Gudang,Water,2022,1,207.75
+Pasir Gudang,Electricity,2022,1,202.02
+Pasir Gudang,Fuel,2022,1,219.23
+Alor Setar,Water,2022,1,162.46
+Alor Setar,Electricity,2022,1,412.88
+Alor Setar,Fuel,2022,1,131.59
+Sungai Petani,Water,2022,1,146.8
+Sungai Petani,Electricity,2022,1,273.23
+Sungai Petani,Fuel,2022,1,172.46
+Kota Bharu,Water,2022,1,128.08
+Kota Bharu,Electricity,2022,1,329.18
+Kota Bharu,Fuel,2022,1,198.01
+Melaka City,Water,2022,1,160.31
+Melaka City,Electricity,2022,1,287.25
+Melaka City,Fuel,2022,1,183.12
+Seremban,Water,2022,1,123.06
+Seremban,Electricity,2022,1,246.63
+Seremban,Fuel,2022,1,209.18
+Kuantan,Water,2022,1,162.73
+Kuantan,Electricity,2022,1,231.0
+Kuantan,Fuel,2022,1,249.92
+George Town,Water,2022,1,142.71
+George Town,Electricity,2022,1,262.24
+George Town,Fuel,2022,1,142.85
+Seberang Perai,Water,2022,1,112.39
+Seberang Perai,Electricity,2022,1,282.89
+Seberang Perai,Fuel,2022,1,196.65
+Ipoh,Water,2022,1,186.32
+Ipoh,Electricity,2022,1,232.82
+Ipoh,Fuel,2022,1,199.42
+Kangar,Water,2022,1,138.37
+Kangar,Electricity,2022,1,292.91
+Kangar,Fuel,2022,1,268.42
+Shah Alam,Water,2022,1,113.28
+Shah Alam,Electricity,2022,1,349.0
+Shah Alam,Fuel,2022,1,344.91
+Petaling Jaya,Water,2022,1,130.57
+Petaling Jaya,Electricity,2022,1,208.22
+Petaling Jaya,Fuel,2022,1,209.79
+Subang Jaya,Water,2022,1,120.44
+Subang Jaya,Electricity,2022,1,282.72
+Subang Jaya,Fuel,2022,1,214.67
+Klang,Water,2022,1,165.56
+Klang,Electricity,2022,1,385.74
+Klang,Fuel,2022,1,251.63
+Kuala Terengganu,Water,2022,1,98.09
+Kuala Terengganu,Electricity,2022,1,333.29
+Kuala Terengganu,Fuel,2022,1,194.54
+Kota Kinabalu,Water,2022,1,176.44
+Kota Kinabalu,Electricity,2022,1,202.75
+Kota Kinabalu,Fuel,2022,1,239.46
+Sandakan,Water,2022,1,169.04
+Sandakan,Electricity,2022,1,344.87
+Sandakan,Fuel,2022,1,210.3
+Tawau,Water,2022,1,111.0
+Tawau,Electricity,2022,1,303.73
+Tawau,Fuel,2022,1,141.33
+Kuching,Water,2022,1,109.26
+Kuching,Electricity,2022,1,258.91
+Kuching,Fuel,2022,1,211.11
+Miri,Water,2022,1,115.72
+Miri,Electricity,2022,1,361.14
+Miri,Fuel,2022,1,285.62
+Sibu,Water,2022,1,151.27
+Sibu,Electricity,2022,1,343.23
+Sibu,Fuel,2022,1,261.55
+Johor Bahru,Water,2022,2,167.54
+Johor Bahru,Electricity,2022,2,427.22
+Johor Bahru,Fuel,2022,2,238.29
+Iskandar Puteri,Water,2022,2,101.77
+Iskandar Puteri,Electricity,2022,2,355.15
+Iskandar Puteri,Fuel,2022,2,136.8
+Pasir Gudang,Water,2022,2,203.75
+Pasir Gudang,Electricity,2022,2,259.32
+Pasir Gudang,Fuel,2022,2,170.94
+Alor Setar,Water,2022,2,97.19
+Alor Setar,Electricity,2022,2,361.28
+Alor Setar,Fuel,2022,2,114.69
+Sungai Petani,Water,2022,2,143.0
+Sungai Petani,Electricity,2022,2,285.5
+Sungai Petani,Fuel,2022,2,213.24
+Kota Bharu,Water,2022,2,127.26
+Kota Bharu,Electricity,2022,2,236.83
+Kota Bharu,Fuel,2022,2,213.6
+Melaka City,Water,2022,2,153.29
+Melaka City,Electricity,2022,2,271.71
+Melaka City,Fuel,2022,2,234.69
+Seremban,Water,2022,2,105.43
+Seremban,Electricity,2022,2,423.39
+Seremban,Fuel,2022,2,261.9
+Kuantan,Water,2022,2,119.54
+Kuantan,Electricity,2022,2,343.32
+Kuantan,Fuel,2022,2,182.02
+George Town,Water,2022,2,98.24
+George Town,Electricity,2022,2,351.41
+George Town,Fuel,2022,2,163.77
+Seberang Perai,Water,2022,2,80.23
+Seberang Perai,Electricity,2022,2,276.61
+Seberang Perai,Fuel,2022,2,246.08
+Ipoh,Water,2022,2,184.55
+Ipoh,Electricity,2022,2,245.44
+Ipoh,Fuel,2022,2,263.98
+Kangar,Water,2022,2,116.46
+Kangar,Electricity,2022,2,231.35
+Kangar,Fuel,2022,2,143.17
+Shah Alam,Water,2022,2,140.04
+Shah Alam,Electricity,2022,2,260.2
+Shah Alam,Fuel,2022,2,204.89
+Petaling Jaya,Water,2022,2,169.04
+Petaling Jaya,Electricity,2022,2,361.13
+Petaling Jaya,Fuel,2022,2,190.58
+Subang Jaya,Water,2022,2,159.27
+Subang Jaya,Electricity,2022,2,416.76
+Subang Jaya,Fuel,2022,2,233.58
+Klang,Water,2022,2,141.64
+Klang,Electricity,2022,2,342.47
+Klang,Fuel,2022,2,241.23
+Kuala Terengganu,Water,2022,2,107.34
+Kuala Terengganu,Electricity,2022,2,249.3
+Kuala Terengganu,Fuel,2022,2,180.9
+Kota Kinabalu,Water,2022,2,168.43
+Kota Kinabalu,Electricity,2022,2,258.07
+Kota Kinabalu,Fuel,2022,2,193.8
+Sandakan,Water,2022,2,121.23
+Sandakan,Electricity,2022,2,237.45
+Sandakan,Fuel,2022,2,260.05
+Tawau,Water,2022,2,133.12
+Tawau,Electricity,2022,2,201.44
+Tawau,Fuel,2022,2,260.61
+Kuching,Water,2022,2,77.35
+Kuching,Electricity,2022,2,488.71
+Kuching,Fuel,2022,2,91.16
+Miri,Water,2022,2,109.46
+Miri,Electricity,2022,2,372.64
+Miri,Fuel,2022,2,209.28
+Sibu,Water,2022,2,134.94
+Sibu,Electricity,2022,2,392.17
+Sibu,Fuel,2022,2,157.17
+Johor Bahru,Water,2022,3,162.03
+Johor Bahru,Electricity,2022,3,270.29
+Johor Bahru,Fuel,2022,3,165.29
+Iskandar Puteri,Water,2022,3,86.86
+Iskandar Puteri,Electricity,2022,3,280.93
+Iskandar Puteri,Fuel,2022,3,173.39
+Pasir Gudang,Water,2022,3,167.59
+Pasir Gudang,Electricity,2022,3,329.13
+Pasir Gudang,Fuel,2022,3,156.52
+Alor Setar,Water,2022,3,137.48
+Alor Setar,Electricity,2022,3,375.99
+Alor Setar,Fuel,2022,3,139.88
+Sungai Petani,Water,2022,3,166.9
+Sungai Petani,Electricity,2022,3,327.33
+Sungai Petani,Fuel,2022,3,117.35
+Kota Bharu,Water,2022,3,149.63
+Kota Bharu,Electricity,2022,3,413.69
+Kota Bharu,Fuel,2022,3,189.01
+Melaka City,Water,2022,3,111.5
+Melaka City,Electricity,2022,3,505.49
+Melaka City,Fuel,2022,3,221.87
+Seremban,Water,2022,3,148.63
+Seremban,Electricity,2022,3,408.88
+Seremban,Fuel,2022,3,162.9
+Kuantan,Water,2022,3,125.85
+Kuantan,Electricity,2022,3,200.43
+Kuantan,Fuel,2022,3,226.43
+George Town,Water,2022,3,149.88
+George Town,Electricity,2022,3,313.9
+George Town,Fuel,2022,3,201.07
+Seberang Perai,Water,2022,3,107.63
+Seberang Perai,Electricity,2022,3,243.92
+Seberang Perai,Fuel,2022,3,272.25
+Ipoh,Water,2022,3,99.37
+Ipoh,Electricity,2022,3,323.84
+Ipoh,Fuel,2022,3,234.84
+Kangar,Water,2022,3,111.35
+Kangar,Electricity,2022,3,275.98
+Kangar,Fuel,2022,3,169.58
+Shah Alam,Water,2022,3,113.62
+Shah Alam,Electricity,2022,3,383.05
+Shah Alam,Fuel,2022,3,284.38
+Petaling Jaya,Water,2022,3,145.58
+Petaling Jaya,Electricity,2022,3,219.64
+Petaling Jaya,Fuel,2022,3,183.22
+Subang Jaya,Water,2022,3,95.27
+Subang Jaya,Electricity,2022,3,388.12
+Subang Jaya,Fuel,2022,3,190.93
+Klang,Water,2022,3,121.38
+Klang,Electricity,2022,3,533.24
+Klang,Fuel,2022,3,185.24
+Kuala Terengganu,Water,2022,3,101.65
+Kuala Terengganu,Electricity,2022,3,388.62
+Kuala Terengganu,Fuel,2022,3,195.68
+Kota Kinabalu,Water,2022,3,129.06
+Kota Kinabalu,Electricity,2022,3,214.6
+Kota Kinabalu,Fuel,2022,3,220.28
+Sandakan,Water,2022,3,114.19
+Sandakan,Electricity,2022,3,359.77
+Sandakan,Fuel,2022,3,185.66
+Tawau,Water,2022,3,85.85
+Tawau,Electricity,2022,3,444.45
+Tawau,Fuel,2022,3,161.14
+Kuching,Water,2022,3,102.16
+Kuching,Electricity,2022,3,229.74
+Kuching,Fuel,2022,3,151.77
+Miri,Water,2022,3,78.1
+Miri,Electricity,2022,3,290.57
+Miri,Fuel,2022,3,128.68
+Sibu,Water,2022,3,135.06
+Sibu,Electricity,2022,3,401.14
+Sibu,Fuel,2022,3,350.13
+Johor Bahru,Water,2022,4,106.16
+Johor Bahru,Electricity,2022,4,321.47
+Johor Bahru,Fuel,2022,4,164.3
+Iskandar Puteri,Water,2022,4,117.34
+Iskandar Puteri,Electricity,2022,4,256.51
+Iskandar Puteri,Fuel,2022,4,133.72
+Pasir Gudang,Water,2022,4,139.32
+Pasir Gudang,Electricity,2022,4,271.16
+Pasir Gudang,Fuel,2022,4,122.58
+Alor Setar,Water,2022,4,100.81
+Alor Setar,Electricity,2022,4,269.06
+Alor Setar,Fuel,2022,4,133.96
+Sungai Petani,Water,2022,4,135.66
+Sungai Petani,Electricity,2022,4,421.8
+Sungai Petani,Fuel,2022,4,141.43
+Kota Bharu,Water,2022,4,114.84
+Kota Bharu,Electricity,2022,4,270.53
+Kota Bharu,Fuel,2022,4,246.14
+Melaka City,Water,2022,4,103.08
+Melaka City,Electricity,2022,4,270.28
+Melaka City,Fuel,2022,4,231.31
+Seremban,Water,2022,4,89.99
+Seremban,Electricity,2022,4,275.68
+Seremban,Fuel,2022,4,211.78
+Kuantan,Water,2022,4,119.5
+Kuantan,Electricity,2022,4,412.21
+Kuantan,Fuel,2022,4,270.31
+George Town,Water,2022,4,93.16
+George Town,Electricity,2022,4,345.33
+George Town,Fuel,2022,4,245.72
+Seberang Perai,Water,2022,4,86.57
+Seberang Perai,Electricity,2022,4,207.47
+Seberang Perai,Fuel,2022,4,155.35
+Ipoh,Water,2022,4,94.0
+Ipoh,Electricity,2022,4,237.04
+Ipoh,Fuel,2022,4,190.43
+Kangar,Water,2022,4,137.14
+Kangar,Electricity,2022,4,237.05
+Kangar,Fuel,2022,4,175.86
+Shah Alam,Water,2022,4,157.94
+Shah Alam,Electricity,2022,4,342.11
+Shah Alam,Fuel,2022,4,293.54
+Petaling Jaya,Water,2022,4,168.29
+Petaling Jaya,Electricity,2022,4,406.0
+Petaling Jaya,Fuel,2022,4,208.92
+Subang Jaya,Water,2022,4,167.86
+Subang Jaya,Electricity,2022,4,332.48
+Subang Jaya,Fuel,2022,4,191.84
+Klang,Water,2022,4,97.37
+Klang,Electricity,2022,4,273.48
+Klang,Fuel,2022,4,115.3
+Kuala Terengganu,Water,2022,4,139.8
+Kuala Terengganu,Electricity,2022,4,416.61
+Kuala Terengganu,Fuel,2022,4,227.35
+Kota Kinabalu,Water,2022,4,146.11
+Kota Kinabalu,Electricity,2022,4,241.6
+Kota Kinabalu,Fuel,2022,4,125.71
+Sandakan,Water,2022,4,129.63
+Sandakan,Electricity,2022,4,346.78
+Sandakan,Fuel,2022,4,246.48
+Tawau,Water,2022,4,120.86
+Tawau,Electricity,2022,4,252.25
+Tawau,Fuel,2022,4,241.61
+Kuching,Water,2022,4,105.26
+Kuching,Electricity,2022,4,367.11
+Kuching,Fuel,2022,4,242.58
+Miri,Water,2022,4,108.03
+Miri,Electricity,2022,4,377.25
+Miri,Fuel,2022,4,236.46
+Sibu,Water,2022,4,124.59
+Sibu,Electricity,2022,4,328.6
+Sibu,Fuel,2022,4,235.98
+Johor Bahru,Water,2022,5,83.88
+Johor Bahru,Electricity,2022,5,520.1
+Johor Bahru,Fuel,2022,5,187.67
+Iskandar Puteri,Water,2022,5,106.69
+Iskandar Puteri,Electricity,2022,5,350.03
+Iskandar Puteri,Fuel,2022,5,297.1
+Pasir Gudang,Water,2022,5,112.05
+Pasir Gudang,Electricity,2022,5,430.68
+Pasir Gudang,Fuel,2022,5,188.93
+Alor Setar,Water,2022,5,86.4
+Alor Setar,Electricity,2022,5,413.94
+Alor Setar,Fuel,2022,5,158.86
+Sungai Petani,Water,2022,5,93.62
+Sungai Petani,Electricity,2022,5,384.65
+Sungai Petani,Fuel,2022,5,183.66
+Kota Bharu,Water,2022,5,174.55
+Kota Bharu,Electricity,2022,5,234.69
+Kota Bharu,Fuel,2022,5,189.3
+Melaka City,Water,2022,5,102.5
+Melaka City,Electricity,2022,5,481.5
+Melaka City,Fuel,2022,5,149.13
+Seremban,Water,2022,5,167.01
+Seremban,Electricity,2022,5,303.36
+Seremban,Fuel,2022,5,200.89
+Kuantan,Water,2022,5,99.59
+Kuantan,Electricity,2022,5,407.16
+Kuantan,Fuel,2022,5,234.52
+George Town,Water,2022,5,164.78
+George Town,Electricity,2022,5,237.46
+George Town,Fuel,2022,5,120.82
+Seberang Perai,Water,2022,5,89.81
+Seberang Perai,Electricity,2022,5,298.16
+Seberang Perai,Fuel,2022,5,185.32
+Ipoh,Water,2022,5,154.51
+Ipoh,Electricity,2022,5,416.02
+Ipoh,Fuel,2022,5,119.91
+Kangar,Water,2022,5,139.63
+Kangar,Electricity,2022,5,337.84
+Kangar,Fuel,2022,5,225.78
+Shah Alam,Water,2022,5,86.63
+Shah Alam,Electricity,2022,5,302.87
+Shah Alam,Fuel,2022,5,112.17
+Petaling Jaya,Water,2022,5,118.98
+Petaling Jaya,Electricity,2022,5,194.0
+Petaling Jaya,Fuel,2022,5,148.85
+Subang Jaya,Water,2022,5,112.57
+Subang Jaya,Electricity,2022,5,437.13
+Subang Jaya,Fuel,2022,5,151.34
+Klang,Water,2022,5,127.54
+Klang,Electricity,2022,5,280.52
+Klang,Fuel,2022,5,144.97
+Kuala Terengganu,Water,2022,5,128.97
+Kuala Terengganu,Electricity,2022,5,311.73
+Kuala Terengganu,Fuel,2022,5,196.58
+Kota Kinabalu,Water,2022,5,132.13
+Kota Kinabalu,Electricity,2022,5,274.4
+Kota Kinabalu,Fuel,2022,5,113.3
+Sandakan,Water,2022,5,147.75
+Sandakan,Electricity,2022,5,205.44
+Sandakan,Fuel,2022,5,222.31
+Tawau,Water,2022,5,119.5
+Tawau,Electricity,2022,5,316.76
+Tawau,Fuel,2022,5,208.97
+Kuching,Water,2022,5,120.46
+Kuching,Electricity,2022,5,289.98
+Kuching,Fuel,2022,5,192.5
+Miri,Water,2022,5,107.67
+Miri,Electricity,2022,5,342.02
+Miri,Fuel,2022,5,211.13
+Sibu,Water,2022,5,122.22
+Sibu,Electricity,2022,5,266.7
+Sibu,Fuel,2022,5,140.63
+Johor Bahru,Water,2022,6,143.68
+Johor Bahru,Electricity,2022,6,284.91
+Johor Bahru,Fuel,2022,6,257.73
+Iskandar Puteri,Water,2022,6,93.94
+Iskandar Puteri,Electricity,2022,6,305.15
+Iskandar Puteri,Fuel,2022,6,213.24
+Pasir Gudang,Water,2022,6,119.44
+Pasir Gudang,Electricity,2022,6,331.9
+Pasir Gudang,Fuel,2022,6,237.86
+Alor Setar,Water,2022,6,113.05
+Alor Setar,Electricity,2022,6,370.43
+Alor Setar,Fuel,2022,6,126.15
+Sungai Petani,Water,2022,6,143.83
+Sungai Petani,Electricity,2022,6,237.71
+Sungai Petani,Fuel,2022,6,207.35
+Kota Bharu,Water,2022,6,165.72
+Kota Bharu,Electricity,2022,6,298.17
+Kota Bharu,Fuel,2022,6,119.09
+Melaka City,Water,2022,6,122.22
+Melaka City,Electricity,2022,6,358.97
+Melaka City,Fuel,2022,6,169.97
+Seremban,Water,2022,6,134.38
+Seremban,Electricity,2022,6,328.32
+Seremban,Fuel,2022,6,282.65
+Kuantan,Water,2022,6,140.18
+Kuantan,Electricity,2022,6,414.4
+Kuantan,Fuel,2022,6,168.79
+George Town,Water,2022,6,116.77
+George Town,Electricity,2022,6,304.37
+George Town,Fuel,2022,6,155.36
+Seberang Perai,Water,2022,6,93.31
+Seberang Perai,Electricity,2022,6,341.04
+Seberang Perai,Fuel,2022,6,170.12
+Ipoh,Water,2022,6,99.1
+Ipoh,Electricity,2022,6,275.61
+Ipoh,Fuel,2022,6,165.77
+Kangar,Water,2022,6,143.4
+Kangar,Electricity,2022,6,425.2
+Kangar,Fuel,2022,6,156.22
+Shah Alam,Water,2022,6,127.29
+Shah Alam,Electricity,2022,6,299.82
+Shah Alam,Fuel,2022,6,166.17
+Petaling Jaya,Water,2022,6,106.88
+Petaling Jaya,Electricity,2022,6,270.32
+Petaling Jaya,Fuel,2022,6,191.47
+Subang Jaya,Water,2022,6,146.06
+Subang Jaya,Electricity,2022,6,388.02
+Subang Jaya,Fuel,2022,6,245.71
+Klang,Water,2022,6,75.39
+Klang,Electricity,2022,6,359.19
+Klang,Fuel,2022,6,271.04
+Kuala Terengganu,Water,2022,6,133.53
+Kuala Terengganu,Electricity,2022,6,429.81
+Kuala Terengganu,Fuel,2022,6,124.26
+Kota Kinabalu,Water,2022,6,141.99
+Kota Kinabalu,Electricity,2022,6,363.32
+Kota Kinabalu,Fuel,2022,6,206.01
+Sandakan,Water,2022,6,113.92
+Sandakan,Electricity,2022,6,272.13
+Sandakan,Fuel,2022,6,203.39
+Tawau,Water,2022,6,104.26
+Tawau,Electricity,2022,6,346.62
+Tawau,Fuel,2022,6,261.68
+Kuching,Water,2022,6,92.45
+Kuching,Electricity,2022,6,271.35
+Kuching,Fuel,2022,6,182.77
+Miri,Water,2022,6,150.75
+Miri,Electricity,2022,6,377.54
+Miri,Fuel,2022,6,145.26
+Sibu,Water,2022,6,114.64
+Sibu,Electricity,2022,6,328.91
+Sibu,Fuel,2022,6,213.02
+Johor Bahru,Water,2022,7,126.14
+Johor Bahru,Electricity,2022,7,402.89
+Johor Bahru,Fuel,2022,7,196.74
+Iskandar Puteri,Water,2022,7,97.63
+Iskandar Puteri,Electricity,2022,7,239.36
+Iskandar Puteri,Fuel,2022,7,286.15
+Pasir Gudang,Water,2022,7,122.51
+Pasir Gudang,Electricity,2022,7,400.79
+Pasir Gudang,Fuel,2022,7,193.46
+Alor Setar,Water,2022,7,167.21
+Alor Setar,Electricity,2022,7,257.2
+Alor Setar,Fuel,2022,7,237.72
+Sungai Petani,Water,2022,7,120.08
+Sungai Petani,Electricity,2022,7,330.68
+Sungai Petani,Fuel,2022,7,159.48
+Kota Bharu,Water,2022,7,163.5
+Kota Bharu,Electricity,2022,7,395.25
+Kota Bharu,Fuel,2022,7,256.92
+Melaka City,Water,2022,7,82.82
+Melaka City,Electricity,2022,7,279.97
+Melaka City,Fuel,2022,7,174.83
+Seremban,Water,2022,7,165.19
+Seremban,Electricity,2022,7,386.11
+Seremban,Fuel,2022,7,139.42
+Kuantan,Water,2022,7,124.91
+Kuantan,Electricity,2022,7,216.69
+Kuantan,Fuel,2022,7,217.9
+George Town,Water,2022,7,111.44
+George Town,Electricity,2022,7,305.19
+George Town,Fuel,2022,7,261.05
+Seberang Perai,Water,2022,7,130.75
+Seberang Perai,Electricity,2022,7,270.18
+Seberang Perai,Fuel,2022,7,216.07
+Ipoh,Water,2022,7,75.73
+Ipoh,Electricity,2022,7,364.79
+Ipoh,Fuel,2022,7,131.0
+Kangar,Water,2022,7,96.13
+Kangar,Electricity,2022,7,384.45
+Kangar,Fuel,2022,7,192.18
+Shah Alam,Water,2022,7,136.58
+Shah Alam,Electricity,2022,7,249.49
+Shah Alam,Fuel,2022,7,240.81
+Petaling Jaya,Water,2022,7,173.22
+Petaling Jaya,Electricity,2022,7,230.83
+Petaling Jaya,Fuel,2022,7,272.24
+Subang Jaya,Water,2022,7,96.83
+Subang Jaya,Electricity,2022,7,256.14
+Subang Jaya,Fuel,2022,7,132.44
+Klang,Water,2022,7,109.74
+Klang,Electricity,2022,7,244.82
+Klang,Fuel,2022,7,168.32
+Kuala Terengganu,Water,2022,7,130.84
+Kuala Terengganu,Electricity,2022,7,272.57
+Kuala Terengganu,Fuel,2022,7,128.14
+Kota Kinabalu,Water,2022,7,163.11
+Kota Kinabalu,Electricity,2022,7,351.44
+Kota Kinabalu,Fuel,2022,7,238.83
+Sandakan,Water,2022,7,82.12
+Sandakan,Electricity,2022,7,250.64
+Sandakan,Fuel,2022,7,240.17
+Tawau,Water,2022,7,139.64
+Tawau,Electricity,2022,7,274.17
+Tawau,Fuel,2022,7,110.37
+Kuching,Water,2022,7,88.32
+Kuching,Electricity,2022,7,357.66
+Kuching,Fuel,2022,7,231.36
+Miri,Water,2022,7,97.12
+Miri,Electricity,2022,7,278.08
+Miri,Fuel,2022,7,173.07
+Sibu,Water,2022,7,151.1
+Sibu,Electricity,2022,7,452.88
+Sibu,Fuel,2022,7,149.34
+Johor Bahru,Water,2022,8,127.08
+Johor Bahru,Electricity,2022,8,453.61
+Johor Bahru,Fuel,2022,8,193.41
+Iskandar Puteri,Water,2022,8,175.68
+Iskandar Puteri,Electricity,2022,8,234.16
+Iskandar Puteri,Fuel,2022,8,112.12
+Pasir Gudang,Water,2022,8,140.08
+Pasir Gudang,Electricity,2022,8,340.86
+Pasir Gudang,Fuel,2022,8,252.18
+Alor Setar,Water,2022,8,117.62
+Alor Setar,Electricity,2022,8,403.47
+Alor Setar,Fuel,2022,8,94.85
+Sungai Petani,Water,2022,8,146.36
+Sungai Petani,Electricity,2022,8,355.43
+Sungai Petani,Fuel,2022,8,204.45
+Kota Bharu,Water,2022,8,103.27
+Kota Bharu,Electricity,2022,8,355.06
+Kota Bharu,Fuel,2022,8,197.52
+Melaka City,Water,2022,8,162.47
+Melaka City,Electricity,2022,8,199.74
+Melaka City,Fuel,2022,8,114.27
+Seremban,Water,2022,8,86.27
+Seremban,Electricity,2022,8,312.97
+Seremban,Fuel,2022,8,151.95
+Kuantan,Water,2022,8,101.91
+Kuantan,Electricity,2022,8,287.22
+Kuantan,Fuel,2022,8,205.32
+George Town,Water,2022,8,121.55
+George Town,Electricity,2022,8,317.35
+George Town,Fuel,2022,8,184.31
+Seberang Perai,Water,2022,8,90.48
+Seberang Perai,Electricity,2022,8,326.57
+Seberang Perai,Fuel,2022,8,189.85
+Ipoh,Water,2022,8,179.34
+Ipoh,Electricity,2022,8,372.12
+Ipoh,Fuel,2022,8,109.89
+Kangar,Water,2022,8,142.09
+Kangar,Electricity,2022,8,237.2
+Kangar,Fuel,2022,8,237.58
+Shah Alam,Water,2022,8,136.94
+Shah Alam,Electricity,2022,8,346.12
+Shah Alam,Fuel,2022,8,148.71
+Petaling Jaya,Water,2022,8,116.37
+Petaling Jaya,Electricity,2022,8,415.45
+Petaling Jaya,Fuel,2022,8,165.89
+Subang Jaya,Water,2022,8,156.16
+Subang Jaya,Electricity,2022,8,249.17
+Subang Jaya,Fuel,2022,8,177.06
+Klang,Water,2022,8,134.86
+Klang,Electricity,2022,8,312.76
+Klang,Fuel,2022,8,196.14
+Kuala Terengganu,Water,2022,8,106.05
+Kuala Terengganu,Electricity,2022,8,367.53
+Kuala Terengganu,Fuel,2022,8,289.47
+Kota Kinabalu,Water,2022,8,102.7
+Kota Kinabalu,Electricity,2022,8,314.98
+Kota Kinabalu,Fuel,2022,8,182.86
+Sandakan,Water,2022,8,93.47
+Sandakan,Electricity,2022,8,380.7
+Sandakan,Fuel,2022,8,96.72
+Tawau,Water,2022,8,117.22
+Tawau,Electricity,2022,8,350.37
+Tawau,Fuel,2022,8,231.94
+Kuching,Water,2022,8,77.1
+Kuching,Electricity,2022,8,349.67
+Kuching,Fuel,2022,8,92.45
+Miri,Water,2022,8,155.03
+Miri,Electricity,2022,8,285.87
+Miri,Fuel,2022,8,235.9
+Sibu,Water,2022,8,129.5
+Sibu,Electricity,2022,8,216.16
+Sibu,Fuel,2022,8,170.68
+Johor Bahru,Water,2022,9,142.72
+Johor Bahru,Electricity,2022,9,279.02
+Johor Bahru,Fuel,2022,9,117.23
+Iskandar Puteri,Water,2022,9,140.4
+Iskandar Puteri,Electricity,2022,9,253.51
+Iskandar Puteri,Fuel,2022,9,183.75
+Pasir Gudang,Water,2022,9,101.62
+Pasir Gudang,Electricity,2022,9,238.82
+Pasir Gudang,Fuel,2022,9,260.23
+Alor Setar,Water,2022,9,125.34
+Alor Setar,Electricity,2022,9,396.68
+Alor Setar,Fuel,2022,9,199.31
+Sungai Petani,Water,2022,9,100.71
+Sungai Petani,Electricity,2022,9,330.34
+Sungai Petani,Fuel,2022,9,167.0
+Kota Bharu,Water,2022,9,72.37
+Kota Bharu,Electricity,2022,9,421.88
+Kota Bharu,Fuel,2022,9,236.94
+Melaka City,Water,2022,9,157.12
+Melaka City,Electricity,2022,9,351.51
+Melaka City,Fuel,2022,9,198.11
+Seremban,Water,2022,9,157.74
+Seremban,Electricity,2022,9,352.64
+Seremban,Fuel,2022,9,99.81
+Kuantan,Water,2022,9,135.06
+Kuantan,Electricity,2022,9,386.61
+Kuantan,Fuel,2022,9,292.02
+George Town,Water,2022,9,92.66
+George Town,Electricity,2022,9,213.18
+George Town,Fuel,2022,9,124.86
+Seberang Perai,Water,2022,9,146.25
+Seberang Perai,Electricity,2022,9,210.86
+Seberang Perai,Fuel,2022,9,225.42
+Ipoh,Water,2022,9,94.21
+Ipoh,Electricity,2022,9,352.91
+Ipoh,Fuel,2022,9,179.07
+Kangar,Water,2022,9,176.15
+Kangar,Electricity,2022,9,442.84
+Kangar,Fuel,2022,9,150.1
+Shah Alam,Water,2022,9,133.8
+Shah Alam,Electricity,2022,9,353.88
+Shah Alam,Fuel,2022,9,114.17
+Petaling Jaya,Water,2022,9,114.47
+Petaling Jaya,Electricity,2022,9,189.97
+Petaling Jaya,Fuel,2022,9,212.15
+Subang Jaya,Water,2022,9,123.83
+Subang Jaya,Electricity,2022,9,324.5
+Subang Jaya,Fuel,2022,9,205.05
+Klang,Water,2022,9,122.91
+Klang,Electricity,2022,9,348.49
+Klang,Fuel,2022,9,158.97
+Kuala Terengganu,Water,2022,9,147.58
+Kuala Terengganu,Electricity,2022,9,209.64
+Kuala Terengganu,Fuel,2022,9,162.25
+Kota Kinabalu,Water,2022,9,123.92
+Kota Kinabalu,Electricity,2022,9,356.4
+Kota Kinabalu,Fuel,2022,9,263.07
+Sandakan,Water,2022,9,91.66
+Sandakan,Electricity,2022,9,343.36
+Sandakan,Fuel,2022,9,230.52
+Tawau,Water,2022,9,103.82
+Tawau,Electricity,2022,9,453.66
+Tawau,Fuel,2022,9,160.22
+Kuching,Water,2022,9,123.19
+Kuching,Electricity,2022,9,293.45
+Kuching,Fuel,2022,9,170.61
+Miri,Water,2022,9,132.8
+Miri,Electricity,2022,9,368.3
+Miri,Fuel,2022,9,201.77
+Sibu,Water,2022,9,93.53
+Sibu,Electricity,2022,9,434.89
+Sibu,Fuel,2022,9,124.63
+Johor Bahru,Water,2022,10,108.16
+Johor Bahru,Electricity,2022,10,295.36
+Johor Bahru,Fuel,2022,10,207.6
+Iskandar Puteri,Water,2022,10,87.57
+Iskandar Puteri,Electricity,2022,10,297.8
+Iskandar Puteri,Fuel,2022,10,253.59
+Pasir Gudang,Water,2022,10,136.04
+Pasir Gudang,Electricity,2022,10,248.29
+Pasir Gudang,Fuel,2022,10,130.61
+Alor Setar,Water,2022,10,195.6
+Alor Setar,Electricity,2022,10,358.14
+Alor Setar,Fuel,2022,10,139.81
+Sungai Petani,Water,2022,10,96.63
+Sungai Petani,Electricity,2022,10,243.77
+Sungai Petani,Fuel,2022,10,181.7
+Kota Bharu,Water,2022,10,110.3
+Kota Bharu,Electricity,2022,10,446.85
+Kota Bharu,Fuel,2022,10,193.22
+Melaka City,Water,2022,10,133.09
+Melaka City,Electricity,2022,10,267.65
+Melaka City,Fuel,2022,10,121.45
+Seremban,Water,2022,10,172.51
+Seremban,Electricity,2022,10,291.3
+Seremban,Fuel,2022,10,246.94
+Kuantan,Water,2022,10,122.32
+Kuantan,Electricity,2022,10,208.89
+Kuantan,Fuel,2022,10,155.25
+George Town,Water,2022,10,148.11
+George Town,Electricity,2022,10,239.38
+George Town,Fuel,2022,10,162.94
+Seberang Perai,Water,2022,10,164.65
+Seberang Perai,Electricity,2022,10,249.11
+Seberang Perai,Fuel,2022,10,136.23
+Ipoh,Water,2022,10,160.29
+Ipoh,Electricity,2022,10,250.51
+Ipoh,Fuel,2022,10,254.47
+Kangar,Water,2022,10,123.85
+Kangar,Electricity,2022,10,309.25
+Kangar,Fuel,2022,10,164.51
+Shah Alam,Water,2022,10,165.72
+Shah Alam,Electricity,2022,10,366.83
+Shah Alam,Fuel,2022,10,180.62
+Petaling Jaya,Water,2022,10,100.45
+Petaling Jaya,Electricity,2022,10,439.41
+Petaling Jaya,Fuel,2022,10,108.44
+Subang Jaya,Water,2022,10,135.41
+Subang Jaya,Electricity,2022,10,188.34
+Subang Jaya,Fuel,2022,10,119.87
+Klang,Water,2022,10,158.41
+Klang,Electricity,2022,10,245.01
+Klang,Fuel,2022,10,358.64
+Kuala Terengganu,Water,2022,10,100.62
+Kuala Terengganu,Electricity,2022,10,363.12
+Kuala Terengganu,Fuel,2022,10,167.54
+Kota Kinabalu,Water,2022,10,115.66
+Kota Kinabalu,Electricity,2022,10,368.91
+Kota Kinabalu,Fuel,2022,10,131.8
+Sandakan,Water,2022,10,95.46
+Sandakan,Electricity,2022,10,249.4
+Sandakan,Fuel,2022,10,238.98
+Tawau,Water,2022,10,131.38
+Tawau,Electricity,2022,10,227.86
+Tawau,Fuel,2022,10,166.41
+Kuching,Water,2022,10,152.15
+Kuching,Electricity,2022,10,237.01
+Kuching,Fuel,2022,10,160.35
+Miri,Water,2022,10,143.54
+Miri,Electricity,2022,10,271.61
+Miri,Fuel,2022,10,268.36
+Sibu,Water,2022,10,84.4
+Sibu,Electricity,2022,10,341.58
+Sibu,Fuel,2022,10,145.32
+Johor Bahru,Water,2022,11,151.79
+Johor Bahru,Electricity,2022,11,390.8
+Johor Bahru,Fuel,2022,11,210.98
+Iskandar Puteri,Water,2022,11,119.74
+Iskandar Puteri,Electricity,2022,11,372.09
+Iskandar Puteri,Fuel,2022,11,227.42
+Pasir Gudang,Water,2022,11,96.91
+Pasir Gudang,Electricity,2022,11,307.82
+Pasir Gudang,Fuel,2022,11,118.78
+Alor Setar,Water,2022,11,82.77
+Alor Setar,Electricity,2022,11,356.7
+Alor Setar,Fuel,2022,11,193.64
+Sungai Petani,Water,2022,11,134.38
+Sungai Petani,Electricity,2022,11,247.96
+Sungai Petani,Fuel,2022,11,169.93
+Kota Bharu,Water,2022,11,157.04
+Kota Bharu,Electricity,2022,11,344.74
+Kota Bharu,Fuel,2022,11,228.49
+Melaka City,Water,2022,11,81.83
+Melaka City,Electricity,2022,11,324.85
+Melaka City,Fuel,2022,11,163.77
+Seremban,Water,2022,11,105.71
+Seremban,Electricity,2022,11,246.57
+Seremban,Fuel,2022,11,254.55
+Kuantan,Water,2022,11,89.03
+Kuantan,Electricity,2022,11,360.35
+Kuantan,Fuel,2022,11,185.17
+George Town,Water,2022,11,158.03
+George Town,Electricity,2022,11,221.91
+George Town,Fuel,2022,11,143.27
+Seberang Perai,Water,2022,11,147.97
+Seberang Perai,Electricity,2022,11,440.05
+Seberang Perai,Fuel,2022,11,288.07
+Ipoh,Water,2022,11,145.91
+Ipoh,Electricity,2022,11,204.51
+Ipoh,Fuel,2022,11,168.41
+Kangar,Water,2022,11,134.41
+Kangar,Electricity,2022,11,238.67
+Kangar,Fuel,2022,11,194.95
+Shah Alam,Water,2022,11,118.96
+Shah Alam,Electricity,2022,11,240.38
+Shah Alam,Fuel,2022,11,174.78
+Petaling Jaya,Water,2022,11,184.56
+Petaling Jaya,Electricity,2022,11,398.63
+Petaling Jaya,Fuel,2022,11,132.14
+Subang Jaya,Water,2022,11,209.17
+Subang Jaya,Electricity,2022,11,341.15
+Subang Jaya,Fuel,2022,11,162.05
+Klang,Water,2022,11,139.59
+Klang,Electricity,2022,11,356.23
+Klang,Fuel,2022,11,333.92
+Kuala Terengganu,Water,2022,11,131.63
+Kuala Terengganu,Electricity,2022,11,264.87
+Kuala Terengganu,Fuel,2022,11,128.84
+Kota Kinabalu,Water,2022,11,154.41
+Kota Kinabalu,Electricity,2022,11,397.43
+Kota Kinabalu,Fuel,2022,11,203.59
+Sandakan,Water,2022,11,144.7
+Sandakan,Electricity,2022,11,283.58
+Sandakan,Fuel,2022,11,158.83
+Tawau,Water,2022,11,117.64
+Tawau,Electricity,2022,11,385.04
+Tawau,Fuel,2022,11,95.24
+Kuching,Water,2022,11,187.0
+Kuching,Electricity,2022,11,275.2
+Kuching,Fuel,2022,11,137.24
+Miri,Water,2022,11,148.02
+Miri,Electricity,2022,11,308.68
+Miri,Fuel,2022,11,110.18
+Sibu,Water,2022,11,138.76
+Sibu,Electricity,2022,11,329.37
+Sibu,Fuel,2022,11,207.22
+Johor Bahru,Water,2022,12,137.35
+Johor Bahru,Electricity,2022,12,390.73
+Johor Bahru,Fuel,2022,12,92.86
+Iskandar Puteri,Water,2022,12,125.44
+Iskandar Puteri,Electricity,2022,12,276.62
+Iskandar Puteri,Fuel,2022,12,208.62
+Pasir Gudang,Water,2022,12,118.41
+Pasir Gudang,Electricity,2022,12,203.23
+Pasir Gudang,Fuel,2022,12,235.85
+Alor Setar,Water,2022,12,104.23
+Alor Setar,Electricity,2022,12,218.22
+Alor Setar,Fuel,2022,12,168.86
+Sungai Petani,Water,2022,12,89.93
+Sungai Petani,Electricity,2022,12,287.62
+Sungai Petani,Fuel,2022,12,224.12
+Kota Bharu,Water,2022,12,129.99
+Kota Bharu,Electricity,2022,12,395.95
+Kota Bharu,Fuel,2022,12,196.76
+Melaka City,Water,2022,12,141.66
+Melaka City,Electricity,2022,12,470.71
+Melaka City,Fuel,2022,12,146.97
+Seremban,Water,2022,12,159.61
+Seremban,Electricity,2022,12,224.66
+Seremban,Fuel,2022,12,142.75
+Kuantan,Water,2022,12,185.51
+Kuantan,Electricity,2022,12,339.36
+Kuantan,Fuel,2022,12,156.75
+George Town,Water,2022,12,139.96
+George Town,Electricity,2022,12,333.73
+George Town,Fuel,2022,12,144.2
+Seberang Perai,Water,2022,12,156.69
+Seberang Perai,Electricity,2022,12,253.34
+Seberang Perai,Fuel,2022,12,192.49
+Ipoh,Water,2022,12,220.83
+Ipoh,Electricity,2022,12,342.78
+Ipoh,Fuel,2022,12,229.01
+Kangar,Water,2022,12,123.58
+Kangar,Electricity,2022,12,214.28
+Kangar,Fuel,2022,12,158.44
+Shah Alam,Water,2022,12,117.76
+Shah Alam,Electricity,2022,12,347.76
+Shah Alam,Fuel,2022,12,217.66
+Petaling Jaya,Water,2022,12,83.02
+Petaling Jaya,Electricity,2022,12,252.14
+Petaling Jaya,Fuel,2022,12,167.86
+Subang Jaya,Water,2022,12,97.5
+Subang Jaya,Electricity,2022,12,291.66
+Subang Jaya,Fuel,2022,12,189.29
+Klang,Water,2022,12,136.73
+Klang,Electricity,2022,12,265.43
+Klang,Fuel,2022,12,112.85
+Kuala Terengganu,Water,2022,12,91.47
+Kuala Terengganu,Electricity,2022,12,363.18
+Kuala Terengganu,Fuel,2022,12,212.2
+Kota Kinabalu,Water,2022,12,94.0
+Kota Kinabalu,Electricity,2022,12,326.05
+Kota Kinabalu,Fuel,2022,12,194.75
+Sandakan,Water,2022,12,114.03
+Sandakan,Electricity,2022,12,201.23
+Sandakan,Fuel,2022,12,247.4
+Tawau,Water,2022,12,137.46
+Tawau,Electricity,2022,12,291.66
+Tawau,Fuel,2022,12,238.89
+Kuching,Water,2022,12,149.97
+Kuching,Electricity,2022,12,331.19
+Kuching,Fuel,2022,12,118.51
+Miri,Water,2022,12,97.1
+Miri,Electricity,2022,12,218.95
+Miri,Fuel,2022,12,150.42
+Sibu,Water,2022,12,155.81
+Sibu,Electricity,2022,12,230.02
+Sibu,Fuel,2022,12,169.02
+Johor Bahru,Water,2023,1,235.99
+Johor Bahru,Electricity,2023,1,367.24
+Johor Bahru,Fuel,2023,1,144.0
+Iskandar Puteri,Water,2023,1,81.04
+Iskandar Puteri,Electricity,2023,1,422.72
+Iskandar Puteri,Fuel,2023,1,170.06
+Pasir Gudang,Water,2023,1,178.68
+Pasir Gudang,Electricity,2023,1,290.61
+Pasir Gudang,Fuel,2023,1,116.18
+Alor Setar,Water,2023,1,163.79
+Alor Setar,Electricity,2023,1,335.57
+Alor Setar,Fuel,2023,1,152.2
+Sungai Petani,Water,2023,1,147.81
+Sungai Petani,Electricity,2023,1,284.65
+Sungai Petani,Fuel,2023,1,224.52
+Kota Bharu,Water,2023,1,119.74
+Kota Bharu,Electricity,2023,1,356.08
+Kota Bharu,Fuel,2023,1,187.53
+Melaka City,Water,2023,1,156.42
+Melaka City,Electricity,2023,1,341.36
+Melaka City,Fuel,2023,1,180.0
+Seremban,Water,2023,1,161.25
+Seremban,Electricity,2023,1,275.94
+Seremban,Fuel,2023,1,184.87
+Kuantan,Water,2023,1,84.72
+Kuantan,Electricity,2023,1,266.22
+Kuantan,Fuel,2023,1,228.89
+George Town,Water,2023,1,135.71
+George Town,Electricity,2023,1,425.96
+George Town,Fuel,2023,1,257.4
+Seberang Perai,Water,2023,1,94.71
+Seberang Perai,Electricity,2023,1,279.33
+Seberang Perai,Fuel,2023,1,213.59
+Ipoh,Water,2023,1,104.48
+Ipoh,Electricity,2023,1,298.47
+Ipoh,Fuel,2023,1,234.05
+Kangar,Water,2023,1,166.14
+Kangar,Electricity,2023,1,282.62
+Kangar,Fuel,2023,1,150.18
+Shah Alam,Water,2023,1,87.82
+Shah Alam,Electricity,2023,1,222.63
+Shah Alam,Fuel,2023,1,94.62
+Petaling Jaya,Water,2023,1,107.5
+Petaling Jaya,Electricity,2023,1,358.01
+Petaling Jaya,Fuel,2023,1,169.27
+Subang Jaya,Water,2023,1,149.24
+Subang Jaya,Electricity,2023,1,237.11
+Subang Jaya,Fuel,2023,1,166.19
+Klang,Water,2023,1,186.8
+Klang,Electricity,2023,1,414.44
+Klang,Fuel,2023,1,270.68
+Kuala Terengganu,Water,2023,1,110.58
+Kuala Terengganu,Electricity,2023,1,204.68
+Kuala Terengganu,Fuel,2023,1,128.33
+Kota Kinabalu,Water,2023,1,111.28
+Kota Kinabalu,Electricity,2023,1,204.93
+Kota Kinabalu,Fuel,2023,1,285.19
+Sandakan,Water,2023,1,103.49
+Sandakan,Electricity,2023,1,419.55
+Sandakan,Fuel,2023,1,173.01
+Tawau,Water,2023,1,189.84
+Tawau,Electricity,2023,1,218.57
+Tawau,Fuel,2023,1,291.08
+Kuching,Water,2023,1,138.27
+Kuching,Electricity,2023,1,399.71
+Kuching,Fuel,2023,1,124.36
+Miri,Water,2023,1,91.04
+Miri,Electricity,2023,1,235.87
+Miri,Fuel,2023,1,163.12
+Sibu,Water,2023,1,148.79
+Sibu,Electricity,2023,1,386.22
+Sibu,Fuel,2023,1,221.85
+Johor Bahru,Water,2023,2,149.83
+Johor Bahru,Electricity,2023,2,363.65
+Johor Bahru,Fuel,2023,2,113.81
+Iskandar Puteri,Water,2023,2,125.99
+Iskandar Puteri,Electricity,2023,2,384.79
+Iskandar Puteri,Fuel,2023,2,216.76
+Pasir Gudang,Water,2023,2,121.94
+Pasir Gudang,Electricity,2023,2,298.26
+Pasir Gudang,Fuel,2023,2,221.05
+Alor Setar,Water,2023,2,176.87
+Alor Setar,Electricity,2023,2,239.77
+Alor Setar,Fuel,2023,2,194.22
+Sungai Petani,Water,2023,2,124.31
+Sungai Petani,Electricity,2023,2,240.92
+Sungai Petani,Fuel,2023,2,219.65
+Kota Bharu,Water,2023,2,131.02
+Kota Bharu,Electricity,2023,2,293.18
+Kota Bharu,Fuel,2023,2,143.72
+Melaka City,Water,2023,2,121.73
+Melaka City,Electricity,2023,2,194.98
+Melaka City,Fuel,2023,2,157.21
+Seremban,Water,2023,2,144.45
+Seremban,Electricity,2023,2,373.1
+Seremban,Fuel,2023,2,186.73
+Kuantan,Water,2023,2,116.49
+Kuantan,Electricity,2023,2,332.06
+Kuantan,Fuel,2023,2,207.56
+George Town,Water,2023,2,87.86
+George Town,Electricity,2023,2,273.07
+George Town,Fuel,2023,2,113.2
+Seberang Perai,Water,2023,2,139.83
+Seberang Perai,Electricity,2023,2,228.79
+Seberang Perai,Fuel,2023,2,121.7
+Ipoh,Water,2023,2,164.7
+Ipoh,Electricity,2023,2,328.46
+Ipoh,Fuel,2023,2,214.62
+Kangar,Water,2023,2,82.93
+Kangar,Electricity,2023,2,412.23
+Kangar,Fuel,2023,2,161.92
+Shah Alam,Water,2023,2,91.65
+Shah Alam,Electricity,2023,2,454.87
+Shah Alam,Fuel,2023,2,221.36
+Petaling Jaya,Water,2023,2,92.53
+Petaling Jaya,Electricity,2023,2,410.26
+Petaling Jaya,Fuel,2023,2,196.92
+Subang Jaya,Water,2023,2,115.87
+Subang Jaya,Electricity,2023,2,291.79
+Subang Jaya,Fuel,2023,2,185.57
+Klang,Water,2023,2,121.85
+Klang,Electricity,2023,2,324.92
+Klang,Fuel,2023,2,217.23
+Kuala Terengganu,Water,2023,2,137.0
+Kuala Terengganu,Electricity,2023,2,277.7
+Kuala Terengganu,Fuel,2023,2,314.02
+Kota Kinabalu,Water,2023,2,111.98
+Kota Kinabalu,Electricity,2023,2,289.73
+Kota Kinabalu,Fuel,2023,2,117.51
+Sandakan,Water,2023,2,179.52
+Sandakan,Electricity,2023,2,398.73
+Sandakan,Fuel,2023,2,238.3
+Tawau,Water,2023,2,123.23
+Tawau,Electricity,2023,2,362.62
+Tawau,Fuel,2023,2,223.14
+Kuching,Water,2023,2,170.86
+Kuching,Electricity,2023,2,398.02
+Kuching,Fuel,2023,2,110.47
+Miri,Water,2023,2,167.66
+Miri,Electricity,2023,2,433.88
+Miri,Fuel,2023,2,208.99
+Sibu,Water,2023,2,157.48
+Sibu,Electricity,2023,2,539.98
+Sibu,Fuel,2023,2,242.07
+Johor Bahru,Water,2023,3,95.92
+Johor Bahru,Electricity,2023,3,328.08
+Johor Bahru,Fuel,2023,3,124.82
+Iskandar Puteri,Water,2023,3,147.79
+Iskandar Puteri,Electricity,2023,3,277.32
+Iskandar Puteri,Fuel,2023,3,119.64
+Pasir Gudang,Water,2023,3,132.36
+Pasir Gudang,Electricity,2023,3,466.98
+Pasir Gudang,Fuel,2023,3,227.86
+Alor Setar,Water,2023,3,103.24
+Alor Setar,Electricity,2023,3,324.04
+Alor Setar,Fuel,2023,3,117.63
+Sungai Petani,Water,2023,3,164.61
+Sungai Petani,Electricity,2023,3,223.82
+Sungai Petani,Fuel,2023,3,234.72
+Kota Bharu,Water,2023,3,95.06
+Kota Bharu,Electricity,2023,3,464.27
+Kota Bharu,Fuel,2023,3,145.11
+Melaka City,Water,2023,3,157.61
+Melaka City,Electricity,2023,3,290.3
+Melaka City,Fuel,2023,3,212.75
+Seremban,Water,2023,3,155.65
+Seremban,Electricity,2023,3,456.5
+Seremban,Fuel,2023,3,277.25
+Kuantan,Water,2023,3,147.9
+Kuantan,Electricity,2023,3,234.83
+Kuantan,Fuel,2023,3,122.24
+George Town,Water,2023,3,126.88
+George Town,Electricity,2023,3,211.6
+George Town,Fuel,2023,3,125.88
+Seberang Perai,Water,2023,3,151.2
+Seberang Perai,Electricity,2023,3,377.52
+Seberang Perai,Fuel,2023,3,240.91
+Ipoh,Water,2023,3,144.49
+Ipoh,Electricity,2023,3,344.2
+Ipoh,Fuel,2023,3,182.68
+Kangar,Water,2023,3,164.16
+Kangar,Electricity,2023,3,357.31
+Kangar,Fuel,2023,3,145.75
+Shah Alam,Water,2023,3,121.17
+Shah Alam,Electricity,2023,3,316.9
+Shah Alam,Fuel,2023,3,150.02
+Petaling Jaya,Water,2023,3,111.15
+Petaling Jaya,Electricity,2023,3,255.35
+Petaling Jaya,Fuel,2023,3,208.34
+Subang Jaya,Water,2023,3,92.62
+Subang Jaya,Electricity,2023,3,194.09
+Subang Jaya,Fuel,2023,3,231.36
+Klang,Water,2023,3,151.38
+Klang,Electricity,2023,3,254.29
+Klang,Fuel,2023,3,246.67
+Kuala Terengganu,Water,2023,3,159.1
+Kuala Terengganu,Electricity,2023,3,352.05
+Kuala Terengganu,Fuel,2023,3,106.49
+Kota Kinabalu,Water,2023,3,109.79
+Kota Kinabalu,Electricity,2023,3,218.67
+Kota Kinabalu,Fuel,2023,3,232.3
+Sandakan,Water,2023,3,135.7
+Sandakan,Electricity,2023,3,297.38
+Sandakan,Fuel,2023,3,93.06
+Tawau,Water,2023,3,162.83
+Tawau,Electricity,2023,3,408.33
+Tawau,Fuel,2023,3,140.13
+Kuching,Water,2023,3,139.15
+Kuching,Electricity,2023,3,316.95
+Kuching,Fuel,2023,3,169.83
+Miri,Water,2023,3,117.22
+Miri,Electricity,2023,3,338.36
+Miri,Fuel,2023,3,202.2
+Sibu,Water,2023,3,124.45
+Sibu,Electricity,2023,3,351.27
+Sibu,Fuel,2023,3,235.66
+Johor Bahru,Water,2023,4,76.14
+Johor Bahru,Electricity,2023,4,307.65
+Johor Bahru,Fuel,2023,4,240.4
+Iskandar Puteri,Water,2023,4,104.19
+Iskandar Puteri,Electricity,2023,4,327.08
+Iskandar Puteri,Fuel,2023,4,246.06
+Pasir Gudang,Water,2023,4,128.41
+Pasir Gudang,Electricity,2023,4,230.54
+Pasir Gudang,Fuel,2023,4,154.43
+Alor Setar,Water,2023,4,95.89
+Alor Setar,Electricity,2023,4,260.61
+Alor Setar,Fuel,2023,4,107.51
+Sungai Petani,Water,2023,4,165.26
+Sungai Petani,Electricity,2023,4,233.32
+Sungai Petani,Fuel,2023,4,146.8
+Kota Bharu,Water,2023,4,88.19
+Kota Bharu,Electricity,2023,4,336.58
+Kota Bharu,Fuel,2023,4,190.74
+Melaka City,Water,2023,4,134.77
+Melaka City,Electricity,2023,4,276.05
+Melaka City,Fuel,2023,4,250.26
+Seremban,Water,2023,4,95.54
+Seremban,Electricity,2023,4,253.91
+Seremban,Fuel,2023,4,235.35
+Kuantan,Water,2023,4,149.43
+Kuantan,Electricity,2023,4,354.63
+Kuantan,Fuel,2023,4,178.48
+George Town,Water,2023,4,126.86
+George Town,Electricity,2023,4,382.11
+George Town,Fuel,2023,4,198.88
+Seberang Perai,Water,2023,4,169.47
+Seberang Perai,Electricity,2023,4,375.51
+Seberang Perai,Fuel,2023,4,252.0
+Ipoh,Water,2023,4,123.64
+Ipoh,Electricity,2023,4,490.32
+Ipoh,Fuel,2023,4,184.51
+Kangar,Water,2023,4,100.1
+Kangar,Electricity,2023,4,264.14
+Kangar,Fuel,2023,4,112.76
+Shah Alam,Water,2023,4,120.18
+Shah Alam,Electricity,2023,4,311.35
+Shah Alam,Fuel,2023,4,151.43
+Petaling Jaya,Water,2023,4,130.3
+Petaling Jaya,Electricity,2023,4,269.7
+Petaling Jaya,Fuel,2023,4,258.67
+Subang Jaya,Water,2023,4,123.38
+Subang Jaya,Electricity,2023,4,323.05
+Subang Jaya,Fuel,2023,4,158.64
+Klang,Water,2023,4,169.83
+Klang,Electricity,2023,4,500.88
+Klang,Fuel,2023,4,118.62
+Kuala Terengganu,Water,2023,4,156.24
+Kuala Terengganu,Electricity,2023,4,361.47
+Kuala Terengganu,Fuel,2023,4,167.43
+Kota Kinabalu,Water,2023,4,99.12
+Kota Kinabalu,Electricity,2023,4,292.04
+Kota Kinabalu,Fuel,2023,4,160.8
+Sandakan,Water,2023,4,122.83
+Sandakan,Electricity,2023,4,256.59
+Sandakan,Fuel,2023,4,205.51
+Tawau,Water,2023,4,113.99
+Tawau,Electricity,2023,4,256.2
+Tawau,Fuel,2023,4,254.18
+Kuching,Water,2023,4,124.98
+Kuching,Electricity,2023,4,308.41
+Kuching,Fuel,2023,4,245.32
+Miri,Water,2023,4,136.34
+Miri,Electricity,2023,4,356.6
+Miri,Fuel,2023,4,192.37
+Sibu,Water,2023,4,141.28
+Sibu,Electricity,2023,4,405.29
+Sibu,Fuel,2023,4,168.15
+Johor Bahru,Water,2023,5,120.35
+Johor Bahru,Electricity,2023,5,338.6
+Johor Bahru,Fuel,2023,5,204.71
+Iskandar Puteri,Water,2023,5,101.76
+Iskandar Puteri,Electricity,2023,5,365.53
+Iskandar Puteri,Fuel,2023,5,132.69
+Pasir Gudang,Water,2023,5,87.61
+Pasir Gudang,Electricity,2023,5,326.66
+Pasir Gudang,Fuel,2023,5,161.64
+Alor Setar,Water,2023,5,126.26
+Alor Setar,Electricity,2023,5,332.6
+Alor Setar,Fuel,2023,5,231.2
+Sungai Petani,Water,2023,5,133.68
+Sungai Petani,Electricity,2023,5,329.8
+Sungai Petani,Fuel,2023,5,177.24
+Kota Bharu,Water,2023,5,147.18
+Kota Bharu,Electricity,2023,5,231.22
+Kota Bharu,Fuel,2023,5,257.06
+Melaka City,Water,2023,5,169.49
+Melaka City,Electricity,2023,5,367.84
+Melaka City,Fuel,2023,5,126.6
+Seremban,Water,2023,5,98.72
+Seremban,Electricity,2023,5,242.41
+Seremban,Fuel,2023,5,195.13
+Kuantan,Water,2023,5,155.92
+Kuantan,Electricity,2023,5,432.46
+Kuantan,Fuel,2023,5,101.73
+George Town,Water,2023,5,105.64
+George Town,Electricity,2023,5,464.85
+George Town,Fuel,2023,5,136.19
+Seberang Perai,Water,2023,5,174.98
+Seberang Perai,Electricity,2023,5,356.64
+Seberang Perai,Fuel,2023,5,134.83
+Ipoh,Water,2023,5,98.03
+Ipoh,Electricity,2023,5,209.57
+Ipoh,Fuel,2023,5,266.3
+Kangar,Water,2023,5,147.39
+Kangar,Electricity,2023,5,365.48
+Kangar,Fuel,2023,5,180.5
+Shah Alam,Water,2023,5,136.84
+Shah Alam,Electricity,2023,5,406.96
+Shah Alam,Fuel,2023,5,113.51
+Petaling Jaya,Water,2023,5,118.42
+Petaling Jaya,Electricity,2023,5,311.35
+Petaling Jaya,Fuel,2023,5,149.15
+Subang Jaya,Water,2023,5,129.33
+Subang Jaya,Electricity,2023,5,222.95
+Subang Jaya,Fuel,2023,5,287.98
+Klang,Water,2023,5,97.52
+Klang,Electricity,2023,5,310.41
+Klang,Fuel,2023,5,111.96
+Kuala Terengganu,Water,2023,5,100.64
+Kuala Terengganu,Electricity,2023,5,447.24
+Kuala Terengganu,Fuel,2023,5,122.29
+Kota Kinabalu,Water,2023,5,139.48
+Kota Kinabalu,Electricity,2023,5,276.47
+Kota Kinabalu,Fuel,2023,5,129.3
+Sandakan,Water,2023,5,78.54
+Sandakan,Electricity,2023,5,285.32
+Sandakan,Fuel,2023,5,117.71
+Tawau,Water,2023,5,116.59
+Tawau,Electricity,2023,5,242.99
+Tawau,Fuel,2023,5,175.19
+Kuching,Water,2023,5,91.91
+Kuching,Electricity,2023,5,244.04
+Kuching,Fuel,2023,5,166.57
+Miri,Water,2023,5,121.27
+Miri,Electricity,2023,5,329.41
+Miri,Fuel,2023,5,282.66
+Sibu,Water,2023,5,134.61
+Sibu,Electricity,2023,5,365.01
+Sibu,Fuel,2023,5,190.89
+Johor Bahru,Water,2023,6,140.82
+Johor Bahru,Electricity,2023,6,283.26
+Johor Bahru,Fuel,2023,6,145.85
+Iskandar Puteri,Water,2023,6,114.29
+Iskandar Puteri,Electricity,2023,6,446.12
+Iskandar Puteri,Fuel,2023,6,203.39
+Pasir Gudang,Water,2023,6,151.56
+Pasir Gudang,Electricity,2023,6,329.49
+Pasir Gudang,Fuel,2023,6,156.63
+Alor Setar,Water,2023,6,125.65
+Alor Setar,Electricity,2023,6,399.06
+Alor Setar,Fuel,2023,6,172.43
+Sungai Petani,Water,2023,6,96.56
+Sungai Petani,Electricity,2023,6,355.58
+Sungai Petani,Fuel,2023,6,259.05
+Kota Bharu,Water,2023,6,158.98
+Kota Bharu,Electricity,2023,6,348.97
+Kota Bharu,Fuel,2023,6,139.83
+Melaka City,Water,2023,6,111.96
+Melaka City,Electricity,2023,6,368.49
+Melaka City,Fuel,2023,6,129.96
+Seremban,Water,2023,6,95.09
+Seremban,Electricity,2023,6,251.49
+Seremban,Fuel,2023,6,141.62
+Kuantan,Water,2023,6,129.25
+Kuantan,Electricity,2023,6,246.47
+Kuantan,Fuel,2023,6,190.46
+George Town,Water,2023,6,108.28
+George Town,Electricity,2023,6,332.03
+George Town,Fuel,2023,6,199.44
+Seberang Perai,Water,2023,6,97.27
+Seberang Perai,Electricity,2023,6,408.01
+Seberang Perai,Fuel,2023,6,169.97
+Ipoh,Water,2023,6,219.38
+Ipoh,Electricity,2023,6,412.73
+Ipoh,Fuel,2023,6,150.76
+Kangar,Water,2023,6,89.49
+Kangar,Electricity,2023,6,197.87
+Kangar,Fuel,2023,6,159.28
+Shah Alam,Water,2023,6,134.82
+Shah Alam,Electricity,2023,6,423.12
+Shah Alam,Fuel,2023,6,96.96
+Petaling Jaya,Water,2023,6,132.77
+Petaling Jaya,Electricity,2023,6,350.97
+Petaling Jaya,Fuel,2023,6,241.45
+Subang Jaya,Water,2023,6,121.73
+Subang Jaya,Electricity,2023,6,271.48
+Subang Jaya,Fuel,2023,6,231.55
+Klang,Water,2023,6,150.92
+Klang,Electricity,2023,6,333.37
+Klang,Fuel,2023,6,123.63
+Kuala Terengganu,Water,2023,6,145.22
+Kuala Terengganu,Electricity,2023,6,289.6
+Kuala Terengganu,Fuel,2023,6,263.55
+Kota Kinabalu,Water,2023,6,189.91
+Kota Kinabalu,Electricity,2023,6,312.31
+Kota Kinabalu,Fuel,2023,6,202.01
+Sandakan,Water,2023,6,145.17
+Sandakan,Electricity,2023,6,307.1
+Sandakan,Fuel,2023,6,128.73
+Tawau,Water,2023,6,92.05
+Tawau,Electricity,2023,6,352.96
+Tawau,Fuel,2023,6,124.17
+Kuching,Water,2023,6,153.0
+Kuching,Electricity,2023,6,335.17
+Kuching,Fuel,2023,6,246.84
+Miri,Water,2023,6,113.6
+Miri,Electricity,2023,6,350.37
+Miri,Fuel,2023,6,160.35
+Sibu,Water,2023,6,143.88
+Sibu,Electricity,2023,6,278.04
+Sibu,Fuel,2023,6,205.11
+Johor Bahru,Water,2023,7,123.52
+Johor Bahru,Electricity,2023,7,388.16
+Johor Bahru,Fuel,2023,7,237.59
+Iskandar Puteri,Water,2023,7,151.47
+Iskandar Puteri,Electricity,2023,7,298.81
+Iskandar Puteri,Fuel,2023,7,124.39
+Pasir Gudang,Water,2023,7,154.25
+Pasir Gudang,Electricity,2023,7,295.07
+Pasir Gudang,Fuel,2023,7,237.03
+Alor Setar,Water,2023,7,123.03
+Alor Setar,Electricity,2023,7,425.42
+Alor Setar,Fuel,2023,7,243.2
+Sungai Petani,Water,2023,7,147.49
+Sungai Petani,Electricity,2023,7,325.23
+Sungai Petani,Fuel,2023,7,136.03
+Kota Bharu,Water,2023,7,84.23
+Kota Bharu,Electricity,2023,7,376.82
+Kota Bharu,Fuel,2023,7,181.65
+Melaka City,Water,2023,7,162.5
+Melaka City,Electricity,2023,7,237.4
+Melaka City,Fuel,2023,7,159.03
+Seremban,Water,2023,7,127.23
+Seremban,Electricity,2023,7,244.05
+Seremban,Fuel,2023,7,242.61
+Kuantan,Water,2023,7,127.88
+Kuantan,Electricity,2023,7,366.05
+Kuantan,Fuel,2023,7,131.41
+George Town,Water,2023,7,141.93
+George Town,Electricity,2023,7,350.71
+George Town,Fuel,2023,7,201.09
+Seberang Perai,Water,2023,7,147.56
+Seberang Perai,Electricity,2023,7,241.78
+Seberang Perai,Fuel,2023,7,130.75
+Ipoh,Water,2023,7,107.56
+Ipoh,Electricity,2023,7,246.09
+Ipoh,Fuel,2023,7,221.75
+Kangar,Water,2023,7,142.9
+Kangar,Electricity,2023,7,404.37
+Kangar,Fuel,2023,7,144.09
+Shah Alam,Water,2023,7,186.72
+Shah Alam,Electricity,2023,7,203.46
+Shah Alam,Fuel,2023,7,225.42
+Petaling Jaya,Water,2023,7,118.58
+Petaling Jaya,Electricity,2023,7,394.94
+Petaling Jaya,Fuel,2023,7,157.43
+Subang Jaya,Water,2023,7,118.58
+Subang Jaya,Electricity,2023,7,342.17
+Subang Jaya,Fuel,2023,7,221.03
+Klang,Water,2023,7,102.09
+Klang,Electricity,2023,7,380.68
+Klang,Fuel,2023,7,138.75
+Kuala Terengganu,Water,2023,7,168.32
+Kuala Terengganu,Electricity,2023,7,282.03
+Kuala Terengganu,Fuel,2023,7,147.47
+Kota Kinabalu,Water,2023,7,149.15
+Kota Kinabalu,Electricity,2023,7,331.15
+Kota Kinabalu,Fuel,2023,7,214.7
+Sandakan,Water,2023,7,143.64
+Sandakan,Electricity,2023,7,371.5
+Sandakan,Fuel,2023,7,107.38
+Tawau,Water,2023,7,138.45
+Tawau,Electricity,2023,7,208.26
+Tawau,Fuel,2023,7,152.46
+Kuching,Water,2023,7,112.64
+Kuching,Electricity,2023,7,552.32
+Kuching,Fuel,2023,7,226.54
+Miri,Water,2023,7,155.69
+Miri,Electricity,2023,7,349.8
+Miri,Fuel,2023,7,214.25
+Sibu,Water,2023,7,103.15
+Sibu,Electricity,2023,7,454.24
+Sibu,Fuel,2023,7,192.67
+Johor Bahru,Water,2023,8,208.17
+Johor Bahru,Electricity,2023,8,362.69
+Johor Bahru,Fuel,2023,8,219.4
+Iskandar Puteri,Water,2023,8,116.07
+Iskandar Puteri,Electricity,2023,8,288.8
+Iskandar Puteri,Fuel,2023,8,113.48
+Pasir Gudang,Water,2023,8,95.68
+Pasir Gudang,Electricity,2023,8,446.02
+Pasir Gudang,Fuel,2023,8,177.73
+Alor Setar,Water,2023,8,159.02
+Alor Setar,Electricity,2023,8,323.88
+Alor Setar,Fuel,2023,8,114.51
+Sungai Petani,Water,2023,8,108.81
+Sungai Petani,Electricity,2023,8,351.58
+Sungai Petani,Fuel,2023,8,217.67
+Kota Bharu,Water,2023,8,95.2
+Kota Bharu,Electricity,2023,8,204.48
+Kota Bharu,Fuel,2023,8,163.5
+Melaka City,Water,2023,8,83.8
+Melaka City,Electricity,2023,8,319.01
+Melaka City,Fuel,2023,8,171.25
+Seremban,Water,2023,8,93.5
+Seremban,Electricity,2023,8,279.15
+Seremban,Fuel,2023,8,164.22
+Kuantan,Water,2023,8,113.31
+Kuantan,Electricity,2023,8,338.53
+Kuantan,Fuel,2023,8,278.14
+George Town,Water,2023,8,148.29
+George Town,Electricity,2023,8,320.68
+George Town,Fuel,2023,8,250.74
+Seberang Perai,Water,2023,8,130.8
+Seberang Perai,Electricity,2023,8,354.83
+Seberang Perai,Fuel,2023,8,111.11
+Ipoh,Water,2023,8,162.58
+Ipoh,Electricity,2023,8,328.35
+Ipoh,Fuel,2023,8,175.54
+Kangar,Water,2023,8,134.23
+Kangar,Electricity,2023,8,300.36
+Kangar,Fuel,2023,8,138.91
+Shah Alam,Water,2023,8,161.83
+Shah Alam,Electricity,2023,8,194.85
+Shah Alam,Fuel,2023,8,248.69
+Petaling Jaya,Water,2023,8,138.67
+Petaling Jaya,Electricity,2023,8,340.37
+Petaling Jaya,Fuel,2023,8,164.12
+Subang Jaya,Water,2023,8,124.82
+Subang Jaya,Electricity,2023,8,319.76
+Subang Jaya,Fuel,2023,8,118.19
+Klang,Water,2023,8,135.54
+Klang,Electricity,2023,8,302.32
+Klang,Fuel,2023,8,140.57
+Kuala Terengganu,Water,2023,8,117.36
+Kuala Terengganu,Electricity,2023,8,408.83
+Kuala Terengganu,Fuel,2023,8,228.04
+Kota Kinabalu,Water,2023,8,145.43
+Kota Kinabalu,Electricity,2023,8,334.89
+Kota Kinabalu,Fuel,2023,8,144.82
+Sandakan,Water,2023,8,144.97
+Sandakan,Electricity,2023,8,412.79
+Sandakan,Fuel,2023,8,192.1
+Tawau,Water,2023,8,153.58
+Tawau,Electricity,2023,8,339.25
+Tawau,Fuel,2023,8,246.07
+Kuching,Water,2023,8,122.95
+Kuching,Electricity,2023,8,374.54
+Kuching,Fuel,2023,8,337.38
+Miri,Water,2023,8,119.92
+Miri,Electricity,2023,8,277.08
+Miri,Fuel,2023,8,236.99
+Sibu,Water,2023,8,91.78
+Sibu,Electricity,2023,8,325.32
+Sibu,Fuel,2023,8,268.45
+Johor Bahru,Water,2023,9,79.96
+Johor Bahru,Electricity,2023,9,278.47
+Johor Bahru,Fuel,2023,9,179.51
+Iskandar Puteri,Water,2023,9,121.05
+Iskandar Puteri,Electricity,2023,9,319.39
+Iskandar Puteri,Fuel,2023,9,243.91
+Pasir Gudang,Water,2023,9,144.46
+Pasir Gudang,Electricity,2023,9,281.05
+Pasir Gudang,Fuel,2023,9,177.75
+Alor Setar,Water,2023,9,84.7
+Alor Setar,Electricity,2023,9,313.16
+Alor Setar,Fuel,2023,9,185.36
+Sungai Petani,Water,2023,9,151.36
+Sungai Petani,Electricity,2023,9,316.56
+Sungai Petani,Fuel,2023,9,161.73
+Kota Bharu,Water,2023,9,97.75
+Kota Bharu,Electricity,2023,9,317.54
+Kota Bharu,Fuel,2023,9,273.34
+Melaka City,Water,2023,9,97.98
+Melaka City,Electricity,2023,9,485.13
+Melaka City,Fuel,2023,9,259.88
+Seremban,Water,2023,9,123.1
+Seremban,Electricity,2023,9,411.31
+Seremban,Fuel,2023,9,159.26
+Kuantan,Water,2023,9,88.39
+Kuantan,Electricity,2023,9,266.37
+Kuantan,Fuel,2023,9,189.45
+George Town,Water,2023,9,116.46
+George Town,Electricity,2023,9,352.04
+George Town,Fuel,2023,9,128.07
+Seberang Perai,Water,2023,9,173.49
+Seberang Perai,Electricity,2023,9,262.5
+Seberang Perai,Fuel,2023,9,173.92
+Ipoh,Water,2023,9,78.41
+Ipoh,Electricity,2023,9,429.79
+Ipoh,Fuel,2023,9,164.43
+Kangar,Water,2023,9,85.64
+Kangar,Electricity,2023,9,253.28
+Kangar,Fuel,2023,9,225.42
+Shah Alam,Water,2023,9,100.06
+Shah Alam,Electricity,2023,9,254.0
+Shah Alam,Fuel,2023,9,278.3
+Petaling Jaya,Water,2023,9,141.6
+Petaling Jaya,Electricity,2023,9,368.52
+Petaling Jaya,Fuel,2023,9,152.7
+Subang Jaya,Water,2023,9,98.14
+Subang Jaya,Electricity,2023,9,248.24
+Subang Jaya,Fuel,2023,9,239.53
+Klang,Water,2023,9,141.77
+Klang,Electricity,2023,9,383.73
+Klang,Fuel,2023,9,169.6
+Kuala Terengganu,Water,2023,9,145.67
+Kuala Terengganu,Electricity,2023,9,338.06
+Kuala Terengganu,Fuel,2023,9,238.19
+Kota Kinabalu,Water,2023,9,81.44
+Kota Kinabalu,Electricity,2023,9,488.72
+Kota Kinabalu,Fuel,2023,9,251.79
+Sandakan,Water,2023,9,119.43
+Sandakan,Electricity,2023,9,274.73
+Sandakan,Fuel,2023,9,268.47
+Tawau,Water,2023,9,133.49
+Tawau,Electricity,2023,9,315.65
+Tawau,Fuel,2023,9,132.83
+Kuching,Water,2023,9,169.66
+Kuching,Electricity,2023,9,253.08
+Kuching,Fuel,2023,9,182.51
+Miri,Water,2023,9,112.57
+Miri,Electricity,2023,9,249.17
+Miri,Fuel,2023,9,204.13
+Sibu,Water,2023,9,89.66
+Sibu,Electricity,2023,9,207.59
+Sibu,Fuel,2023,9,105.3
+Johor Bahru,Water,2023,10,145.29
+Johor Bahru,Electricity,2023,10,360.03
+Johor Bahru,Fuel,2023,10,187.46
+Iskandar Puteri,Water,2023,10,152.53
+Iskandar Puteri,Electricity,2023,10,224.74
+Iskandar Puteri,Fuel,2023,10,156.0
+Pasir Gudang,Water,2023,10,156.39
+Pasir Gudang,Electricity,2023,10,342.4
+Pasir Gudang,Fuel,2023,10,168.41
+Alor Setar,Water,2023,10,77.24
+Alor Setar,Electricity,2023,10,307.8
+Alor Setar,Fuel,2023,10,205.21
+Sungai Petani,Water,2023,10,84.6
+Sungai Petani,Electricity,2023,10,383.63
+Sungai Petani,Fuel,2023,10,131.11
+Kota Bharu,Water,2023,10,158.17
+Kota Bharu,Electricity,2023,10,299.37
+Kota Bharu,Fuel,2023,10,165.12
+Melaka City,Water,2023,10,130.56
+Melaka City,Electricity,2023,10,304.8
+Melaka City,Fuel,2023,10,235.34
+Seremban,Water,2023,10,90.01
+Seremban,Electricity,2023,10,245.23
+Seremban,Fuel,2023,10,127.52
+Kuantan,Water,2023,10,142.69
+Kuantan,Electricity,2023,10,194.6
+Kuantan,Fuel,2023,10,175.55
+George Town,Water,2023,10,136.95
+George Town,Electricity,2023,10,257.99
+George Town,Fuel,2023,10,254.5
+Seberang Perai,Water,2023,10,97.55
+Seberang Perai,Electricity,2023,10,483.67
+Seberang Perai,Fuel,2023,10,110.63
+Ipoh,Water,2023,10,154.13
+Ipoh,Electricity,2023,10,278.08
+Ipoh,Fuel,2023,10,171.91
+Kangar,Water,2023,10,154.11
+Kangar,Electricity,2023,10,417.85
+Kangar,Fuel,2023,10,203.92
+Shah Alam,Water,2023,10,169.2
+Shah Alam,Electricity,2023,10,427.71
+Shah Alam,Fuel,2023,10,116.29
+Petaling Jaya,Water,2023,10,128.14
+Petaling Jaya,Electricity,2023,10,363.84
+Petaling Jaya,Fuel,2023,10,272.92
+Subang Jaya,Water,2023,10,135.1
+Subang Jaya,Electricity,2023,10,480.58
+Subang Jaya,Fuel,2023,10,149.22
+Klang,Water,2023,10,126.2
+Klang,Electricity,2023,10,262.5
+Klang,Fuel,2023,10,248.81
+Kuala Terengganu,Water,2023,10,138.44
+Kuala Terengganu,Electricity,2023,10,266.6
+Kuala Terengganu,Fuel,2023,10,107.65
+Kota Kinabalu,Water,2023,10,127.13
+Kota Kinabalu,Electricity,2023,10,349.97
+Kota Kinabalu,Fuel,2023,10,122.62
+Sandakan,Water,2023,10,136.44
+Sandakan,Electricity,2023,10,389.28
+Sandakan,Fuel,2023,10,138.91
+Tawau,Water,2023,10,86.64
+Tawau,Electricity,2023,10,293.15
+Tawau,Fuel,2023,10,110.27
+Kuching,Water,2023,10,97.88
+Kuching,Electricity,2023,10,247.77
+Kuching,Fuel,2023,10,206.45
+Miri,Water,2023,10,95.01
+Miri,Electricity,2023,10,306.35
+Miri,Fuel,2023,10,172.83
+Sibu,Water,2023,10,105.83
+Sibu,Electricity,2023,10,287.47
+Sibu,Fuel,2023,10,166.1
+Johor Bahru,Water,2023,11,100.33
+Johor Bahru,Electricity,2023,11,408.45
+Johor Bahru,Fuel,2023,11,145.83
+Iskandar Puteri,Water,2023,11,147.57
+Iskandar Puteri,Electricity,2023,11,378.66
+Iskandar Puteri,Fuel,2023,11,274.39
+Pasir Gudang,Water,2023,11,148.46
+Pasir Gudang,Electricity,2023,11,303.41
+Pasir Gudang,Fuel,2023,11,212.1
+Alor Setar,Water,2023,11,178.29
+Alor Setar,Electricity,2023,11,367.02
+Alor Setar,Fuel,2023,11,107.73
+Sungai Petani,Water,2023,11,133.87
+Sungai Petani,Electricity,2023,11,198.34
+Sungai Petani,Fuel,2023,11,234.98
+Kota Bharu,Water,2023,11,103.65
+Kota Bharu,Electricity,2023,11,249.24
+Kota Bharu,Fuel,2023,11,195.23
+Melaka City,Water,2023,11,145.34
+Melaka City,Electricity,2023,11,306.25
+Melaka City,Fuel,2023,11,252.32
+Seremban,Water,2023,11,93.02
+Seremban,Electricity,2023,11,341.55
+Seremban,Fuel,2023,11,174.11
+Kuantan,Water,2023,11,93.86
+Kuantan,Electricity,2023,11,244.25
+Kuantan,Fuel,2023,11,140.81
+George Town,Water,2023,11,181.37
+George Town,Electricity,2023,11,333.19
+George Town,Fuel,2023,11,140.16
+Seberang Perai,Water,2023,11,108.42
+Seberang Perai,Electricity,2023,11,453.99
+Seberang Perai,Fuel,2023,11,177.38
+Ipoh,Water,2023,11,144.26
+Ipoh,Electricity,2023,11,361.17
+Ipoh,Fuel,2023,11,153.59
+Kangar,Water,2023,11,167.3
+Kangar,Electricity,2023,11,437.82
+Kangar,Fuel,2023,11,176.37
+Shah Alam,Water,2023,11,127.96
+Shah Alam,Electricity,2023,11,340.74
+Shah Alam,Fuel,2023,11,271.55
+Petaling Jaya,Water,2023,11,130.38
+Petaling Jaya,Electricity,2023,11,370.8
+Petaling Jaya,Fuel,2023,11,164.35
+Subang Jaya,Water,2023,11,136.0
+Subang Jaya,Electricity,2023,11,207.81
+Subang Jaya,Fuel,2023,11,243.06
+Klang,Water,2023,11,135.31
+Klang,Electricity,2023,11,220.91
+Klang,Fuel,2023,11,232.58
+Kuala Terengganu,Water,2023,11,125.23
+Kuala Terengganu,Electricity,2023,11,255.06
+Kuala Terengganu,Fuel,2023,11,167.46
+Kota Kinabalu,Water,2023,11,154.14
+Kota Kinabalu,Electricity,2023,11,259.18
+Kota Kinabalu,Fuel,2023,11,192.73
+Sandakan,Water,2023,11,102.75
+Sandakan,Electricity,2023,11,207.71
+Sandakan,Fuel,2023,11,224.98
+Tawau,Water,2023,11,108.82
+Tawau,Electricity,2023,11,406.0
+Tawau,Fuel,2023,11,238.7
+Kuching,Water,2023,11,145.44
+Kuching,Electricity,2023,11,378.0
+Kuching,Fuel,2023,11,271.29
+Miri,Water,2023,11,152.54
+Miri,Electricity,2023,11,366.18
+Miri,Fuel,2023,11,272.94
+Sibu,Water,2023,11,156.86
+Sibu,Electricity,2023,11,316.96
+Sibu,Fuel,2023,11,126.46
+Johor Bahru,Water,2023,12,135.8
+Johor Bahru,Electricity,2023,12,282.15
+Johor Bahru,Fuel,2023,12,273.75
+Iskandar Puteri,Water,2023,12,167.85
+Iskandar Puteri,Electricity,2023,12,197.02
+Iskandar Puteri,Fuel,2023,12,169.76
+Pasir Gudang,Water,2023,12,142.25
+Pasir Gudang,Electricity,2023,12,318.56
+Pasir Gudang,Fuel,2023,12,113.63
+Alor Setar,Water,2023,12,118.82
+Alor Setar,Electricity,2023,12,404.29
+Alor Setar,Fuel,2023,12,180.32
+Sungai Petani,Water,2023,12,117.93
+Sungai Petani,Electricity,2023,12,397.73
+Sungai Petani,Fuel,2023,12,220.96
+Kota Bharu,Water,2023,12,124.84
+Kota Bharu,Electricity,2023,12,392.74
+Kota Bharu,Fuel,2023,12,246.28
+Melaka City,Water,2023,12,84.89
+Melaka City,Electricity,2023,12,287.08
+Melaka City,Fuel,2023,12,233.14
+Seremban,Water,2023,12,134.43
+Seremban,Electricity,2023,12,320.21
+Seremban,Fuel,2023,12,122.39
+Kuantan,Water,2023,12,188.69
+Kuantan,Electricity,2023,12,360.84
+Kuantan,Fuel,2023,12,180.42
+George Town,Water,2023,12,160.87
+George Town,Electricity,2023,12,374.9
+George Town,Fuel,2023,12,112.24
+Seberang Perai,Water,2023,12,156.45
+Seberang Perai,Electricity,2023,12,375.5
+Seberang Perai,Fuel,2023,12,252.52
+Ipoh,Water,2023,12,151.05
+Ipoh,Electricity,2023,12,310.6
+Ipoh,Fuel,2023,12,257.48
+Kangar,Water,2023,12,86.24
+Kangar,Electricity,2023,12,268.59
+Kangar,Fuel,2023,12,183.45
+Shah Alam,Water,2023,12,96.74
+Shah Alam,Electricity,2023,12,229.12
+Shah Alam,Fuel,2023,12,101.41
+Petaling Jaya,Water,2023,12,88.19
+Petaling Jaya,Electricity,2023,12,243.04
+Petaling Jaya,Fuel,2023,12,120.56
+Subang Jaya,Water,2023,12,117.97
+Subang Jaya,Electricity,2023,12,386.31
+Subang Jaya,Fuel,2023,12,247.38
+Klang,Water,2023,12,181.36
+Klang,Electricity,2023,12,382.66
+Klang,Fuel,2023,12,193.65
+Kuala Terengganu,Water,2023,12,120.47
+Kuala Terengganu,Electricity,2023,12,221.6
+Kuala Terengganu,Fuel,2023,12,244.83
+Kota Kinabalu,Water,2023,12,135.86
+Kota Kinabalu,Electricity,2023,12,451.34
+Kota Kinabalu,Fuel,2023,12,235.59
+Sandakan,Water,2023,12,130.26
+Sandakan,Electricity,2023,12,248.46
+Sandakan,Fuel,2023,12,219.62
+Tawau,Water,2023,12,111.01
+Tawau,Electricity,2023,12,225.27
+Tawau,Fuel,2023,12,176.26
+Kuching,Water,2023,12,170.03
+Kuching,Electricity,2023,12,318.87
+Kuching,Fuel,2023,12,123.16
+Miri,Water,2023,12,107.86
+Miri,Electricity,2023,12,316.19
+Miri,Fuel,2023,12,184.77
+Sibu,Water,2023,12,100.05
+Sibu,Electricity,2023,12,344.86
+Sibu,Fuel,2023,12,244.07
+Johor Bahru,Water,2024,1,122.39
+Johor Bahru,Electricity,2024,1,279.8
+Johor Bahru,Fuel,2024,1,203.15
+Iskandar Puteri,Water,2024,1,188.95
+Iskandar Puteri,Electricity,2024,1,340.23
+Iskandar Puteri,Fuel,2024,1,137.87
+Pasir Gudang,Water,2024,1,116.16
+Pasir Gudang,Electricity,2024,1,419.53
+Pasir Gudang,Fuel,2024,1,214.21
+Alor Setar,Water,2024,1,179.79
+Alor Setar,Electricity,2024,1,369.69
+Alor Setar,Fuel,2024,1,261.87
+Sungai Petani,Water,2024,1,156.17
+Sungai Petani,Electricity,2024,1,364.04
+Sungai Petani,Fuel,2024,1,215.66
+Kota Bharu,Water,2024,1,138.56
+Kota Bharu,Electricity,2024,1,320.94
+Kota Bharu,Fuel,2024,1,286.26
+Melaka City,Water,2024,1,174.11
+Melaka City,Electricity,2024,1,200.38
+Melaka City,Fuel,2024,1,216.98
+Seremban,Water,2024,1,87.28
+Seremban,Electricity,2024,1,300.19
+Seremban,Fuel,2024,1,168.1
+Kuantan,Water,2024,1,122.83
+Kuantan,Electricity,2024,1,266.61
+Kuantan,Fuel,2024,1,136.47
+George Town,Water,2024,1,98.03
+George Town,Electricity,2024,1,250.06
+George Town,Fuel,2024,1,107.96
+Seberang Perai,Water,2024,1,80.27
+Seberang Perai,Electricity,2024,1,343.96
+Seberang Perai,Fuel,2024,1,113.28
+Ipoh,Water,2024,1,134.8
+Ipoh,Electricity,2024,1,410.07
+Ipoh,Fuel,2024,1,225.92
+Kangar,Water,2024,1,133.57
+Kangar,Electricity,2024,1,298.79
+Kangar,Fuel,2024,1,208.73
+Shah Alam,Water,2024,1,101.55
+Shah Alam,Electricity,2024,1,416.73
+Shah Alam,Fuel,2024,1,143.75
+Petaling Jaya,Water,2024,1,138.9
+Petaling Jaya,Electricity,2024,1,366.79
+Petaling Jaya,Fuel,2024,1,217.51
+Subang Jaya,Water,2024,1,127.34
+Subang Jaya,Electricity,2024,1,381.35
+Subang Jaya,Fuel,2024,1,201.27
+Klang,Water,2024,1,115.22
+Klang,Electricity,2024,1,254.24
+Klang,Fuel,2024,1,144.83
+Kuala Terengganu,Water,2024,1,95.09
+Kuala Terengganu,Electricity,2024,1,340.13
+Kuala Terengganu,Fuel,2024,1,132.88
+Kota Kinabalu,Water,2024,1,108.59
+Kota Kinabalu,Electricity,2024,1,336.13
+Kota Kinabalu,Fuel,2024,1,158.61
+Sandakan,Water,2024,1,108.77
+Sandakan,Electricity,2024,1,310.5
+Sandakan,Fuel,2024,1,142.47
+Tawau,Water,2024,1,117.87
+Tawau,Electricity,2024,1,329.45
+Tawau,Fuel,2024,1,194.53
+Kuching,Water,2024,1,113.85
+Kuching,Electricity,2024,1,290.52
+Kuching,Fuel,2024,1,126.58
+Miri,Water,2024,1,126.3
+Miri,Electricity,2024,1,338.06
+Miri,Fuel,2024,1,224.83
+Sibu,Water,2024,1,153.98
+Sibu,Electricity,2024,1,352.24
+Sibu,Fuel,2024,1,281.37
+Johor Bahru,Water,2024,2,167.86
+Johor Bahru,Electricity,2024,2,214.72
+Johor Bahru,Fuel,2024,2,158.83
+Iskandar Puteri,Water,2024,2,96.65
+Iskandar Puteri,Electricity,2024,2,425.86
+Iskandar Puteri,Fuel,2024,2,191.35
+Pasir Gudang,Water,2024,2,84.38
+Pasir Gudang,Electricity,2024,2,398.53
+Pasir Gudang,Fuel,2024,2,252.48
+Alor Setar,Water,2024,2,103.72
+Alor Setar,Electricity,2024,2,334.84
+Alor Setar,Fuel,2024,2,250.28
+Sungai Petani,Water,2024,2,99.41
+Sungai Petani,Electricity,2024,2,322.82
+Sungai Petani,Fuel,2024,2,330.45
+Kota Bharu,Water,2024,2,144.83
+Kota Bharu,Electricity,2024,2,404.37
+Kota Bharu,Fuel,2024,2,186.77
+Melaka City,Water,2024,2,131.18
+Melaka City,Electricity,2024,2,326.46
+Melaka City,Fuel,2024,2,191.38
+Seremban,Water,2024,2,214.37
+Seremban,Electricity,2024,2,398.14
+Seremban,Fuel,2024,2,192.4
+Kuantan,Water,2024,2,144.01
+Kuantan,Electricity,2024,2,246.27
+Kuantan,Fuel,2024,2,135.2
+George Town,Water,2024,2,84.36
+George Town,Electricity,2024,2,262.75
+George Town,Fuel,2024,2,208.34
+Seberang Perai,Water,2024,2,178.86
+Seberang Perai,Electricity,2024,2,234.63
+Seberang Perai,Fuel,2024,2,103.73
+Ipoh,Water,2024,2,109.86
+Ipoh,Electricity,2024,2,239.0
+Ipoh,Fuel,2024,2,268.32
+Kangar,Water,2024,2,89.26
+Kangar,Electricity,2024,2,360.2
+Kangar,Fuel,2024,2,223.52
+Shah Alam,Water,2024,2,103.96
+Shah Alam,Electricity,2024,2,248.0
+Shah Alam,Fuel,2024,2,116.5
+Petaling Jaya,Water,2024,2,110.99
+Petaling Jaya,Electricity,2024,2,321.28
+Petaling Jaya,Fuel,2024,2,104.14
+Subang Jaya,Water,2024,2,122.21
+Subang Jaya,Electricity,2024,2,277.1
+Subang Jaya,Fuel,2024,2,254.92
+Klang,Water,2024,2,139.57
+Klang,Electricity,2024,2,322.69
+Klang,Fuel,2024,2,148.5
+Kuala Terengganu,Water,2024,2,106.57
+Kuala Terengganu,Electricity,2024,2,326.74
+Kuala Terengganu,Fuel,2024,2,228.87
+Kota Kinabalu,Water,2024,2,154.11
+Kota Kinabalu,Electricity,2024,2,315.97
+Kota Kinabalu,Fuel,2024,2,154.49
+Sandakan,Water,2024,2,145.87
+Sandakan,Electricity,2024,2,296.56
+Sandakan,Fuel,2024,2,197.52
+Tawau,Water,2024,2,179.26
+Tawau,Electricity,2024,2,407.84
+Tawau,Fuel,2024,2,196.54
+Kuching,Water,2024,2,109.91
+Kuching,Electricity,2024,2,322.5
+Kuching,Fuel,2024,2,111.03
+Miri,Water,2024,2,106.63
+Miri,Electricity,2024,2,399.55
+Miri,Fuel,2024,2,190.23
+Sibu,Water,2024,2,195.14
+Sibu,Electricity,2024,2,261.64
+Sibu,Fuel,2024,2,120.15
+Johor Bahru,Water,2024,3,174.35
+Johor Bahru,Electricity,2024,3,254.14
+Johor Bahru,Fuel,2024,3,165.06
+Iskandar Puteri,Water,2024,3,99.42
+Iskandar Puteri,Electricity,2024,3,338.66
+Iskandar Puteri,Fuel,2024,3,138.68
+Pasir Gudang,Water,2024,3,124.39
+Pasir Gudang,Electricity,2024,3,344.7
+Pasir Gudang,Fuel,2024,3,191.42
+Alor Setar,Water,2024,3,171.55
+Alor Setar,Electricity,2024,3,407.84
+Alor Setar,Fuel,2024,3,167.39
+Sungai Petani,Water,2024,3,100.49
+Sungai Petani,Electricity,2024,3,399.32
+Sungai Petani,Fuel,2024,3,220.6
+Kota Bharu,Water,2024,3,128.29
+Kota Bharu,Electricity,2024,3,334.69
+Kota Bharu,Fuel,2024,3,137.11
+Melaka City,Water,2024,3,191.07
+Melaka City,Electricity,2024,3,279.86
+Melaka City,Fuel,2024,3,100.06
+Seremban,Water,2024,3,93.24
+Seremban,Electricity,2024,3,236.56
+Seremban,Fuel,2024,3,248.32
+Kuantan,Water,2024,3,146.56
+Kuantan,Electricity,2024,3,391.34
+Kuantan,Fuel,2024,3,140.77
+George Town,Water,2024,3,105.67
+George Town,Electricity,2024,3,260.0
+George Town,Fuel,2024,3,247.73
+Seberang Perai,Water,2024,3,92.59
+Seberang Perai,Electricity,2024,3,329.37
+Seberang Perai,Fuel,2024,3,231.02
+Ipoh,Water,2024,3,147.71
+Ipoh,Electricity,2024,3,446.01
+Ipoh,Fuel,2024,3,143.63
+Kangar,Water,2024,3,80.37
+Kangar,Electricity,2024,3,415.5
+Kangar,Fuel,2024,3,109.18
+Shah Alam,Water,2024,3,151.06
+Shah Alam,Electricity,2024,3,305.48
+Shah Alam,Fuel,2024,3,163.18
+Petaling Jaya,Water,2024,3,158.11
+Petaling Jaya,Electricity,2024,3,275.25
+Petaling Jaya,Fuel,2024,3,187.98
+Subang Jaya,Water,2024,3,171.31
+Subang Jaya,Electricity,2024,3,298.35
+Subang Jaya,Fuel,2024,3,239.53
+Klang,Water,2024,3,131.36
+Klang,Electricity,2024,3,409.33
+Klang,Fuel,2024,3,100.93
+Kuala Terengganu,Water,2024,3,111.88
+Kuala Terengganu,Electricity,2024,3,306.95
+Kuala Terengganu,Fuel,2024,3,126.26
+Kota Kinabalu,Water,2024,3,145.52
+Kota Kinabalu,Electricity,2024,3,325.04
+Kota Kinabalu,Fuel,2024,3,139.0
+Sandakan,Water,2024,3,113.72
+Sandakan,Electricity,2024,3,205.1
+Sandakan,Fuel,2024,3,271.09
+Tawau,Water,2024,3,136.65
+Tawau,Electricity,2024,3,295.89
+Tawau,Fuel,2024,3,253.23
+Kuching,Water,2024,3,89.64
+Kuching,Electricity,2024,3,373.68
+Kuching,Fuel,2024,3,182.61
+Miri,Water,2024,3,152.14
+Miri,Electricity,2024,3,255.53
+Miri,Fuel,2024,3,253.13
+Sibu,Water,2024,3,133.82
+Sibu,Electricity,2024,3,314.43
+Sibu,Fuel,2024,3,107.7
+Johor Bahru,Water,2024,4,136.35
+Johor Bahru,Electricity,2024,4,338.73
+Johor Bahru,Fuel,2024,4,203.04
+Iskandar Puteri,Water,2024,4,155.3
+Iskandar Puteri,Electricity,2024,4,245.39
+Iskandar Puteri,Fuel,2024,4,140.12
+Pasir Gudang,Water,2024,4,128.28
+Pasir Gudang,Electricity,2024,4,310.65
+Pasir Gudang,Fuel,2024,4,205.71
+Alor Setar,Water,2024,4,107.08
+Alor Setar,Electricity,2024,4,337.69
+Alor Setar,Fuel,2024,4,228.8
+Sungai Petani,Water,2024,4,101.64
+Sungai Petani,Electricity,2024,4,315.19
+Sungai Petani,Fuel,2024,4,226.72
+Kota Bharu,Water,2024,4,144.07
+Kota Bharu,Electricity,2024,4,441.46
+Kota Bharu,Fuel,2024,4,249.82
+Melaka City,Water,2024,4,79.52
+Melaka City,Electricity,2024,4,433.76
+Melaka City,Fuel,2024,4,203.54
+Seremban,Water,2024,4,111.83
+Seremban,Electricity,2024,4,360.62
+Seremban,Fuel,2024,4,193.29
+Kuantan,Water,2024,4,147.24
+Kuantan,Electricity,2024,4,197.38
+Kuantan,Fuel,2024,4,218.88
+George Town,Water,2024,4,143.97
+George Town,Electricity,2024,4,236.65
+George Town,Fuel,2024,4,228.73
+Seberang Perai,Water,2024,4,92.13
+Seberang Perai,Electricity,2024,4,400.72
+Seberang Perai,Fuel,2024,4,136.62
+Ipoh,Water,2024,4,110.47
+Ipoh,Electricity,2024,4,269.3
+Ipoh,Fuel,2024,4,302.96
+Kangar,Water,2024,4,177.4
+Kangar,Electricity,2024,4,332.57
+Kangar,Fuel,2024,4,128.58
+Shah Alam,Water,2024,4,93.42
+Shah Alam,Electricity,2024,4,288.79
+Shah Alam,Fuel,2024,4,171.61
+Petaling Jaya,Water,2024,4,122.2
+Petaling Jaya,Electricity,2024,4,407.39
+Petaling Jaya,Fuel,2024,4,250.29
+Subang Jaya,Water,2024,4,94.06
+Subang Jaya,Electricity,2024,4,355.85
+Subang Jaya,Fuel,2024,4,136.47
+Klang,Water,2024,4,162.84
+Klang,Electricity,2024,4,250.05
+Klang,Fuel,2024,4,123.68
+Kuala Terengganu,Water,2024,4,100.1
+Kuala Terengganu,Electricity,2024,4,400.0
+Kuala Terengganu,Fuel,2024,4,231.1
+Kota Kinabalu,Water,2024,4,130.89
+Kota Kinabalu,Electricity,2024,4,305.29
+Kota Kinabalu,Fuel,2024,4,172.17
+Sandakan,Water,2024,4,124.63
+Sandakan,Electricity,2024,4,402.92
+Sandakan,Fuel,2024,4,270.47
+Tawau,Water,2024,4,121.31
+Tawau,Electricity,2024,4,284.9
+Tawau,Fuel,2024,4,193.04
+Kuching,Water,2024,4,93.96
+Kuching,Electricity,2024,4,288.73
+Kuching,Fuel,2024,4,264.32
+Miri,Water,2024,4,103.14
+Miri,Electricity,2024,4,328.28
+Miri,Fuel,2024,4,252.87
+Sibu,Water,2024,4,133.69
+Sibu,Electricity,2024,4,202.42
+Sibu,Fuel,2024,4,193.15
+Johor Bahru,Water,2024,5,137.68
+Johor Bahru,Electricity,2024,5,335.09
+Johor Bahru,Fuel,2024,5,168.46
+Iskandar Puteri,Water,2024,5,111.96
+Iskandar Puteri,Electricity,2024,5,334.76
+Iskandar Puteri,Fuel,2024,5,126.31
+Pasir Gudang,Water,2024,5,166.25
+Pasir Gudang,Electricity,2024,5,219.29
+Pasir Gudang,Fuel,2024,5,174.37
+Alor Setar,Water,2024,5,168.12
+Alor Setar,Electricity,2024,5,346.67
+Alor Setar,Fuel,2024,5,125.04
+Sungai Petani,Water,2024,5,164.29
+Sungai Petani,Electricity,2024,5,221.29
+Sungai Petani,Fuel,2024,5,241.44
+Kota Bharu,Water,2024,5,110.66
+Kota Bharu,Electricity,2024,5,310.85
+Kota Bharu,Fuel,2024,5,127.57
+Melaka City,Water,2024,5,150.93
+Melaka City,Electricity,2024,5,294.59
+Melaka City,Fuel,2024,5,260.15
+Seremban,Water,2024,5,157.84
+Seremban,Electricity,2024,5,464.96
+Seremban,Fuel,2024,5,250.16
+Kuantan,Water,2024,5,169.15
+Kuantan,Electricity,2024,5,306.88
+Kuantan,Fuel,2024,5,245.86
+George Town,Water,2024,5,89.93
+George Town,Electricity,2024,5,266.96
+George Town,Fuel,2024,5,123.84
+Seberang Perai,Water,2024,5,123.51
+Seberang Perai,Electricity,2024,5,352.78
+Seberang Perai,Fuel,2024,5,133.24
+Ipoh,Water,2024,5,159.63
+Ipoh,Electricity,2024,5,261.28
+Ipoh,Fuel,2024,5,226.7
+Kangar,Water,2024,5,209.23
+Kangar,Electricity,2024,5,351.29
+Kangar,Fuel,2024,5,121.24
+Shah Alam,Water,2024,5,163.9
+Shah Alam,Electricity,2024,5,270.59
+Shah Alam,Fuel,2024,5,126.95
+Petaling Jaya,Water,2024,5,155.23
+Petaling Jaya,Electricity,2024,5,312.66
+Petaling Jaya,Fuel,2024,5,211.06
+Subang Jaya,Water,2024,5,104.26
+Subang Jaya,Electricity,2024,5,356.44
+Subang Jaya,Fuel,2024,5,194.79
+Klang,Water,2024,5,178.87
+Klang,Electricity,2024,5,345.86
+Klang,Fuel,2024,5,143.25
+Kuala Terengganu,Water,2024,5,83.9
+Kuala Terengganu,Electricity,2024,5,218.59
+Kuala Terengganu,Fuel,2024,5,106.23
+Kota Kinabalu,Water,2024,5,142.98
+Kota Kinabalu,Electricity,2024,5,455.49
+Kota Kinabalu,Fuel,2024,5,210.27
+Sandakan,Water,2024,5,133.44
+Sandakan,Electricity,2024,5,328.84
+Sandakan,Fuel,2024,5,201.2
+Tawau,Water,2024,5,219.35
+Tawau,Electricity,2024,5,560.76
+Tawau,Fuel,2024,5,204.34
+Kuching,Water,2024,5,93.02
+Kuching,Electricity,2024,5,226.43
+Kuching,Fuel,2024,5,254.38
+Miri,Water,2024,5,93.06
+Miri,Electricity,2024,5,184.67
+Miri,Fuel,2024,5,261.36
+Sibu,Water,2024,5,127.75
+Sibu,Electricity,2024,5,401.93
+Sibu,Fuel,2024,5,126.69
+Johor Bahru,Water,2024,6,160.39
+Johor Bahru,Electricity,2024,6,243.92
+Johor Bahru,Fuel,2024,6,117.91
+Iskandar Puteri,Water,2024,6,151.9
+Iskandar Puteri,Electricity,2024,6,252.64
+Iskandar Puteri,Fuel,2024,6,163.39
+Pasir Gudang,Water,2024,6,175.52
+Pasir Gudang,Electricity,2024,6,296.43
+Pasir Gudang,Fuel,2024,6,140.16
+Alor Setar,Water,2024,6,150.65
+Alor Setar,Electricity,2024,6,310.99
+Alor Setar,Fuel,2024,6,162.66
+Sungai Petani,Water,2024,6,182.34
+Sungai Petani,Electricity,2024,6,417.28
+Sungai Petani,Fuel,2024,6,132.91
+Kota Bharu,Water,2024,6,132.96
+Kota Bharu,Electricity,2024,6,452.42
+Kota Bharu,Fuel,2024,6,189.64
+Melaka City,Water,2024,6,139.1
+Melaka City,Electricity,2024,6,400.33
+Melaka City,Fuel,2024,6,225.14
+Seremban,Water,2024,6,100.56
+Seremban,Electricity,2024,6,277.15
+Seremban,Fuel,2024,6,133.7
+Kuantan,Water,2024,6,88.88
+Kuantan,Electricity,2024,6,212.26
+Kuantan,Fuel,2024,6,102.75
+George Town,Water,2024,6,130.7
+George Town,Electricity,2024,6,229.61
+George Town,Fuel,2024,6,204.72
+Seberang Perai,Water,2024,6,100.57
+Seberang Perai,Electricity,2024,6,198.51
+Seberang Perai,Fuel,2024,6,101.91
+Ipoh,Water,2024,6,143.86
+Ipoh,Electricity,2024,6,207.27
+Ipoh,Fuel,2024,6,161.32
+Kangar,Water,2024,6,103.07
+Kangar,Electricity,2024,6,205.26
+Kangar,Fuel,2024,6,195.26
+Shah Alam,Water,2024,6,122.05
+Shah Alam,Electricity,2024,6,423.52
+Shah Alam,Fuel,2024,6,223.77
+Petaling Jaya,Water,2024,6,152.02
+Petaling Jaya,Electricity,2024,6,439.89
+Petaling Jaya,Fuel,2024,6,240.98
+Subang Jaya,Water,2024,6,159.71
+Subang Jaya,Electricity,2024,6,363.25
+Subang Jaya,Fuel,2024,6,186.58
+Klang,Water,2024,6,139.98
+Klang,Electricity,2024,6,251.94
+Klang,Fuel,2024,6,112.05
+Kuala Terengganu,Water,2024,6,159.42
+Kuala Terengganu,Electricity,2024,6,225.56
+Kuala Terengganu,Fuel,2024,6,259.17
+Kota Kinabalu,Water,2024,6,118.74
+Kota Kinabalu,Electricity,2024,6,408.39
+Kota Kinabalu,Fuel,2024,6,166.03
+Sandakan,Water,2024,6,119.48
+Sandakan,Electricity,2024,6,282.63
+Sandakan,Fuel,2024,6,129.68
+Tawau,Water,2024,6,154.94
+Tawau,Electricity,2024,6,324.04
+Tawau,Fuel,2024,6,246.51
+Kuching,Water,2024,6,138.11
+Kuching,Electricity,2024,6,367.86
+Kuching,Fuel,2024,6,232.18
+Miri,Water,2024,6,102.66
+Miri,Electricity,2024,6,222.5
+Miri,Fuel,2024,6,167.43
+Sibu,Water,2024,6,121.51
+Sibu,Electricity,2024,6,297.65
+Sibu,Fuel,2024,6,180.77
+Johor Bahru,Water,2024,7,144.31
+Johor Bahru,Electricity,2024,7,410.48
+Johor Bahru,Fuel,2024,7,178.75
+Iskandar Puteri,Water,2024,7,204.02
+Iskandar Puteri,Electricity,2024,7,340.04
+Iskandar Puteri,Fuel,2024,7,270.92
+Pasir Gudang,Water,2024,7,114.41
+Pasir Gudang,Electricity,2024,7,314.03
+Pasir Gudang,Fuel,2024,7,150.22
+Alor Setar,Water,2024,7,143.98
+Alor Setar,Electricity,2024,7,321.8
+Alor Setar,Fuel,2024,7,262.08
+Sungai Petani,Water,2024,7,110.9
+Sungai Petani,Electricity,2024,7,258.96
+Sungai Petani,Fuel,2024,7,183.43
+Kota Bharu,Water,2024,7,114.6
+Kota Bharu,Electricity,2024,7,272.43
+Kota Bharu,Fuel,2024,7,105.69
+Melaka City,Water,2024,7,130.52
+Melaka City,Electricity,2024,7,446.98
+Melaka City,Fuel,2024,7,137.01
+Seremban,Water,2024,7,148.46
+Seremban,Electricity,2024,7,195.4
+Seremban,Fuel,2024,7,190.99
+Kuantan,Water,2024,7,90.51
+Kuantan,Electricity,2024,7,402.87
+Kuantan,Fuel,2024,7,168.72
+George Town,Water,2024,7,127.12
+George Town,Electricity,2024,7,243.47
+George Town,Fuel,2024,7,215.67
+Seberang Perai,Water,2024,7,160.05
+Seberang Perai,Electricity,2024,7,431.59
+Seberang Perai,Fuel,2024,7,229.46
+Ipoh,Water,2024,7,94.19
+Ipoh,Electricity,2024,7,234.87
+Ipoh,Fuel,2024,7,213.08
+Kangar,Water,2024,7,140.05
+Kangar,Electricity,2024,7,353.55
+Kangar,Fuel,2024,7,172.07
+Shah Alam,Water,2024,7,76.08
+Shah Alam,Electricity,2024,7,324.28
+Shah Alam,Fuel,2024,7,102.48
+Petaling Jaya,Water,2024,7,109.76
+Petaling Jaya,Electricity,2024,7,322.17
+Petaling Jaya,Fuel,2024,7,135.43
+Subang Jaya,Water,2024,7,100.66
+Subang Jaya,Electricity,2024,7,379.09
+Subang Jaya,Fuel,2024,7,129.0
+Klang,Water,2024,7,107.11
+Klang,Electricity,2024,7,286.13
+Klang,Fuel,2024,7,112.97
+Kuala Terengganu,Water,2024,7,137.55
+Kuala Terengganu,Electricity,2024,7,316.25
+Kuala Terengganu,Fuel,2024,7,296.73
+Kota Kinabalu,Water,2024,7,145.23
+Kota Kinabalu,Electricity,2024,7,383.31
+Kota Kinabalu,Fuel,2024,7,214.75
+Sandakan,Water,2024,7,149.41
+Sandakan,Electricity,2024,7,393.07
+Sandakan,Fuel,2024,7,177.83
+Tawau,Water,2024,7,113.97
+Tawau,Electricity,2024,7,328.94
+Tawau,Fuel,2024,7,148.23
+Kuching,Water,2024,7,121.06
+Kuching,Electricity,2024,7,271.01
+Kuching,Fuel,2024,7,198.38
+Miri,Water,2024,7,88.58
+Miri,Electricity,2024,7,308.58
+Miri,Fuel,2024,7,201.68
+Sibu,Water,2024,7,110.29
+Sibu,Electricity,2024,7,339.33
+Sibu,Fuel,2024,7,169.19
+Johor Bahru,Water,2024,8,99.02
+Johor Bahru,Electricity,2024,8,316.73
+Johor Bahru,Fuel,2024,8,188.53
+Iskandar Puteri,Water,2024,8,88.79
+Iskandar Puteri,Electricity,2024,8,400.64
+Iskandar Puteri,Fuel,2024,8,192.41
+Pasir Gudang,Water,2024,8,127.99
+Pasir Gudang,Electricity,2024,8,262.52
+Pasir Gudang,Fuel,2024,8,197.57
+Alor Setar,Water,2024,8,105.15
+Alor Setar,Electricity,2024,8,363.01
+Alor Setar,Fuel,2024,8,173.15
+Sungai Petani,Water,2024,8,145.26
+Sungai Petani,Electricity,2024,8,256.86
+Sungai Petani,Fuel,2024,8,121.72
+Kota Bharu,Water,2024,8,163.19
+Kota Bharu,Electricity,2024,8,323.06
+Kota Bharu,Fuel,2024,8,174.34
+Melaka City,Water,2024,8,106.29
+Melaka City,Electricity,2024,8,325.25
+Melaka City,Fuel,2024,8,242.4
+Seremban,Water,2024,8,149.91
+Seremban,Electricity,2024,8,264.93
+Seremban,Fuel,2024,8,227.09
+Kuantan,Water,2024,8,149.02
+Kuantan,Electricity,2024,8,539.97
+Kuantan,Fuel,2024,8,241.67
+George Town,Water,2024,8,147.9
+George Town,Electricity,2024,8,457.08
+George Town,Fuel,2024,8,135.08
+Seberang Perai,Water,2024,8,137.42
+Seberang Perai,Electricity,2024,8,367.57
+Seberang Perai,Fuel,2024,8,248.69
+Ipoh,Water,2024,8,92.66
+Ipoh,Electricity,2024,8,217.0
+Ipoh,Fuel,2024,8,185.24
+Kangar,Water,2024,8,115.13
+Kangar,Electricity,2024,8,272.71
+Kangar,Fuel,2024,8,220.68
+Shah Alam,Water,2024,8,84.98
+Shah Alam,Electricity,2024,8,346.94
+Shah Alam,Fuel,2024,8,235.17
+Petaling Jaya,Water,2024,8,96.37
+Petaling Jaya,Electricity,2024,8,298.05
+Petaling Jaya,Fuel,2024,8,127.69
+Subang Jaya,Water,2024,8,124.7
+Subang Jaya,Electricity,2024,8,397.52
+Subang Jaya,Fuel,2024,8,258.03
+Klang,Water,2024,8,161.38
+Klang,Electricity,2024,8,201.35
+Klang,Fuel,2024,8,264.9
+Kuala Terengganu,Water,2024,8,112.97
+Kuala Terengganu,Electricity,2024,8,288.19
+Kuala Terengganu,Fuel,2024,8,186.54
+Kota Kinabalu,Water,2024,8,115.96
+Kota Kinabalu,Electricity,2024,8,342.23
+Kota Kinabalu,Fuel,2024,8,220.53
+Sandakan,Water,2024,8,98.44
+Sandakan,Electricity,2024,8,279.48
+Sandakan,Fuel,2024,8,107.56
+Tawau,Water,2024,8,97.31
+Tawau,Electricity,2024,8,300.92
+Tawau,Fuel,2024,8,113.24
+Kuching,Water,2024,8,162.62
+Kuching,Electricity,2024,8,299.56
+Kuching,Fuel,2024,8,263.07
+Miri,Water,2024,8,151.5
+Miri,Electricity,2024,8,345.97
+Miri,Fuel,2024,8,202.53
+Sibu,Water,2024,8,118.57
+Sibu,Electricity,2024,8,382.32
+Sibu,Fuel,2024,8,178.79
+Johor Bahru,Water,2024,9,173.56
+Johor Bahru,Electricity,2024,9,295.64
+Johor Bahru,Fuel,2024,9,200.95
+Iskandar Puteri,Water,2024,9,157.6
+Iskandar Puteri,Electricity,2024,9,290.47
+Iskandar Puteri,Fuel,2024,9,119.64
+Pasir Gudang,Water,2024,9,135.48
+Pasir Gudang,Electricity,2024,9,246.83
+Pasir Gudang,Fuel,2024,9,267.93
+Alor Setar,Water,2024,9,99.41
+Alor Setar,Electricity,2024,9,361.0
+Alor Setar,Fuel,2024,9,237.68
+Sungai Petani,Water,2024,9,77.26
+Sungai Petani,Electricity,2024,9,460.83
+Sungai Petani,Fuel,2024,9,203.54
+Kota Bharu,Water,2024,9,149.14
+Kota Bharu,Electricity,2024,9,280.12
+Kota Bharu,Fuel,2024,9,117.39
+Melaka City,Water,2024,9,190.41
+Melaka City,Electricity,2024,9,380.27
+Melaka City,Fuel,2024,9,159.13
+Seremban,Water,2024,9,124.28
+Seremban,Electricity,2024,9,575.13
+Seremban,Fuel,2024,9,145.14
+Kuantan,Water,2024,9,144.83
+Kuantan,Electricity,2024,9,344.26
+Kuantan,Fuel,2024,9,208.53
+George Town,Water,2024,9,142.4
+George Town,Electricity,2024,9,428.47
+George Town,Fuel,2024,9,157.85
+Seberang Perai,Water,2024,9,75.64
+Seberang Perai,Electricity,2024,9,334.94
+Seberang Perai,Fuel,2024,9,215.47
+Ipoh,Water,2024,9,124.43
+Ipoh,Electricity,2024,9,368.24
+Ipoh,Fuel,2024,9,160.56
+Kangar,Water,2024,9,114.36
+Kangar,Electricity,2024,9,441.82
+Kangar,Fuel,2024,9,168.42
+Shah Alam,Water,2024,9,138.83
+Shah Alam,Electricity,2024,9,311.11
+Shah Alam,Fuel,2024,9,197.63
+Petaling Jaya,Water,2024,9,192.78
+Petaling Jaya,Electricity,2024,9,253.32
+Petaling Jaya,Fuel,2024,9,265.38
+Subang Jaya,Water,2024,9,184.94
+Subang Jaya,Electricity,2024,9,276.43
+Subang Jaya,Fuel,2024,9,172.01
+Klang,Water,2024,9,125.17
+Klang,Electricity,2024,9,192.73
+Klang,Fuel,2024,9,187.28
+Kuala Terengganu,Water,2024,9,134.4
+Kuala Terengganu,Electricity,2024,9,424.48
+Kuala Terengganu,Fuel,2024,9,287.41
+Kota Kinabalu,Water,2024,9,118.49
+Kota Kinabalu,Electricity,2024,9,366.0
+Kota Kinabalu,Fuel,2024,9,93.65
+Sandakan,Water,2024,9,145.53
+Sandakan,Electricity,2024,9,309.32
+Sandakan,Fuel,2024,9,228.29
+Tawau,Water,2024,9,85.79
+Tawau,Electricity,2024,9,369.33
+Tawau,Fuel,2024,9,130.72
+Kuching,Water,2024,9,133.37
+Kuching,Electricity,2024,9,315.99
+Kuching,Fuel,2024,9,202.95
+Miri,Water,2024,9,137.74
+Miri,Electricity,2024,9,358.56
+Miri,Fuel,2024,9,148.15
+Sibu,Water,2024,9,170.59
+Sibu,Electricity,2024,9,282.39
+Sibu,Fuel,2024,9,276.4
+Johor Bahru,Water,2024,10,131.28
+Johor Bahru,Electricity,2024,10,274.09
+Johor Bahru,Fuel,2024,10,137.45
+Iskandar Puteri,Water,2024,10,120.67
+Iskandar Puteri,Electricity,2024,10,237.81
+Iskandar Puteri,Fuel,2024,10,294.05
+Pasir Gudang,Water,2024,10,140.24
+Pasir Gudang,Electricity,2024,10,456.36
+Pasir Gudang,Fuel,2024,10,272.69
+Alor Setar,Water,2024,10,141.02
+Alor Setar,Electricity,2024,10,365.62
+Alor Setar,Fuel,2024,10,278.14
+Sungai Petani,Water,2024,10,157.84
+Sungai Petani,Electricity,2024,10,240.0
+Sungai Petani,Fuel,2024,10,209.99
+Kota Bharu,Water,2024,10,83.01
+Kota Bharu,Electricity,2024,10,304.79
+Kota Bharu,Fuel,2024,10,155.18
+Melaka City,Water,2024,10,118.24
+Melaka City,Electricity,2024,10,361.06
+Melaka City,Fuel,2024,10,140.08
+Seremban,Water,2024,10,79.13
+Seremban,Electricity,2024,10,342.49
+Seremban,Fuel,2024,10,184.89
+Kuantan,Water,2024,10,104.5
+Kuantan,Electricity,2024,10,215.11
+Kuantan,Fuel,2024,10,228.3
+George Town,Water,2024,10,97.77
+George Town,Electricity,2024,10,355.0
+George Town,Fuel,2024,10,165.21
+Seberang Perai,Water,2024,10,116.25
+Seberang Perai,Electricity,2024,10,268.0
+Seberang Perai,Fuel,2024,10,207.28
+Ipoh,Water,2024,10,75.26
+Ipoh,Electricity,2024,10,235.66
+Ipoh,Fuel,2024,10,164.47
+Kangar,Water,2024,10,135.42
+Kangar,Electricity,2024,10,251.98
+Kangar,Fuel,2024,10,108.39
+Shah Alam,Water,2024,10,100.09
+Shah Alam,Electricity,2024,10,249.78
+Shah Alam,Fuel,2024,10,213.13
+Petaling Jaya,Water,2024,10,150.63
+Petaling Jaya,Electricity,2024,10,279.75
+Petaling Jaya,Fuel,2024,10,217.08
+Subang Jaya,Water,2024,10,120.94
+Subang Jaya,Electricity,2024,10,295.24
+Subang Jaya,Fuel,2024,10,171.11
+Klang,Water,2024,10,121.03
+Klang,Electricity,2024,10,242.37
+Klang,Fuel,2024,10,253.41
+Kuala Terengganu,Water,2024,10,85.04
+Kuala Terengganu,Electricity,2024,10,371.27
+Kuala Terengganu,Fuel,2024,10,144.35
+Kota Kinabalu,Water,2024,10,177.94
+Kota Kinabalu,Electricity,2024,10,365.21
+Kota Kinabalu,Fuel,2024,10,249.87
+Sandakan,Water,2024,10,104.28
+Sandakan,Electricity,2024,10,260.48
+Sandakan,Fuel,2024,10,139.2
+Tawau,Water,2024,10,115.73
+Tawau,Electricity,2024,10,245.02
+Tawau,Fuel,2024,10,227.62
+Kuching,Water,2024,10,169.49
+Kuching,Electricity,2024,10,467.35
+Kuching,Fuel,2024,10,156.11
+Miri,Water,2024,10,145.76
+Miri,Electricity,2024,10,441.46
+Miri,Fuel,2024,10,236.73
+Sibu,Water,2024,10,102.59
+Sibu,Electricity,2024,10,373.57
+Sibu,Fuel,2024,10,259.77
+Johor Bahru,Water,2024,11,124.01
+Johor Bahru,Electricity,2024,11,393.43
+Johor Bahru,Fuel,2024,11,226.38
+Iskandar Puteri,Water,2024,11,100.52
+Iskandar Puteri,Electricity,2024,11,269.09
+Iskandar Puteri,Fuel,2024,11,350.17
+Pasir Gudang,Water,2024,11,180.2
+Pasir Gudang,Electricity,2024,11,446.34
+Pasir Gudang,Fuel,2024,11,216.29
+Alor Setar,Water,2024,11,96.36
+Alor Setar,Electricity,2024,11,281.89
+Alor Setar,Fuel,2024,11,156.2
+Sungai Petani,Water,2024,11,136.92
+Sungai Petani,Electricity,2024,11,285.17
+Sungai Petani,Fuel,2024,11,258.97
+Kota Bharu,Water,2024,11,167.22
+Kota Bharu,Electricity,2024,11,257.34
+Kota Bharu,Fuel,2024,11,222.65
+Melaka City,Water,2024,11,128.37
+Melaka City,Electricity,2024,11,279.46
+Melaka City,Fuel,2024,11,252.0
+Seremban,Water,2024,11,115.65
+Seremban,Electricity,2024,11,376.55
+Seremban,Fuel,2024,11,213.91
+Kuantan,Water,2024,11,104.79
+Kuantan,Electricity,2024,11,311.45
+Kuantan,Fuel,2024,11,112.06
+George Town,Water,2024,11,146.57
+George Town,Electricity,2024,11,203.65
+George Town,Fuel,2024,11,217.55
+Seberang Perai,Water,2024,11,85.46
+Seberang Perai,Electricity,2024,11,272.24
+Seberang Perai,Fuel,2024,11,134.14
+Ipoh,Water,2024,11,135.36
+Ipoh,Electricity,2024,11,278.14
+Ipoh,Fuel,2024,11,180.1
+Kangar,Water,2024,11,183.91
+Kangar,Electricity,2024,11,396.38
+Kangar,Fuel,2024,11,158.6
+Shah Alam,Water,2024,11,84.66
+Shah Alam,Electricity,2024,11,428.39
+Shah Alam,Fuel,2024,11,181.12
+Petaling Jaya,Water,2024,11,147.54
+Petaling Jaya,Electricity,2024,11,305.28
+Petaling Jaya,Fuel,2024,11,165.96
+Subang Jaya,Water,2024,11,116.45
+Subang Jaya,Electricity,2024,11,254.83
+Subang Jaya,Fuel,2024,11,120.89
+Klang,Water,2024,11,187.23
+Klang,Electricity,2024,11,365.49
+Klang,Fuel,2024,11,194.06
+Kuala Terengganu,Water,2024,11,82.86
+Kuala Terengganu,Electricity,2024,11,332.55
+Kuala Terengganu,Fuel,2024,11,249.46
+Kota Kinabalu,Water,2024,11,100.03
+Kota Kinabalu,Electricity,2024,11,364.21
+Kota Kinabalu,Fuel,2024,11,205.59
+Sandakan,Water,2024,11,124.31
+Sandakan,Electricity,2024,11,381.94
+Sandakan,Fuel,2024,11,237.91
+Tawau,Water,2024,11,105.31
+Tawau,Electricity,2024,11,273.77
+Tawau,Fuel,2024,11,246.85
+Kuching,Water,2024,11,153.82
+Kuching,Electricity,2024,11,255.04
+Kuching,Fuel,2024,11,245.06
+Miri,Water,2024,11,107.39
+Miri,Electricity,2024,11,272.79
+Miri,Fuel,2024,11,179.16
+Sibu,Water,2024,11,152.17
+Sibu,Electricity,2024,11,250.22
+Sibu,Fuel,2024,11,196.65
+Johor Bahru,Water,2024,12,133.53
+Johor Bahru,Electricity,2024,12,305.36
+Johor Bahru,Fuel,2024,12,106.72
+Iskandar Puteri,Water,2024,12,142.55
+Iskandar Puteri,Electricity,2024,12,373.83
+Iskandar Puteri,Fuel,2024,12,113.08
+Pasir Gudang,Water,2024,12,94.85
+Pasir Gudang,Electricity,2024,12,422.82
+Pasir Gudang,Fuel,2024,12,235.01
+Alor Setar,Water,2024,12,126.32
+Alor Setar,Electricity,2024,12,247.72
+Alor Setar,Fuel,2024,12,255.18
+Sungai Petani,Water,2024,12,83.67
+Sungai Petani,Electricity,2024,12,534.55
+Sungai Petani,Fuel,2024,12,214.33
+Kota Bharu,Water,2024,12,127.23
+Kota Bharu,Electricity,2024,12,361.61
+Kota Bharu,Fuel,2024,12,206.39
+Melaka City,Water,2024,12,148.15
+Melaka City,Electricity,2024,12,340.59
+Melaka City,Fuel,2024,12,249.42
+Seremban,Water,2024,12,139.66
+Seremban,Electricity,2024,12,233.94
+Seremban,Fuel,2024,12,169.59
+Kuantan,Water,2024,12,96.54
+Kuantan,Electricity,2024,12,421.28
+Kuantan,Fuel,2024,12,222.75
+George Town,Water,2024,12,103.06
+George Town,Electricity,2024,12,446.64
+George Town,Fuel,2024,12,152.85
+Seberang Perai,Water,2024,12,155.59
+Seberang Perai,Electricity,2024,12,222.64
+Seberang Perai,Fuel,2024,12,176.08
+Ipoh,Water,2024,12,97.2
+Ipoh,Electricity,2024,12,285.04
+Ipoh,Fuel,2024,12,117.21
+Kangar,Water,2024,12,162.89
+Kangar,Electricity,2024,12,220.31
+Kangar,Fuel,2024,12,205.49
+Shah Alam,Water,2024,12,157.03
+Shah Alam,Electricity,2024,12,277.94
+Shah Alam,Fuel,2024,12,100.91
+Petaling Jaya,Water,2024,12,158.84
+Petaling Jaya,Electricity,2024,12,230.17
+Petaling Jaya,Fuel,2024,12,209.49
+Subang Jaya,Water,2024,12,139.85
+Subang Jaya,Electricity,2024,12,384.06
+Subang Jaya,Fuel,2024,12,150.93
+Klang,Water,2024,12,112.21
+Klang,Electricity,2024,12,254.53
+Klang,Fuel,2024,12,196.91
+Kuala Terengganu,Water,2024,12,154.16
+Kuala Terengganu,Electricity,2024,12,349.35
+Kuala Terengganu,Fuel,2024,12,177.62
+Kota Kinabalu,Water,2024,12,98.93
+Kota Kinabalu,Electricity,2024,12,278.6
+Kota Kinabalu,Fuel,2024,12,232.3
+Sandakan,Water,2024,12,147.73
+Sandakan,Electricity,2024,12,252.44
+Sandakan,Fuel,2024,12,146.0
+Tawau,Water,2024,12,110.14
+Tawau,Electricity,2024,12,297.09
+Tawau,Fuel,2024,12,242.85
+Kuching,Water,2024,12,136.34
+Kuching,Electricity,2024,12,295.67
+Kuching,Fuel,2024,12,242.96
+Miri,Water,2024,12,120.19
+Miri,Electricity,2024,12,320.84
+Miri,Fuel,2024,12,107.79
+Sibu,Water,2024,12,123.23
+Sibu,Electricity,2024,12,252.2
+Sibu,Fuel,2024,12,117.24
+Johor Bahru,Water,2025,1,152.19
+Johor Bahru,Electricity,2025,1,318.54
+Johor Bahru,Fuel,2025,1,135.7
+Iskandar Puteri,Water,2025,1,145.34
+Iskandar Puteri,Electricity,2025,1,248.46
+Iskandar Puteri,Fuel,2025,1,153.45
+Pasir Gudang,Water,2025,1,93.46
+Pasir Gudang,Electricity,2025,1,265.0
+Pasir Gudang,Fuel,2025,1,127.1
+Alor Setar,Water,2025,1,167.92
+Alor Setar,Electricity,2025,1,348.45
+Alor Setar,Fuel,2025,1,255.17
+Sungai Petani,Water,2025,1,146.53
+Sungai Petani,Electricity,2025,1,343.5
+Sungai Petani,Fuel,2025,1,163.42
+Kota Bharu,Water,2025,1,127.35
+Kota Bharu,Electricity,2025,1,425.15
+Kota Bharu,Fuel,2025,1,195.28
+Melaka City,Water,2025,1,105.53
+Melaka City,Electricity,2025,1,352.65
+Melaka City,Fuel,2025,1,204.81
+Seremban,Water,2025,1,102.17
+Seremban,Electricity,2025,1,261.88
+Seremban,Fuel,2025,1,176.85
+Kuantan,Water,2025,1,152.42
+Kuantan,Electricity,2025,1,224.15
+Kuantan,Fuel,2025,1,242.33
+George Town,Water,2025,1,190.73
+George Town,Electricity,2025,1,312.05
+George Town,Fuel,2025,1,136.66
+Seberang Perai,Water,2025,1,112.68
+Seberang Perai,Electricity,2025,1,311.92
+Seberang Perai,Fuel,2025,1,228.16
+Ipoh,Water,2025,1,101.34
+Ipoh,Electricity,2025,1,361.75
+Ipoh,Fuel,2025,1,219.68
+Kangar,Water,2025,1,80.06
+Kangar,Electricity,2025,1,343.4
+Kangar,Fuel,2025,1,204.8
+Shah Alam,Water,2025,1,117.97
+Shah Alam,Electricity,2025,1,336.73
+Shah Alam,Fuel,2025,1,206.89
+Petaling Jaya,Water,2025,1,118.73
+Petaling Jaya,Electricity,2025,1,320.98
+Petaling Jaya,Fuel,2025,1,155.1
+Subang Jaya,Water,2025,1,90.16
+Subang Jaya,Electricity,2025,1,342.1
+Subang Jaya,Fuel,2025,1,260.72
+Klang,Water,2025,1,81.14
+Klang,Electricity,2025,1,407.74
+Klang,Fuel,2025,1,203.02
+Kuala Terengganu,Water,2025,1,116.87
+Kuala Terengganu,Electricity,2025,1,203.25
+Kuala Terengganu,Fuel,2025,1,161.43
+Kota Kinabalu,Water,2025,1,179.34
+Kota Kinabalu,Electricity,2025,1,381.05
+Kota Kinabalu,Fuel,2025,1,120.73
+Sandakan,Water,2025,1,127.82
+Sandakan,Electricity,2025,1,213.7
+Sandakan,Fuel,2025,1,128.29
+Tawau,Water,2025,1,90.61
+Tawau,Electricity,2025,1,202.01
+Tawau,Fuel,2025,1,131.63
+Kuching,Water,2025,1,162.43
+Kuching,Electricity,2025,1,321.51
+Kuching,Fuel,2025,1,190.84
+Miri,Water,2025,1,108.26
+Miri,Electricity,2025,1,307.25
+Miri,Fuel,2025,1,273.39
+Sibu,Water,2025,1,145.68
+Sibu,Electricity,2025,1,201.03
+Sibu,Fuel,2025,1,175.92
+Johor Bahru,Water,2025,2,77.77
+Johor Bahru,Electricity,2025,2,389.14
+Johor Bahru,Fuel,2025,2,210.31
+Iskandar Puteri,Water,2025,2,129.96
+Iskandar Puteri,Electricity,2025,2,223.7
+Iskandar Puteri,Fuel,2025,2,182.28
+Pasir Gudang,Water,2025,2,127.98
+Pasir Gudang,Electricity,2025,2,296.05
+Pasir Gudang,Fuel,2025,2,161.94
+Alor Setar,Water,2025,2,93.37
+Alor Setar,Electricity,2025,2,237.54
+Alor Setar,Fuel,2025,2,228.76
+Sungai Petani,Water,2025,2,94.46
+Sungai Petani,Electricity,2025,2,405.89
+Sungai Petani,Fuel,2025,2,112.52
+Kota Bharu,Water,2025,2,172.22
+Kota Bharu,Electricity,2025,2,307.35
+Kota Bharu,Fuel,2025,2,160.32
+Melaka City,Water,2025,2,87.03
+Melaka City,Electricity,2025,2,242.77
+Melaka City,Fuel,2025,2,279.75
+Seremban,Water,2025,2,145.56
+Seremban,Electricity,2025,2,397.53
+Seremban,Fuel,2025,2,296.71
+Kuantan,Water,2025,2,114.69
+Kuantan,Electricity,2025,2,350.8
+Kuantan,Fuel,2025,2,133.97
+George Town,Water,2025,2,78.99
+George Town,Electricity,2025,2,274.55
+George Town,Fuel,2025,2,181.45
+Seberang Perai,Water,2025,2,155.54
+Seberang Perai,Electricity,2025,2,264.7
+Seberang Perai,Fuel,2025,2,291.64
+Ipoh,Water,2025,2,169.94
+Ipoh,Electricity,2025,2,308.0
+Ipoh,Fuel,2025,2,189.78
+Kangar,Water,2025,2,164.89
+Kangar,Electricity,2025,2,416.99
+Kangar,Fuel,2025,2,117.43
+Shah Alam,Water,2025,2,116.35
+Shah Alam,Electricity,2025,2,438.69
+Shah Alam,Fuel,2025,2,148.35
+Petaling Jaya,Water,2025,2,108.67
+Petaling Jaya,Electricity,2025,2,384.0
+Petaling Jaya,Fuel,2025,2,255.92
+Subang Jaya,Water,2025,2,145.15
+Subang Jaya,Electricity,2025,2,237.25
+Subang Jaya,Fuel,2025,2,271.87
+Klang,Water,2025,2,110.78
+Klang,Electricity,2025,2,277.98
+Klang,Fuel,2025,2,118.71
+Kuala Terengganu,Water,2025,2,142.26
+Kuala Terengganu,Electricity,2025,2,241.96
+Kuala Terengganu,Fuel,2025,2,208.0
+Kota Kinabalu,Water,2025,2,128.65
+Kota Kinabalu,Electricity,2025,2,279.76
+Kota Kinabalu,Fuel,2025,2,232.67
+Sandakan,Water,2025,2,111.03
+Sandakan,Electricity,2025,2,339.21
+Sandakan,Fuel,2025,2,161.19
+Tawau,Water,2025,2,125.54
+Tawau,Electricity,2025,2,254.91
+Tawau,Fuel,2025,2,258.2
+Kuching,Water,2025,2,89.92
+Kuching,Electricity,2025,2,235.38
+Kuching,Fuel,2025,2,172.3
+Miri,Water,2025,2,172.57
+Miri,Electricity,2025,2,307.08
+Miri,Fuel,2025,2,134.53
+Sibu,Water,2025,2,96.8
+Sibu,Electricity,2025,2,411.87
+Sibu,Fuel,2025,2,149.67
+Johor Bahru,Water,2025,3,87.03
+Johor Bahru,Electricity,2025,3,352.68
+Johor Bahru,Fuel,2025,3,153.44
+Iskandar Puteri,Water,2025,3,143.05
+Iskandar Puteri,Electricity,2025,3,428.08
+Iskandar Puteri,Fuel,2025,3,323.12
+Pasir Gudang,Water,2025,3,89.71
+Pasir Gudang,Electricity,2025,3,404.26
+Pasir Gudang,Fuel,2025,3,171.41
+Alor Setar,Water,2025,3,79.23
+Alor Setar,Electricity,2025,3,386.21
+Alor Setar,Fuel,2025,3,219.74
+Sungai Petani,Water,2025,3,90.52
+Sungai Petani,Electricity,2025,3,285.81
+Sungai Petani,Fuel,2025,3,210.06
+Kota Bharu,Water,2025,3,169.98
+Kota Bharu,Electricity,2025,3,287.49
+Kota Bharu,Fuel,2025,3,226.44
+Melaka City,Water,2025,3,113.99
+Melaka City,Electricity,2025,3,297.92
+Melaka City,Fuel,2025,3,193.61
+Seremban,Water,2025,3,107.11
+Seremban,Electricity,2025,3,255.39
+Seremban,Fuel,2025,3,140.08
+Kuantan,Water,2025,3,94.74
+Kuantan,Electricity,2025,3,294.93
+Kuantan,Fuel,2025,3,284.74
+George Town,Water,2025,3,210.22
+George Town,Electricity,2025,3,245.49
+George Town,Fuel,2025,3,256.77
+Seberang Perai,Water,2025,3,117.38
+Seberang Perai,Electricity,2025,3,372.0
+Seberang Perai,Fuel,2025,3,103.7
+Ipoh,Water,2025,3,141.31
+Ipoh,Electricity,2025,3,365.95
+Ipoh,Fuel,2025,3,175.19
+Kangar,Water,2025,3,95.52
+Kangar,Electricity,2025,3,406.75
+Kangar,Fuel,2025,3,183.46
+Shah Alam,Water,2025,3,148.78
+Shah Alam,Electricity,2025,3,398.38
+Shah Alam,Fuel,2025,3,270.68
+Petaling Jaya,Water,2025,3,122.16
+Petaling Jaya,Electricity,2025,3,243.8
+Petaling Jaya,Fuel,2025,3,173.05
+Subang Jaya,Water,2025,3,89.62
+Subang Jaya,Electricity,2025,3,311.52
+Subang Jaya,Fuel,2025,3,132.14
+Klang,Water,2025,3,174.26
+Klang,Electricity,2025,3,271.96
+Klang,Fuel,2025,3,210.96
+Kuala Terengganu,Water,2025,3,117.3
+Kuala Terengganu,Electricity,2025,3,275.89
+Kuala Terengganu,Fuel,2025,3,218.95
+Kota Kinabalu,Water,2025,3,149.42
+Kota Kinabalu,Electricity,2025,3,262.12
+Kota Kinabalu,Fuel,2025,3,132.23
+Sandakan,Water,2025,3,96.59
+Sandakan,Electricity,2025,3,201.87
+Sandakan,Fuel,2025,3,235.59
+Tawau,Water,2025,3,136.01
+Tawau,Electricity,2025,3,340.83
+Tawau,Fuel,2025,3,133.56
+Kuching,Water,2025,3,170.64
+Kuching,Electricity,2025,3,307.19
+Kuching,Fuel,2025,3,194.22
+Miri,Water,2025,3,87.46
+Miri,Electricity,2025,3,228.8
+Miri,Fuel,2025,3,185.4
+Sibu,Water,2025,3,157.42
+Sibu,Electricity,2025,3,295.62
+Sibu,Fuel,2025,3,186.7
+Johor Bahru,Water,2025,4,103.44
+Johor Bahru,Electricity,2025,4,271.09
+Johor Bahru,Fuel,2025,4,172.13
+Iskandar Puteri,Water,2025,4,149.7
+Iskandar Puteri,Electricity,2025,4,224.55
+Iskandar Puteri,Fuel,2025,4,206.19
+Pasir Gudang,Water,2025,4,121.8
+Pasir Gudang,Electricity,2025,4,346.45
+Pasir Gudang,Fuel,2025,4,117.14
+Alor Setar,Water,2025,4,146.67
+Alor Setar,Electricity,2025,4,347.83
+Alor Setar,Fuel,2025,4,110.86
+Sungai Petani,Water,2025,4,117.01
+Sungai Petani,Electricity,2025,4,318.56
+Sungai Petani,Fuel,2025,4,172.63
+Kota Bharu,Water,2025,4,171.48
+Kota Bharu,Electricity,2025,4,251.77
+Kota Bharu,Fuel,2025,4,222.99
+Melaka City,Water,2025,4,218.1
+Melaka City,Electricity,2025,4,314.53
+Melaka City,Fuel,2025,4,220.78
+Seremban,Water,2025,4,128.57
+Seremban,Electricity,2025,4,324.81
+Seremban,Fuel,2025,4,198.5
+Kuantan,Water,2025,4,94.75
+Kuantan,Electricity,2025,4,222.06
+Kuantan,Fuel,2025,4,127.65
+George Town,Water,2025,4,107.12
+George Town,Electricity,2025,4,381.12
+George Town,Fuel,2025,4,201.49
+Seberang Perai,Water,2025,4,126.38
+Seberang Perai,Electricity,2025,4,222.02
+Seberang Perai,Fuel,2025,4,181.77
+Ipoh,Water,2025,4,104.69
+Ipoh,Electricity,2025,4,369.24
+Ipoh,Fuel,2025,4,236.62
+Kangar,Water,2025,4,198.5
+Kangar,Electricity,2025,4,270.2
+Kangar,Fuel,2025,4,251.49
+Shah Alam,Water,2025,4,97.86
+Shah Alam,Electricity,2025,4,197.7
+Shah Alam,Fuel,2025,4,106.28
+Petaling Jaya,Water,2025,4,157.7
+Petaling Jaya,Electricity,2025,4,362.56
+Petaling Jaya,Fuel,2025,4,195.23
+Subang Jaya,Water,2025,4,101.7
+Subang Jaya,Electricity,2025,4,264.66
+Subang Jaya,Fuel,2025,4,217.57
+Klang,Water,2025,4,97.3
+Klang,Electricity,2025,4,293.08
+Klang,Fuel,2025,4,112.17
+Kuala Terengganu,Water,2025,4,163.9
+Kuala Terengganu,Electricity,2025,4,269.61
+Kuala Terengganu,Fuel,2025,4,196.55
+Kota Kinabalu,Water,2025,4,129.44
+Kota Kinabalu,Electricity,2025,4,355.08
+Kota Kinabalu,Fuel,2025,4,137.21
+Sandakan,Water,2025,4,152.57
+Sandakan,Electricity,2025,4,210.87
+Sandakan,Fuel,2025,4,253.59
+Tawau,Water,2025,4,128.22
+Tawau,Electricity,2025,4,314.81
+Tawau,Fuel,2025,4,179.99
+Kuching,Water,2025,4,136.63
+Kuching,Electricity,2025,4,362.33
+Kuching,Fuel,2025,4,120.22
+Miri,Water,2025,4,86.46
+Miri,Electricity,2025,4,415.34
+Miri,Fuel,2025,4,230.68
+Sibu,Water,2025,4,107.59
+Sibu,Electricity,2025,4,401.94
+Sibu,Fuel,2025,4,244.95
+Johor Bahru,Water,2025,4,96.35
+Johor Bahru,Electricity,2025,4,348.66
+Johor Bahru,Fuel,2025,4,131.31
+Iskandar Puteri,Water,2025,4,156.13
+Iskandar Puteri,Electricity,2025,4,251.4
+Iskandar Puteri,Fuel,2025,4,256.99
+Pasir Gudang,Water,2025,4,127.07
+Pasir Gudang,Electricity,2025,4,341.61
+Pasir Gudang,Fuel,2025,4,111.72
+Alor Setar,Water,2025,4,150.23
+Alor Setar,Electricity,2025,4,245.44
+Alor Setar,Fuel,2025,4,245.75
+Sungai Petani,Water,2025,4,94.73
+Sungai Petani,Electricity,2025,4,245.79
+Sungai Petani,Fuel,2025,4,170.79
+Kota Bharu,Water,2025,4,104.93
+Kota Bharu,Electricity,2025,4,311.4
+Kota Bharu,Fuel,2025,4,151.91
+Melaka City,Water,2025,4,133.34
+Melaka City,Electricity,2025,4,293.07
+Melaka City,Fuel,2025,4,213.38
+Seremban,Water,2025,4,107.65
+Seremban,Electricity,2025,4,428.6
+Seremban,Fuel,2025,4,191.73
+Kuantan,Water,2025,4,119.01
+Kuantan,Electricity,2025,4,258.55
+Kuantan,Fuel,2025,4,134.37
+George Town,Water,2025,4,154.05
+George Town,Electricity,2025,4,245.74
+George Town,Fuel,2025,4,228.97
+Seberang Perai,Water,2025,4,98.12
+Seberang Perai,Electricity,2025,4,343.48
+Seberang Perai,Fuel,2025,4,222.67
+Ipoh,Water,2025,4,173.62
+Ipoh,Electricity,2025,4,395.62
+Ipoh,Fuel,2025,4,227.02
+Kangar,Water,2025,4,150.78
+Kangar,Electricity,2025,4,323.19
+Kangar,Fuel,2025,4,200.94
+Shah Alam,Water,2025,4,125.41
+Shah Alam,Electricity,2025,4,351.88
+Shah Alam,Fuel,2025,4,258.94
+Petaling Jaya,Water,2025,4,134.94
+Petaling Jaya,Electricity,2025,4,287.87
+Petaling Jaya,Fuel,2025,4,185.43
+Subang Jaya,Water,2025,4,102.79
+Subang Jaya,Electricity,2025,4,402.89
+Subang Jaya,Fuel,2025,4,153.69
+Klang,Water,2025,4,119.92
+Klang,Electricity,2025,4,379.98
+Klang,Fuel,2025,4,120.74
+Kuala Terengganu,Water,2025,4,133.8
+Kuala Terengganu,Electricity,2025,4,335.47
+Kuala Terengganu,Fuel,2025,4,244.82
+Kota Kinabalu,Water,2025,4,140.65
+Kota Kinabalu,Electricity,2025,4,277.26
+Kota Kinabalu,Fuel,2025,4,174.15
+Sandakan,Water,2025,4,187.0
+Sandakan,Electricity,2025,4,329.82
+Sandakan,Fuel,2025,4,128.35
+Tawau,Water,2025,4,87.07
+Tawau,Electricity,2025,4,394.94
+Tawau,Fuel,2025,4,185.62
+Kuching,Water,2025,4,101.07
+Kuching,Electricity,2025,4,273.33
+Kuching,Fuel,2025,4,196.48
+Miri,Water,2025,4,138.93
+Miri,Electricity,2025,4,358.78
+Miri,Fuel,2025,4,163.59
+Sibu,Water,2025,4,133.83
+Sibu,Electricity,2025,4,337.23
+Sibu,Fuel,2025,4,153.06
+Johor Bahru,Water,2025,4,93.17
+Johor Bahru,Electricity,2025,4,255.93
+Johor Bahru,Fuel,2025,4,148.81
+Iskandar Puteri,Water,2025,4,142.38
+Iskandar Puteri,Electricity,2025,4,590.12
+Iskandar Puteri,Fuel,2025,4,188.32
+Pasir Gudang,Water,2025,4,152.16
+Pasir Gudang,Electricity,2025,4,404.81
+Pasir Gudang,Fuel,2025,4,233.06
+Alor Setar,Water,2025,4,105.15
+Alor Setar,Electricity,2025,4,351.49
+Alor Setar,Fuel,2025,4,197.23
+Sungai Petani,Water,2025,4,148.89
+Sungai Petani,Electricity,2025,4,276.25
+Sungai Petani,Fuel,2025,4,255.62
+Kota Bharu,Water,2025,4,112.22
+Kota Bharu,Electricity,2025,4,208.48
+Kota Bharu,Fuel,2025,4,305.52
+Melaka City,Water,2025,4,107.87
+Melaka City,Electricity,2025,4,345.14
+Melaka City,Fuel,2025,4,265.71
+Seremban,Water,2025,4,134.08
+Seremban,Electricity,2025,4,339.7
+Seremban,Fuel,2025,4,195.14
+Kuantan,Water,2025,4,135.68
+Kuantan,Electricity,2025,4,245.86
+Kuantan,Fuel,2025,4,135.25
+George Town,Water,2025,4,150.72
+George Town,Electricity,2025,4,320.69
+George Town,Fuel,2025,4,127.03
+Seberang Perai,Water,2025,4,150.57
+Seberang Perai,Electricity,2025,4,322.07
+Seberang Perai,Fuel,2025,4,177.11
+Ipoh,Water,2025,4,136.23
+Ipoh,Electricity,2025,4,365.24
+Ipoh,Fuel,2025,4,113.71
+Kangar,Water,2025,4,123.29
+Kangar,Electricity,2025,4,317.73
+Kangar,Fuel,2025,4,121.61
+Shah Alam,Water,2025,4,153.23
+Shah Alam,Electricity,2025,4,227.51
+Shah Alam,Fuel,2025,4,115.33
+Petaling Jaya,Water,2025,4,98.41
+Petaling Jaya,Electricity,2025,4,386.8
+Petaling Jaya,Fuel,2025,4,235.16
+Subang Jaya,Water,2025,4,114.83
+Subang Jaya,Electricity,2025,4,299.27
+Subang Jaya,Fuel,2025,4,217.26
+Klang,Water,2025,4,141.85
+Klang,Electricity,2025,4,274.13
+Klang,Fuel,2025,4,114.2
+Kuala Terengganu,Water,2025,4,137.83
+Kuala Terengganu,Electricity,2025,4,366.06
+Kuala Terengganu,Fuel,2025,4,136.69
+Kota Kinabalu,Water,2025,4,147.3
+Kota Kinabalu,Electricity,2025,4,241.23
+Kota Kinabalu,Fuel,2025,4,115.82
+Sandakan,Water,2025,4,150.54
+Sandakan,Electricity,2025,4,293.51
+Sandakan,Fuel,2025,4,239.42
+Tawau,Water,2025,4,161.13
+Tawau,Electricity,2025,4,322.24
+Tawau,Fuel,2025,4,111.23
+Kuching,Water,2025,4,83.8
+Kuching,Electricity,2025,4,317.35
+Kuching,Fuel,2025,4,216.94
+Miri,Water,2025,4,201.76
+Miri,Electricity,2025,4,219.7
+Miri,Fuel,2025,4,266.65
+Sibu,Water,2025,4,143.09
+Sibu,Electricity,2025,4,447.16
+Sibu,Fuel,2025,4,128.15
+Johor Bahru,Water,2025,4,149.47
+Johor Bahru,Electricity,2025,4,313.45
+Johor Bahru,Fuel,2025,4,203.26
+Iskandar Puteri,Water,2025,4,160.69
+Iskandar Puteri,Electricity,2025,4,228.76
+Iskandar Puteri,Fuel,2025,4,164.8
+Pasir Gudang,Water,2025,4,94.78
+Pasir Gudang,Electricity,2025,4,390.02
+Pasir Gudang,Fuel,2025,4,125.54
+Alor Setar,Water,2025,4,161.37
+Alor Setar,Electricity,2025,4,323.07
+Alor Setar,Fuel,2025,4,203.7
+Sungai Petani,Water,2025,4,149.48
+Sungai Petani,Electricity,2025,4,305.46
+Sungai Petani,Fuel,2025,4,195.67
+Kota Bharu,Water,2025,4,90.74
+Kota Bharu,Electricity,2025,4,307.37
+Kota Bharu,Fuel,2025,4,223.54
+Melaka City,Water,2025,4,117.16
+Melaka City,Electricity,2025,4,296.09
+Melaka City,Fuel,2025,4,129.91
+Seremban,Water,2025,4,105.32
+Seremban,Electricity,2025,4,285.2
+Seremban,Fuel,2025,4,145.46
+Kuantan,Water,2025,4,155.6
+Kuantan,Electricity,2025,4,366.92
+Kuantan,Fuel,2025,4,118.78
+George Town,Water,2025,4,143.75
+George Town,Electricity,2025,4,331.35
+George Town,Fuel,2025,4,240.13
+Seberang Perai,Water,2025,4,109.61
+Seberang Perai,Electricity,2025,4,459.97
+Seberang Perai,Fuel,2025,4,187.92
+Ipoh,Water,2025,4,115.45
+Ipoh,Electricity,2025,4,298.81
+Ipoh,Fuel,2025,4,232.1
+Kangar,Water,2025,4,91.41
+Kangar,Electricity,2025,4,302.99
+Kangar,Fuel,2025,4,190.48
+Shah Alam,Water,2025,4,103.89
+Shah Alam,Electricity,2025,4,381.02
+Shah Alam,Fuel,2025,4,199.48
+Petaling Jaya,Water,2025,4,106.68
+Petaling Jaya,Electricity,2025,4,231.3
+Petaling Jaya,Fuel,2025,4,222.45
+Subang Jaya,Water,2025,4,156.2
+Subang Jaya,Electricity,2025,4,278.03
+Subang Jaya,Fuel,2025,4,161.31
+Klang,Water,2025,4,142.94
+Klang,Electricity,2025,4,369.46
+Klang,Fuel,2025,4,186.87
+Kuala Terengganu,Water,2025,4,131.14
+Kuala Terengganu,Electricity,2025,4,421.54
+Kuala Terengganu,Fuel,2025,4,187.21
+Kota Kinabalu,Water,2025,4,151.87
+Kota Kinabalu,Electricity,2025,4,272.18
+Kota Kinabalu,Fuel,2025,4,131.73
+Sandakan,Water,2025,4,116.96
+Sandakan,Electricity,2025,4,418.36
+Sandakan,Fuel,2025,4,144.66
+Tawau,Water,2025,4,124.13
+Tawau,Electricity,2025,4,452.68
+Tawau,Fuel,2025,4,118.96
+Kuching,Water,2025,4,126.21
+Kuching,Electricity,2025,4,355.16
+Kuching,Fuel,2025,4,120.34
+Miri,Water,2025,4,160.74
+Miri,Electricity,2025,4,203.89
+Miri,Fuel,2025,4,113.86
+Sibu,Water,2025,4,160.16
+Sibu,Electricity,2025,4,273.41
+Sibu,Fuel,2025,4,241.09
+Johor Bahru,Water,2025,4,150.45
+Johor Bahru,Electricity,2025,4,360.44
+Johor Bahru,Fuel,2025,4,132.05
+Iskandar Puteri,Water,2025,4,127.05
+Iskandar Puteri,Electricity,2025,4,326.7
+Iskandar Puteri,Fuel,2025,4,118.98
+Pasir Gudang,Water,2025,4,172.21
+Pasir Gudang,Electricity,2025,4,396.58
+Pasir Gudang,Fuel,2025,4,175.12
+Alor Setar,Water,2025,4,98.61
+Alor Setar,Electricity,2025,4,269.68
+Alor Setar,Fuel,2025,4,186.73
+Sungai Petani,Water,2025,4,117.2
+Sungai Petani,Electricity,2025,4,328.78
+Sungai Petani,Fuel,2025,4,115.29
+Kota Bharu,Water,2025,4,145.43
+Kota Bharu,Electricity,2025,4,329.02
+Kota Bharu,Fuel,2025,4,188.65
+Melaka City,Water,2025,4,162.8
+Melaka City,Electricity,2025,4,250.71
+Melaka City,Fuel,2025,4,240.76
+Seremban,Water,2025,4,157.09
+Seremban,Electricity,2025,4,398.8
+Seremban,Fuel,2025,4,123.73
+Kuantan,Water,2025,4,128.27
+Kuantan,Electricity,2025,4,349.32
+Kuantan,Fuel,2025,4,135.71
+George Town,Water,2025,4,114.43
+George Town,Electricity,2025,4,207.0
+George Town,Fuel,2025,4,220.01
+Seberang Perai,Water,2025,4,156.02
+Seberang Perai,Electricity,2025,4,246.9
+Seberang Perai,Fuel,2025,4,129.16
+Ipoh,Water,2025,4,121.54
+Ipoh,Electricity,2025,4,383.11
+Ipoh,Fuel,2025,4,190.97
+Kangar,Water,2025,4,146.15
+Kangar,Electricity,2025,4,339.53
+Kangar,Fuel,2025,4,139.94
+Shah Alam,Water,2025,4,131.8
+Shah Alam,Electricity,2025,4,373.44
+Shah Alam,Fuel,2025,4,131.52
+Petaling Jaya,Water,2025,4,120.71
+Petaling Jaya,Electricity,2025,4,393.81
+Petaling Jaya,Fuel,2025,4,117.43
+Subang Jaya,Water,2025,4,158.1
+Subang Jaya,Electricity,2025,4,244.39
+Subang Jaya,Fuel,2025,4,186.4
+Klang,Water,2025,4,133.09
+Klang,Electricity,2025,4,374.54
+Klang,Fuel,2025,4,166.92
+Kuala Terengganu,Water,2025,4,131.48
+Kuala Terengganu,Electricity,2025,4,289.43
+Kuala Terengganu,Fuel,2025,4,275.23
+Kota Kinabalu,Water,2025,4,154.49
+Kota Kinabalu,Electricity,2025,4,202.62
+Kota Kinabalu,Fuel,2025,4,243.05
+Sandakan,Water,2025,4,174.33
+Sandakan,Electricity,2025,4,248.52
+Sandakan,Fuel,2025,4,189.0
+Tawau,Water,2025,4,154.65
+Tawau,Electricity,2025,4,245.9
+Tawau,Fuel,2025,4,253.52
+Kuching,Water,2025,4,120.45
+Kuching,Electricity,2025,4,232.32
+Kuching,Fuel,2025,4,141.6
+Miri,Water,2025,4,139.98
+Miri,Electricity,2025,4,311.26
+Miri,Fuel,2025,4,179.24
+Sibu,Water,2025,4,93.26
+Sibu,Electricity,2025,4,263.19
+Sibu,Fuel,2025,4,110.56
+Johor Bahru,Water,2025,4,104.36
+Johor Bahru,Electricity,2025,4,236.06
+Johor Bahru,Fuel,2025,4,240.86
+Iskandar Puteri,Water,2025,4,166.51
+Iskandar Puteri,Electricity,2025,4,418.67
+Iskandar Puteri,Fuel,2025,4,176.48
+Pasir Gudang,Water,2025,4,153.81
+Pasir Gudang,Electricity,2025,4,343.21
+Pasir Gudang,Fuel,2025,4,231.99
+Alor Setar,Water,2025,4,157.3
+Alor Setar,Electricity,2025,4,342.61
+Alor Setar,Fuel,2025,4,137.29
+Sungai Petani,Water,2025,4,135.46
+Sungai Petani,Electricity,2025,4,309.27
+Sungai Petani,Fuel,2025,4,236.93
+Kota Bharu,Water,2025,4,105.59
+Kota Bharu,Electricity,2025,4,286.52
+Kota Bharu,Fuel,2025,4,161.17
+Melaka City,Water,2025,4,152.46
+Melaka City,Electricity,2025,4,395.08
+Melaka City,Fuel,2025,4,167.81
+Seremban,Water,2025,4,95.64
+Seremban,Electricity,2025,4,429.24
+Seremban,Fuel,2025,4,155.47
+Kuantan,Water,2025,4,99.71
+Kuantan,Electricity,2025,4,403.23
+Kuantan,Fuel,2025,4,264.09
+George Town,Water,2025,4,127.7
+George Town,Electricity,2025,4,191.95
+George Town,Fuel,2025,4,187.16
+Seberang Perai,Water,2025,4,201.41
+Seberang Perai,Electricity,2025,4,599.25
+Seberang Perai,Fuel,2025,4,304.09
+Ipoh,Water,2025,4,108.92
+Ipoh,Electricity,2025,4,299.79
+Ipoh,Fuel,2025,4,224.87
+Kangar,Water,2025,4,165.07
+Kangar,Electricity,2025,4,308.33
+Kangar,Fuel,2025,4,196.37
+Shah Alam,Water,2025,4,168.83
+Shah Alam,Electricity,2025,4,369.0
+Shah Alam,Fuel,2025,4,249.06
+Petaling Jaya,Water,2025,4,146.24
+Petaling Jaya,Electricity,2025,4,248.27
+Petaling Jaya,Fuel,2025,4,163.23
+Subang Jaya,Water,2025,4,109.26
+Subang Jaya,Electricity,2025,4,346.75
+Subang Jaya,Fuel,2025,4,150.06
+Klang,Water,2025,4,153.67
+Klang,Electricity,2025,4,290.83
+Klang,Fuel,2025,4,223.04
+Kuala Terengganu,Water,2025,4,134.36
+Kuala Terengganu,Electricity,2025,4,276.0
+Kuala Terengganu,Fuel,2025,4,115.19
+Kota Kinabalu,Water,2025,4,134.73
+Kota Kinabalu,Electricity,2025,4,402.55
+Kota Kinabalu,Fuel,2025,4,261.86
+Sandakan,Water,2025,4,143.36
+Sandakan,Electricity,2025,4,426.57
+Sandakan,Fuel,2025,4,133.42
+Tawau,Water,2025,4,134.53
+Tawau,Electricity,2025,4,191.13
+Tawau,Fuel,2025,4,144.94
+Kuching,Water,2025,4,110.9
+Kuching,Electricity,2025,4,351.48
+Kuching,Fuel,2025,4,119.86
+Miri,Water,2025,4,162.92
+Miri,Electricity,2025,4,358.49
+Miri,Fuel,2025,4,130.47
+Sibu,Water,2025,4,88.96
+Sibu,Electricity,2025,4,221.84
+Sibu,Fuel,2025,4,175.52
+Johor Bahru,Water,2025,4,156.23
+Johor Bahru,Electricity,2025,4,333.58
+Johor Bahru,Fuel,2025,4,137.49
+Iskandar Puteri,Water,2025,4,132.39
+Iskandar Puteri,Electricity,2025,4,268.62
+Iskandar Puteri,Fuel,2025,4,135.06
+Pasir Gudang,Water,2025,4,106.56
+Pasir Gudang,Electricity,2025,4,235.65
+Pasir Gudang,Fuel,2025,4,105.67
+Alor Setar,Water,2025,4,169.29
+Alor Setar,Electricity,2025,4,240.36
+Alor Setar,Fuel,2025,4,276.01
+Sungai Petani,Water,2025,4,117.27
+Sungai Petani,Electricity,2025,4,393.09
+Sungai Petani,Fuel,2025,4,172.25
+Kota Bharu,Water,2025,4,134.5
+Kota Bharu,Electricity,2025,4,283.13
+Kota Bharu,Fuel,2025,4,171.79
+Melaka City,Water,2025,4,111.06
+Melaka City,Electricity,2025,4,274.94
+Melaka City,Fuel,2025,4,180.83
+Seremban,Water,2025,4,116.72
+Seremban,Electricity,2025,4,247.23
+Seremban,Fuel,2025,4,131.35
+Kuantan,Water,2025,4,166.76
+Kuantan,Electricity,2025,4,443.84
+Kuantan,Fuel,2025,4,157.06
+George Town,Water,2025,4,130.06
+George Town,Electricity,2025,4,406.99
+George Town,Fuel,2025,4,177.94
+Seberang Perai,Water,2025,4,86.71
+Seberang Perai,Electricity,2025,4,376.85
+Seberang Perai,Fuel,2025,4,151.47
+Ipoh,Water,2025,4,150.2
+Ipoh,Electricity,2025,4,234.65
+Ipoh,Fuel,2025,4,193.14
+Kangar,Water,2025,4,144.29
+Kangar,Electricity,2025,4,358.79
+Kangar,Fuel,2025,4,155.11
+Shah Alam,Water,2025,4,93.45
+Shah Alam,Electricity,2025,4,368.26
+Shah Alam,Fuel,2025,4,185.86
+Petaling Jaya,Water,2025,4,131.83
+Petaling Jaya,Electricity,2025,4,196.25
+Petaling Jaya,Fuel,2025,4,265.35
+Subang Jaya,Water,2025,4,143.77
+Subang Jaya,Electricity,2025,4,369.14
+Subang Jaya,Fuel,2025,4,249.65
+Klang,Water,2025,4,139.93
+Klang,Electricity,2025,4,208.24
+Klang,Fuel,2025,4,125.31
+Kuala Terengganu,Water,2025,4,109.7
+Kuala Terengganu,Electricity,2025,4,323.5
+Kuala Terengganu,Fuel,2025,4,189.52
+Kota Kinabalu,Water,2025,4,149.97
+Kota Kinabalu,Electricity,2025,4,334.75
+Kota Kinabalu,Fuel,2025,4,232.61
+Sandakan,Water,2025,4,137.63
+Sandakan,Electricity,2025,4,217.34
+Sandakan,Fuel,2025,4,282.75
+Tawau,Water,2025,4,169.11
+Tawau,Electricity,2025,4,278.23
+Tawau,Fuel,2025,4,192.22
+Kuching,Water,2025,4,123.19
+Kuching,Electricity,2025,4,369.17
+Kuching,Fuel,2025,4,231.88
+Miri,Water,2025,4,158.73
+Miri,Electricity,2025,4,334.36
+Miri,Fuel,2025,4,177.1
+Sibu,Water,2025,4,169.77
+Sibu,Electricity,2025,4,367.68
+Sibu,Fuel,2025,4,119.63
+Johor Bahru,Water,2025,4,140.43
+Johor Bahru,Electricity,2025,4,392.15
+Johor Bahru,Fuel,2025,4,198.24
+Iskandar Puteri,Water,2025,4,118.68
+Iskandar Puteri,Electricity,2025,4,350.82
+Iskandar Puteri,Fuel,2025,4,161.69
+Pasir Gudang,Water,2025,4,135.14
+Pasir Gudang,Electricity,2025,4,297.65
+Pasir Gudang,Fuel,2025,4,116.15
+Alor Setar,Water,2025,4,87.08
+Alor Setar,Electricity,2025,4,300.39
+Alor Setar,Fuel,2025,4,252.44
+Sungai Petani,Water,2025,4,152.51
+Sungai Petani,Electricity,2025,4,281.67
+Sungai Petani,Fuel,2025,4,226.58
+Kota Bharu,Water,2025,4,141.18
+Kota Bharu,Electricity,2025,4,268.87
+Kota Bharu,Fuel,2025,4,159.44
+Melaka City,Water,2025,4,97.18
+Melaka City,Electricity,2025,4,199.3
+Melaka City,Fuel,2025,4,262.28
+Seremban,Water,2025,4,126.12
+Seremban,Electricity,2025,4,229.45
+Seremban,Fuel,2025,4,221.52
+Kuantan,Water,2025,4,115.38
+Kuantan,Electricity,2025,4,293.46
+Kuantan,Fuel,2025,4,119.64
+George Town,Water,2025,4,155.43
+George Town,Electricity,2025,4,234.42
+George Town,Fuel,2025,4,232.0
+Seberang Perai,Water,2025,4,122.63
+Seberang Perai,Electricity,2025,4,319.68
+Seberang Perai,Fuel,2025,4,140.55
+Ipoh,Water,2025,4,146.18
+Ipoh,Electricity,2025,4,414.04
+Ipoh,Fuel,2025,4,167.86
+Kangar,Water,2025,4,118.98
+Kangar,Electricity,2025,4,389.23
+Kangar,Fuel,2025,4,203.98
+Shah Alam,Water,2025,4,119.21
+Shah Alam,Electricity,2025,4,364.57
+Shah Alam,Fuel,2025,4,239.48
+Petaling Jaya,Water,2025,4,128.64
+Petaling Jaya,Electricity,2025,4,311.88
+Petaling Jaya,Fuel,2025,4,237.19
+Subang Jaya,Water,2025,4,89.8
+Subang Jaya,Electricity,2025,4,340.96
+Subang Jaya,Fuel,2025,4,174.11
+Klang,Water,2025,4,151.31
+Klang,Electricity,2025,4,345.27
+Klang,Fuel,2025,4,156.68
+Kuala Terengganu,Water,2025,4,111.05
+Kuala Terengganu,Electricity,2025,4,304.75
+Kuala Terengganu,Fuel,2025,4,230.79
+Kota Kinabalu,Water,2025,4,144.04
+Kota Kinabalu,Electricity,2025,4,265.77
+Kota Kinabalu,Fuel,2025,4,142.68
+Sandakan,Water,2025,4,105.52
+Sandakan,Electricity,2025,4,287.95
+Sandakan,Fuel,2025,4,255.27
+Tawau,Water,2025,4,147.82
+Tawau,Electricity,2025,4,321.72
+Tawau,Fuel,2025,4,129.11
+Kuching,Water,2025,4,158.54
+Kuching,Electricity,2025,4,384.9
+Kuching,Fuel,2025,4,141.82
+Miri,Water,2025,4,114.53
+Miri,Electricity,2025,4,236.39
+Miri,Fuel,2025,4,172.14
+Sibu,Water,2025,4,171.05
+Sibu,Electricity,2025,4,368.17
+Sibu,Fuel,2025,4,112.67
+Johor Bahru,Water,2025,4,115.17
+Johor Bahru,Electricity,2025,4,351.9
+Johor Bahru,Fuel,2025,4,188.66
+Iskandar Puteri,Water,2025,4,103.64
+Iskandar Puteri,Electricity,2025,4,251.73
+Iskandar Puteri,Fuel,2025,4,361.85
+Pasir Gudang,Water,2025,4,156.1
+Pasir Gudang,Electricity,2025,4,229.72
+Pasir Gudang,Fuel,2025,4,146.29
+Alor Setar,Water,2025,4,150.97
+Alor Setar,Electricity,2025,4,229.71
+Alor Setar,Fuel,2025,4,165.6
+Sungai Petani,Water,2025,4,142.23
+Sungai Petani,Electricity,2025,4,334.4
+Sungai Petani,Fuel,2025,4,104.51
+Kota Bharu,Water,2025,4,178.07
+Kota Bharu,Electricity,2025,4,415.6
+Kota Bharu,Fuel,2025,4,186.0
+Melaka City,Water,2025,4,112.81
+Melaka City,Electricity,2025,4,205.71
+Melaka City,Fuel,2025,4,210.99
+Seremban,Water,2025,4,152.0
+Seremban,Electricity,2025,4,412.17
+Seremban,Fuel,2025,4,152.7
+Kuantan,Water,2025,4,149.41
+Kuantan,Electricity,2025,4,275.66
+Kuantan,Fuel,2025,4,160.32
+George Town,Water,2025,4,102.31
+George Town,Electricity,2025,4,233.75
+George Town,Fuel,2025,4,164.61
+Seberang Perai,Water,2025,4,128.84
+Seberang Perai,Electricity,2025,4,301.13
+Seberang Perai,Fuel,2025,4,266.06
+Ipoh,Water,2025,4,94.31
+Ipoh,Electricity,2025,4,218.39
+Ipoh,Fuel,2025,4,177.68
+Kangar,Water,2025,4,156.68
+Kangar,Electricity,2025,4,310.01
+Kangar,Fuel,2025,4,165.29
+Shah Alam,Water,2025,4,129.56
+Shah Alam,Electricity,2025,4,358.56
+Shah Alam,Fuel,2025,4,124.72
+Petaling Jaya,Water,2025,4,135.07
+Petaling Jaya,Electricity,2025,4,300.16
+Petaling Jaya,Fuel,2025,4,174.93
+Subang Jaya,Water,2025,4,155.08
+Subang Jaya,Electricity,2025,4,485.84
+Subang Jaya,Fuel,2025,4,206.39
+Klang,Water,2025,4,151.15
+Klang,Electricity,2025,4,296.71
+Klang,Fuel,2025,4,109.18
+Kuala Terengganu,Water,2025,4,97.84
+Kuala Terengganu,Electricity,2025,4,288.11
+Kuala Terengganu,Fuel,2025,4,215.44
+Kota Kinabalu,Water,2025,4,82.05
+Kota Kinabalu,Electricity,2025,4,246.31
+Kota Kinabalu,Fuel,2025,4,158.66
+Sandakan,Water,2025,4,117.04
+Sandakan,Electricity,2025,4,548.48
+Sandakan,Fuel,2025,4,264.54
+Tawau,Water,2025,4,102.93
+Tawau,Electricity,2025,4,271.97
+Tawau,Fuel,2025,4,224.27
+Kuching,Water,2025,4,121.17
+Kuching,Electricity,2025,4,369.61
+Kuching,Fuel,2025,4,210.75
+Miri,Water,2025,4,109.64
+Miri,Electricity,2025,4,307.28
+Miri,Fuel,2025,4,209.12
+Sibu,Water,2025,4,116.42
+Sibu,Electricity,2025,4,257.53
+Sibu,Fuel,2025,4,149.23
+Johor Bahru,Water,2025,4,91.96
+Johor Bahru,Electricity,2025,4,239.22
+Johor Bahru,Fuel,2025,4,207.25
+Iskandar Puteri,Water,2025,4,129.91
+Iskandar Puteri,Electricity,2025,4,267.99
+Iskandar Puteri,Fuel,2025,4,248.58
+Pasir Gudang,Water,2025,4,105.44
+Pasir Gudang,Electricity,2025,4,317.35
+Pasir Gudang,Fuel,2025,4,185.33
+Alor Setar,Water,2025,4,147.44
+Alor Setar,Electricity,2025,4,424.26
+Alor Setar,Fuel,2025,4,159.41
+Sungai Petani,Water,2025,4,156.01
+Sungai Petani,Electricity,2025,4,324.62
+Sungai Petani,Fuel,2025,4,159.56
+Kota Bharu,Water,2025,4,174.14
+Kota Bharu,Electricity,2025,4,226.11
+Kota Bharu,Fuel,2025,4,210.51
+Melaka City,Water,2025,4,106.82
+Melaka City,Electricity,2025,4,391.86
+Melaka City,Fuel,2025,4,250.6
+Seremban,Water,2025,4,130.19
+Seremban,Electricity,2025,4,210.82
+Seremban,Fuel,2025,4,171.99
+Kuantan,Water,2025,4,119.1
+Kuantan,Electricity,2025,4,250.49
+Kuantan,Fuel,2025,4,130.08
+George Town,Water,2025,4,91.56
+George Town,Electricity,2025,4,566.35
+George Town,Fuel,2025,4,142.85
+Seberang Perai,Water,2025,4,172.39
+Seberang Perai,Electricity,2025,4,230.35
+Seberang Perai,Fuel,2025,4,153.08
+Ipoh,Water,2025,4,101.94
+Ipoh,Electricity,2025,4,248.68
+Ipoh,Fuel,2025,4,247.61
+Kangar,Water,2025,4,85.35
+Kangar,Electricity,2025,4,269.08
+Kangar,Fuel,2025,4,151.24
+Shah Alam,Water,2025,4,136.31
+Shah Alam,Electricity,2025,4,262.81
+Shah Alam,Fuel,2025,4,242.5
+Petaling Jaya,Water,2025,4,161.01
+Petaling Jaya,Electricity,2025,4,271.19
+Petaling Jaya,Fuel,2025,4,154.42
+Subang Jaya,Water,2025,4,188.82
+Subang Jaya,Electricity,2025,4,211.15
+Subang Jaya,Fuel,2025,4,160.48
+Klang,Water,2025,4,139.56
+Klang,Electricity,2025,4,346.48
+Klang,Fuel,2025,4,244.58
+Kuala Terengganu,Water,2025,4,123.25
+Kuala Terengganu,Electricity,2025,4,209.56
+Kuala Terengganu,Fuel,2025,4,173.22
+Kota Kinabalu,Water,2025,4,126.06
+Kota Kinabalu,Electricity,2025,4,191.7
+Kota Kinabalu,Fuel,2025,4,138.38
+Sandakan,Water,2025,4,116.69
+Sandakan,Electricity,2025,4,275.32
+Sandakan,Fuel,2025,4,155.83
+Tawau,Water,2025,4,156.21
+Tawau,Electricity,2025,4,370.92
+Tawau,Fuel,2025,4,152.24
+Kuching,Water,2025,4,99.27
+Kuching,Electricity,2025,4,357.82
+Kuching,Fuel,2025,4,116.16
+Miri,Water,2025,4,152.71
+Miri,Electricity,2025,4,357.55
+Miri,Fuel,2025,4,273.4
+Sibu,Water,2025,4,159.41
+Sibu,Electricity,2025,4,299.64
+Sibu,Fuel,2025,4,244.36
+Johor Bahru,Water,2025,4,128.65
+Johor Bahru,Electricity,2025,4,354.37
+Johor Bahru,Fuel,2025,4,186.92
+Iskandar Puteri,Water,2025,4,127.92
+Iskandar Puteri,Electricity,2025,4,298.37
+Iskandar Puteri,Fuel,2025,4,137.61
+Pasir Gudang,Water,2025,4,149.9
+Pasir Gudang,Electricity,2025,4,310.16
+Pasir Gudang,Fuel,2025,4,217.0
+Alor Setar,Water,2025,4,146.84
+Alor Setar,Electricity,2025,4,341.73
+Alor Setar,Fuel,2025,4,205.89
+Sungai Petani,Water,2025,4,158.62
+Sungai Petani,Electricity,2025,4,359.56
+Sungai Petani,Fuel,2025,4,176.15
+Kota Bharu,Water,2025,4,120.44
+Kota Bharu,Electricity,2025,4,326.47
+Kota Bharu,Fuel,2025,4,216.64
+Melaka City,Water,2025,4,172.02
+Melaka City,Electricity,2025,4,263.77
+Melaka City,Fuel,2025,4,125.01
+Seremban,Water,2025,4,96.83
+Seremban,Electricity,2025,4,315.8
+Seremban,Fuel,2025,4,114.45
+Kuantan,Water,2025,4,110.76
+Kuantan,Electricity,2025,4,417.91
+Kuantan,Fuel,2025,4,179.13
+George Town,Water,2025,4,114.95
+George Town,Electricity,2025,4,428.39
+George Town,Fuel,2025,4,195.66
+Seberang Perai,Water,2025,4,134.45
+Seberang Perai,Electricity,2025,4,441.7
+Seberang Perai,Fuel,2025,4,223.75
+Ipoh,Water,2025,4,123.65
+Ipoh,Electricity,2025,4,272.9
+Ipoh,Fuel,2025,4,176.99
+Kangar,Water,2025,4,107.84
+Kangar,Electricity,2025,4,396.67
+Kangar,Fuel,2025,4,253.69
+Shah Alam,Water,2025,4,103.68
+Shah Alam,Electricity,2025,4,377.09
+Shah Alam,Fuel,2025,4,174.65
+Petaling Jaya,Water,2025,4,168.87
+Petaling Jaya,Electricity,2025,4,259.93
+Petaling Jaya,Fuel,2025,4,199.57
+Subang Jaya,Water,2025,4,158.09
+Subang Jaya,Electricity,2025,4,336.62
+Subang Jaya,Fuel,2025,4,244.25
+Klang,Water,2025,4,130.01
+Klang,Electricity,2025,4,381.66
+Klang,Fuel,2025,4,140.01
+Kuala Terengganu,Water,2025,4,93.14
+Kuala Terengganu,Electricity,2025,4,339.95
+Kuala Terengganu,Fuel,2025,4,122.18
+Kota Kinabalu,Water,2025,4,139.91
+Kota Kinabalu,Electricity,2025,4,377.45
+Kota Kinabalu,Fuel,2025,4,229.74
+Sandakan,Water,2025,4,143.88
+Sandakan,Electricity,2025,4,298.69
+Sandakan,Fuel,2025,4,170.18
+Tawau,Water,2025,4,117.31
+Tawau,Electricity,2025,4,482.43
+Tawau,Fuel,2025,4,183.94
+Kuching,Water,2025,4,137.18
+Kuching,Electricity,2025,4,319.22
+Kuching,Fuel,2025,4,247.8
+Miri,Water,2025,4,169.14
+Miri,Electricity,2025,4,232.32
+Miri,Fuel,2025,4,254.73
+Sibu,Water,2025,4,103.81
+Sibu,Electricity,2025,4,364.82
+Sibu,Fuel,2025,4,226.81
+Johor Bahru,Water,2025,4,151.11
+Johor Bahru,Electricity,2025,4,361.15
+Johor Bahru,Fuel,2025,4,148.39
+Iskandar Puteri,Water,2025,4,103.74
+Iskandar Puteri,Electricity,2025,4,319.04
+Iskandar Puteri,Fuel,2025,4,247.36
+Pasir Gudang,Water,2025,4,213.08
+Pasir Gudang,Electricity,2025,4,339.9
+Pasir Gudang,Fuel,2025,4,259.01
+Alor Setar,Water,2025,4,84.78
+Alor Setar,Electricity,2025,4,406.36
+Alor Setar,Fuel,2025,4,194.36
+Sungai Petani,Water,2025,4,143.36
+Sungai Petani,Electricity,2025,4,438.38
+Sungai Petani,Fuel,2025,4,190.56
+Kota Bharu,Water,2025,4,96.52
+Kota Bharu,Electricity,2025,4,352.64
+Kota Bharu,Fuel,2025,4,124.37
+Melaka City,Water,2025,4,180.01
+Melaka City,Electricity,2025,4,290.49
+Melaka City,Fuel,2025,4,181.84
+Seremban,Water,2025,4,112.98
+Seremban,Electricity,2025,4,348.61
+Seremban,Fuel,2025,4,118.17
+Kuantan,Water,2025,4,96.62
+Kuantan,Electricity,2025,4,425.25
+Kuantan,Fuel,2025,4,151.82
+George Town,Water,2025,4,90.23
+George Town,Electricity,2025,4,330.91
+George Town,Fuel,2025,4,214.44
+Seberang Perai,Water,2025,4,131.6
+Seberang Perai,Electricity,2025,4,284.2
+Seberang Perai,Fuel,2025,4,173.23
+Ipoh,Water,2025,4,104.92
+Ipoh,Electricity,2025,4,356.61
+Ipoh,Fuel,2025,4,139.95
+Kangar,Water,2025,4,95.31
+Kangar,Electricity,2025,4,271.47
+Kangar,Fuel,2025,4,193.17
+Shah Alam,Water,2025,4,157.57
+Shah Alam,Electricity,2025,4,219.24
+Shah Alam,Fuel,2025,4,197.18
+Petaling Jaya,Water,2025,4,120.25
+Petaling Jaya,Electricity,2025,4,283.72
+Petaling Jaya,Fuel,2025,4,203.71
+Subang Jaya,Water,2025,4,152.17
+Subang Jaya,Electricity,2025,4,362.05
+Subang Jaya,Fuel,2025,4,221.23
+Klang,Water,2025,4,151.85
+Klang,Electricity,2025,4,454.25
+Klang,Fuel,2025,4,127.02
+Kuala Terengganu,Water,2025,4,126.25
+Kuala Terengganu,Electricity,2025,4,432.55
+Kuala Terengganu,Fuel,2025,4,150.2
+Kota Kinabalu,Water,2025,4,146.83
+Kota Kinabalu,Electricity,2025,4,377.92
+Kota Kinabalu,Fuel,2025,4,164.31
+Sandakan,Water,2025,4,87.74
+Sandakan,Electricity,2025,4,259.44
+Sandakan,Fuel,2025,4,129.08
+Tawau,Water,2025,4,99.75
+Tawau,Electricity,2025,4,342.35
+Tawau,Fuel,2025,4,155.82
+Kuching,Water,2025,4,111.57
+Kuching,Electricity,2025,4,261.06
+Kuching,Fuel,2025,4,187.88
+Miri,Water,2025,4,156.93
+Miri,Electricity,2025,4,540.16
+Miri,Fuel,2025,4,185.44
+Sibu,Water,2025,4,104.18
+Sibu,Electricity,2025,4,262.28
+Sibu,Fuel,2025,4,236.83
+Johor Bahru,Water,2025,4,87.88
+Johor Bahru,Electricity,2025,4,281.63
+Johor Bahru,Fuel,2025,4,213.22
+Iskandar Puteri,Water,2025,4,104.45
+Iskandar Puteri,Electricity,2025,4,399.94
+Iskandar Puteri,Fuel,2025,4,132.33
+Pasir Gudang,Water,2025,4,135.69
+Pasir Gudang,Electricity,2025,4,378.52
+Pasir Gudang,Fuel,2025,4,204.13
+Alor Setar,Water,2025,4,146.57
+Alor Setar,Electricity,2025,4,262.53
+Alor Setar,Fuel,2025,4,169.44
+Sungai Petani,Water,2025,4,168.53
+Sungai Petani,Electricity,2025,4,290.02
+Sungai Petani,Fuel,2025,4,201.78
+Kota Bharu,Water,2025,4,123.18
+Kota Bharu,Electricity,2025,4,285.53
+Kota Bharu,Fuel,2025,4,230.02
+Melaka City,Water,2025,4,138.49
+Melaka City,Electricity,2025,4,254.35
+Melaka City,Fuel,2025,4,190.22
+Seremban,Water,2025,4,135.24
+Seremban,Electricity,2025,4,250.18
+Seremban,Fuel,2025,4,237.14
+Kuantan,Water,2025,4,140.82
+Kuantan,Electricity,2025,4,387.62
+Kuantan,Fuel,2025,4,156.55
+George Town,Water,2025,4,175.05
+George Town,Electricity,2025,4,348.52
+George Town,Fuel,2025,4,189.99
+Seberang Perai,Water,2025,4,163.77
+Seberang Perai,Electricity,2025,4,309.03
+Seberang Perai,Fuel,2025,4,224.38
+Ipoh,Water,2025,4,114.36
+Ipoh,Electricity,2025,4,382.31
+Ipoh,Fuel,2025,4,228.46
+Kangar,Water,2025,4,151.4
+Kangar,Electricity,2025,4,393.66
+Kangar,Fuel,2025,4,140.03
+Shah Alam,Water,2025,4,169.76
+Shah Alam,Electricity,2025,4,252.77
+Shah Alam,Fuel,2025,4,158.3
+Petaling Jaya,Water,2025,4,144.13
+Petaling Jaya,Electricity,2025,4,255.48
+Petaling Jaya,Fuel,2025,4,169.74
+Subang Jaya,Water,2025,4,128.78
+Subang Jaya,Electricity,2025,4,329.86
+Subang Jaya,Fuel,2025,4,367.95
+Klang,Water,2025,4,124.94
+Klang,Electricity,2025,4,238.11
+Klang,Fuel,2025,4,256.96
+Kuala Terengganu,Water,2025,4,145.09
+Kuala Terengganu,Electricity,2025,4,447.98
+Kuala Terengganu,Fuel,2025,4,240.38
+Kota Kinabalu,Water,2025,4,134.49
+Kota Kinabalu,Electricity,2025,4,376.93
+Kota Kinabalu,Fuel,2025,4,190.76
+Sandakan,Water,2025,4,122.11
+Sandakan,Electricity,2025,4,326.63
+Sandakan,Fuel,2025,4,162.85
+Tawau,Water,2025,4,141.51
+Tawau,Electricity,2025,4,394.43
+Tawau,Fuel,2025,4,238.87
+Kuching,Water,2025,4,178.94
+Kuching,Electricity,2025,4,555.86
+Kuching,Fuel,2025,4,257.89
+Miri,Water,2025,4,132.74
+Miri,Electricity,2025,4,375.07
+Miri,Fuel,2025,4,113.58
+Sibu,Water,2025,4,82.43
+Sibu,Electricity,2025,4,366.24
+Sibu,Fuel,2025,4,139.46
+Johor Bahru,Water,2025,4,151.15
+Johor Bahru,Electricity,2025,4,246.56
+Johor Bahru,Fuel,2025,4,161.4
+Iskandar Puteri,Water,2025,4,103.14
+Iskandar Puteri,Electricity,2025,4,214.26
+Iskandar Puteri,Fuel,2025,4,137.73
+Pasir Gudang,Water,2025,4,125.75
+Pasir Gudang,Electricity,2025,4,375.93
+Pasir Gudang,Fuel,2025,4,204.86
+Alor Setar,Water,2025,4,97.36
+Alor Setar,Electricity,2025,4,454.67
+Alor Setar,Fuel,2025,4,158.89
+Sungai Petani,Water,2025,4,132.66
+Sungai Petani,Electricity,2025,4,205.37
+Sungai Petani,Fuel,2025,4,141.08
+Kota Bharu,Water,2025,4,162.07
+Kota Bharu,Electricity,2025,4,358.31
+Kota Bharu,Fuel,2025,4,168.69
+Melaka City,Water,2025,4,124.73
+Melaka City,Electricity,2025,4,219.27
+Melaka City,Fuel,2025,4,250.15
+Seremban,Water,2025,4,151.0
+Seremban,Electricity,2025,4,342.05
+Seremban,Fuel,2025,4,181.24
+Kuantan,Water,2025,4,106.93
+Kuantan,Electricity,2025,4,349.54
+Kuantan,Fuel,2025,4,231.46
+George Town,Water,2025,4,154.92
+George Town,Electricity,2025,4,288.18
+George Town,Fuel,2025,4,110.57
+Seberang Perai,Water,2025,4,97.88
+Seberang Perai,Electricity,2025,4,315.17
+Seberang Perai,Fuel,2025,4,246.85
+Ipoh,Water,2025,4,100.74
+Ipoh,Electricity,2025,4,262.7
+Ipoh,Fuel,2025,4,206.53
+Kangar,Water,2025,4,100.5
+Kangar,Electricity,2025,4,344.56
+Kangar,Fuel,2025,4,119.45
+Shah Alam,Water,2025,4,178.62
+Shah Alam,Electricity,2025,4,299.08
+Shah Alam,Fuel,2025,4,137.59
+Petaling Jaya,Water,2025,4,139.14
+Petaling Jaya,Electricity,2025,4,317.4
+Petaling Jaya,Fuel,2025,4,271.09
+Subang Jaya,Water,2025,4,144.38
+Subang Jaya,Electricity,2025,4,267.66
+Subang Jaya,Fuel,2025,4,175.42
+Klang,Water,2025,4,150.93
+Klang,Electricity,2025,4,320.86
+Klang,Fuel,2025,4,232.77
+Kuala Terengganu,Water,2025,4,162.08
+Kuala Terengganu,Electricity,2025,4,344.73
+Kuala Terengganu,Fuel,2025,4,180.76
+Kota Kinabalu,Water,2025,4,101.4
+Kota Kinabalu,Electricity,2025,4,351.04
+Kota Kinabalu,Fuel,2025,4,122.91
+Sandakan,Water,2025,4,122.44
+Sandakan,Electricity,2025,4,338.53
+Sandakan,Fuel,2025,4,181.0
+Tawau,Water,2025,4,159.79
+Tawau,Electricity,2025,4,306.89
+Tawau,Fuel,2025,4,153.86
+Kuching,Water,2025,4,171.03
+Kuching,Electricity,2025,4,322.02
+Kuching,Fuel,2025,4,191.33
+Miri,Water,2025,4,119.83
+Miri,Electricity,2025,4,269.36
+Miri,Fuel,2025,4,124.14
+Sibu,Water,2025,4,84.22
+Sibu,Electricity,2025,4,300.42
+Sibu,Fuel,2025,4,235.74
+Johor Bahru,Water,2025,4,122.42
+Johor Bahru,Electricity,2025,4,296.39
+Johor Bahru,Fuel,2025,4,129.83
+Iskandar Puteri,Water,2025,4,120.13
+Iskandar Puteri,Electricity,2025,4,397.61
+Iskandar Puteri,Fuel,2025,4,191.98
+Pasir Gudang,Water,2025,4,168.58
+Pasir Gudang,Electricity,2025,4,348.64
+Pasir Gudang,Fuel,2025,4,113.49
+Alor Setar,Water,2025,4,111.1
+Alor Setar,Electricity,2025,4,365.16
+Alor Setar,Fuel,2025,4,125.35
+Sungai Petani,Water,2025,4,161.77
+Sungai Petani,Electricity,2025,4,437.39
+Sungai Petani,Fuel,2025,4,287.9
+Kota Bharu,Water,2025,4,161.85
+Kota Bharu,Electricity,2025,4,276.81
+Kota Bharu,Fuel,2025,4,132.61
+Melaka City,Water,2025,4,165.48
+Melaka City,Electricity,2025,4,251.73
+Melaka City,Fuel,2025,4,268.25
+Seremban,Water,2025,4,218.96
+Seremban,Electricity,2025,4,271.2
+Seremban,Fuel,2025,4,229.11
+Kuantan,Water,2025,4,107.68
+Kuantan,Electricity,2025,4,296.45
+Kuantan,Fuel,2025,4,148.17
+George Town,Water,2025,4,126.36
+George Town,Electricity,2025,4,398.87
+George Town,Fuel,2025,4,316.22
+Seberang Perai,Water,2025,4,147.08
+Seberang Perai,Electricity,2025,4,391.13
+Seberang Perai,Fuel,2025,4,243.43
+Ipoh,Water,2025,4,127.15
+Ipoh,Electricity,2025,4,282.61
+Ipoh,Fuel,2025,4,227.7
+Kangar,Water,2025,4,165.83
+Kangar,Electricity,2025,4,361.33
+Kangar,Fuel,2025,4,214.44
+Shah Alam,Water,2025,4,98.11
+Shah Alam,Electricity,2025,4,243.97
+Shah Alam,Fuel,2025,4,150.38
+Petaling Jaya,Water,2025,4,141.6
+Petaling Jaya,Electricity,2025,4,279.07
+Petaling Jaya,Fuel,2025,4,109.16
+Subang Jaya,Water,2025,4,100.87
+Subang Jaya,Electricity,2025,4,320.95
+Subang Jaya,Fuel,2025,4,228.6
+Klang,Water,2025,4,151.95
+Klang,Electricity,2025,4,346.91
+Klang,Fuel,2025,4,130.49
+Kuala Terengganu,Water,2025,4,152.28
+Kuala Terengganu,Electricity,2025,4,229.32
+Kuala Terengganu,Fuel,2025,4,237.08
+Kota Kinabalu,Water,2025,4,105.32
+Kota Kinabalu,Electricity,2025,4,358.21
+Kota Kinabalu,Fuel,2025,4,123.8
+Sandakan,Water,2025,4,95.57
+Sandakan,Electricity,2025,4,505.72
+Sandakan,Fuel,2025,4,344.66
+Tawau,Water,2025,4,166.78
+Tawau,Electricity,2025,4,250.0
+Tawau,Fuel,2025,4,281.33
+Kuching,Water,2025,4,135.02
+Kuching,Electricity,2025,4,343.59
+Kuching,Fuel,2025,4,133.73
+Miri,Water,2025,4,134.42
+Miri,Electricity,2025,4,345.75
+Miri,Fuel,2025,4,126.8
+Sibu,Water,2025,4,172.66
+Sibu,Electricity,2025,4,386.08
+Sibu,Fuel,2025,4,205.48
+Johor Bahru,Water,2025,4,150.83
+Johor Bahru,Electricity,2025,4,326.4
+Johor Bahru,Fuel,2025,4,227.37
+Iskandar Puteri,Water,2025,4,241.09
+Iskandar Puteri,Electricity,2025,4,339.19
+Iskandar Puteri,Fuel,2025,4,244.48
+Pasir Gudang,Water,2025,4,133.9
+Pasir Gudang,Electricity,2025,4,344.06
+Pasir Gudang,Fuel,2025,4,171.68
+Alor Setar,Water,2025,4,105.44
+Alor Setar,Electricity,2025,4,354.4
+Alor Setar,Fuel,2025,4,176.77
+Sungai Petani,Water,2025,4,154.35
+Sungai Petani,Electricity,2025,4,395.39
+Sungai Petani,Fuel,2025,4,200.98
+Kota Bharu,Water,2025,4,173.3
+Kota Bharu,Electricity,2025,4,303.03
+Kota Bharu,Fuel,2025,4,151.94
+Melaka City,Water,2025,4,100.1
+Melaka City,Electricity,2025,4,321.27
+Melaka City,Fuel,2025,4,158.45
+Seremban,Water,2025,4,131.75
+Seremban,Electricity,2025,4,268.95
+Seremban,Fuel,2025,4,253.74
+Kuantan,Water,2025,4,100.76
+Kuantan,Electricity,2025,4,271.19
+Kuantan,Fuel,2025,4,283.48
+George Town,Water,2025,4,115.18
+George Town,Electricity,2025,4,266.13
+George Town,Fuel,2025,4,185.24
+Seberang Perai,Water,2025,4,138.07
+Seberang Perai,Electricity,2025,4,348.09
+Seberang Perai,Fuel,2025,4,141.29
+Ipoh,Water,2025,4,179.59
+Ipoh,Electricity,2025,4,415.18
+Ipoh,Fuel,2025,4,229.38
+Kangar,Water,2025,4,149.0
+Kangar,Electricity,2025,4,309.5
+Kangar,Fuel,2025,4,139.8
+Shah Alam,Water,2025,4,164.9
+Shah Alam,Electricity,2025,4,385.14
+Shah Alam,Fuel,2025,4,143.83
+Petaling Jaya,Water,2025,4,162.08
+Petaling Jaya,Electricity,2025,4,342.39
+Petaling Jaya,Fuel,2025,4,247.66
+Subang Jaya,Water,2025,4,158.16
+Subang Jaya,Electricity,2025,4,315.67
+Subang Jaya,Fuel,2025,4,106.18
+Klang,Water,2025,4,89.68
+Klang,Electricity,2025,4,273.47
+Klang,Fuel,2025,4,215.15
+Kuala Terengganu,Water,2025,4,123.98
+Kuala Terengganu,Electricity,2025,4,339.02
+Kuala Terengganu,Fuel,2025,4,224.22
+Kota Kinabalu,Water,2025,4,187.75
+Kota Kinabalu,Electricity,2025,4,214.29
+Kota Kinabalu,Fuel,2025,4,139.56
+Sandakan,Water,2025,4,94.54
+Sandakan,Electricity,2025,4,372.84
+Sandakan,Fuel,2025,4,176.9
+Tawau,Water,2025,4,142.6
+Tawau,Electricity,2025,4,228.84
+Tawau,Fuel,2025,4,128.32
+Kuching,Water,2025,4,104.49
+Kuching,Electricity,2025,4,310.85
+Kuching,Fuel,2025,4,147.69
+Miri,Water,2025,4,105.61
+Miri,Electricity,2025,4,276.23
+Miri,Fuel,2025,4,234.48
+Sibu,Water,2025,4,108.28
+Sibu,Electricity,2025,4,268.49
+Sibu,Fuel,2025,4,276.04
+Johor Bahru,Water,2025,4,177.35
+Johor Bahru,Electricity,2025,4,338.99
+Johor Bahru,Fuel,2025,4,117.64
+Iskandar Puteri,Water,2025,4,134.69
+Iskandar Puteri,Electricity,2025,4,569.17
+Iskandar Puteri,Fuel,2025,4,249.87
+Pasir Gudang,Water,2025,4,116.65
+Pasir Gudang,Electricity,2025,4,336.72
+Pasir Gudang,Fuel,2025,4,234.24
+Alor Setar,Water,2025,4,98.61
+Alor Setar,Electricity,2025,4,223.04
+Alor Setar,Fuel,2025,4,195.38
+Sungai Petani,Water,2025,4,123.83
+Sungai Petani,Electricity,2025,4,447.1
+Sungai Petani,Fuel,2025,4,278.61
+Kota Bharu,Water,2025,4,98.74
+Kota Bharu,Electricity,2025,4,217.31
+Kota Bharu,Fuel,2025,4,197.27
+Melaka City,Water,2025,4,112.85
+Melaka City,Electricity,2025,4,392.81
+Melaka City,Fuel,2025,4,167.83
+Seremban,Water,2025,4,136.59
+Seremban,Electricity,2025,4,270.31
+Seremban,Fuel,2025,4,278.65
+Kuantan,Water,2025,4,127.9
+Kuantan,Electricity,2025,4,323.34
+Kuantan,Fuel,2025,4,133.52
+George Town,Water,2025,4,139.05
+George Town,Electricity,2025,4,394.23
+George Town,Fuel,2025,4,210.33
+Seberang Perai,Water,2025,4,222.21
+Seberang Perai,Electricity,2025,4,369.55
+Seberang Perai,Fuel,2025,4,123.25
+Ipoh,Water,2025,4,102.81
+Ipoh,Electricity,2025,4,297.15
+Ipoh,Fuel,2025,4,161.72
+Kangar,Water,2025,4,113.16
+Kangar,Electricity,2025,4,243.37
+Kangar,Fuel,2025,4,206.3
+Shah Alam,Water,2025,4,108.95
+Shah Alam,Electricity,2025,4,326.44
+Shah Alam,Fuel,2025,4,264.45
+Petaling Jaya,Water,2025,4,88.57
+Petaling Jaya,Electricity,2025,4,347.79
+Petaling Jaya,Fuel,2025,4,226.88
+Subang Jaya,Water,2025,4,130.02
+Subang Jaya,Electricity,2025,4,338.83
+Subang Jaya,Fuel,2025,4,182.21
+Klang,Water,2025,4,152.67
+Klang,Electricity,2025,4,222.09
+Klang,Fuel,2025,4,179.5
+Kuala Terengganu,Water,2025,4,202.83
+Kuala Terengganu,Electricity,2025,4,406.35
+Kuala Terengganu,Fuel,2025,4,178.83
+Kota Kinabalu,Water,2025,4,124.21
+Kota Kinabalu,Electricity,2025,4,301.75
+Kota Kinabalu,Fuel,2025,4,188.62
+Sandakan,Water,2025,4,129.28
+Sandakan,Electricity,2025,4,263.64
+Sandakan,Fuel,2025,4,118.03
+Tawau,Water,2025,4,143.64
+Tawau,Electricity,2025,4,420.08
+Tawau,Fuel,2025,4,211.68
+Kuching,Water,2025,4,99.48
+Kuching,Electricity,2025,4,333.69
+Kuching,Fuel,2025,4,239.34
+Miri,Water,2025,4,105.92
+Miri,Electricity,2025,4,243.11
+Miri,Fuel,2025,4,156.49
+Sibu,Water,2025,4,150.27
+Sibu,Electricity,2025,4,390.23
+Sibu,Fuel,2025,4,173.65
+Johor Bahru,Water,2025,4,150.05
+Johor Bahru,Electricity,2025,4,272.12
+Johor Bahru,Fuel,2025,4,115.23
+Iskandar Puteri,Water,2025,4,137.36
+Iskandar Puteri,Electricity,2025,4,304.02
+Iskandar Puteri,Fuel,2025,4,182.6
+Pasir Gudang,Water,2025,4,147.84
+Pasir Gudang,Electricity,2025,4,336.32
+Pasir Gudang,Fuel,2025,4,162.91
+Alor Setar,Water,2025,4,160.1
+Alor Setar,Electricity,2025,4,412.17
+Alor Setar,Fuel,2025,4,238.55
+Sungai Petani,Water,2025,4,99.77
+Sungai Petani,Electricity,2025,4,408.32
+Sungai Petani,Fuel,2025,4,164.81
+Kota Bharu,Water,2025,4,108.69
+Kota Bharu,Electricity,2025,4,271.94
+Kota Bharu,Fuel,2025,4,156.77
+Melaka City,Water,2025,4,90.65
+Melaka City,Electricity,2025,4,191.74
+Melaka City,Fuel,2025,4,190.52
+Seremban,Water,2025,4,161.5
+Seremban,Electricity,2025,4,451.35
+Seremban,Fuel,2025,4,213.11
+Kuantan,Water,2025,4,117.43
+Kuantan,Electricity,2025,4,265.44
+Kuantan,Fuel,2025,4,121.54
+George Town,Water,2025,4,123.34
+George Town,Electricity,2025,4,215.29
+George Town,Fuel,2025,4,196.95
+Seberang Perai,Water,2025,4,144.03
+Seberang Perai,Electricity,2025,4,354.82
+Seberang Perai,Fuel,2025,4,259.7
+Ipoh,Water,2025,4,161.6
+Ipoh,Electricity,2025,4,355.49
+Ipoh,Fuel,2025,4,197.1
+Kangar,Water,2025,4,153.75
+Kangar,Electricity,2025,4,337.12
+Kangar,Fuel,2025,4,256.3
+Shah Alam,Water,2025,4,109.28
+Shah Alam,Electricity,2025,4,266.39
+Shah Alam,Fuel,2025,4,154.31
+Petaling Jaya,Water,2025,4,174.26
+Petaling Jaya,Electricity,2025,4,437.82
+Petaling Jaya,Fuel,2025,4,159.49
+Subang Jaya,Water,2025,4,153.14
+Subang Jaya,Electricity,2025,4,368.55
+Subang Jaya,Fuel,2025,4,189.81
+Klang,Water,2025,4,98.09
+Klang,Electricity,2025,4,207.01
+Klang,Fuel,2025,4,121.17
+Kuala Terengganu,Water,2025,4,140.85
+Kuala Terengganu,Electricity,2025,4,268.91
+Kuala Terengganu,Fuel,2025,4,108.48
+Kota Kinabalu,Water,2025,4,107.86
+Kota Kinabalu,Electricity,2025,4,235.81
+Kota Kinabalu,Fuel,2025,4,152.31
+Sandakan,Water,2025,4,135.02
+Sandakan,Electricity,2025,4,374.5
+Sandakan,Fuel,2025,4,149.91
+Tawau,Water,2025,4,112.58
+Tawau,Electricity,2025,4,229.72
+Tawau,Fuel,2025,4,239.95
+Kuching,Water,2025,4,84.73
+Kuching,Electricity,2025,4,385.41
+Kuching,Fuel,2025,4,123.94
+Miri,Water,2025,4,103.79
+Miri,Electricity,2025,4,368.28
+Miri,Fuel,2025,4,105.27
+Sibu,Water,2025,4,153.61
+Sibu,Electricity,2025,4,550.52
+Sibu,Fuel,2025,4,250.84
+Johor Bahru,Water,2025,4,152.2
+Johor Bahru,Electricity,2025,4,289.79
+Johor Bahru,Fuel,2025,4,220.35
+Iskandar Puteri,Water,2025,4,93.25
+Iskandar Puteri,Electricity,2025,4,398.13
+Iskandar Puteri,Fuel,2025,4,123.9
+Pasir Gudang,Water,2025,4,98.63
+Pasir Gudang,Electricity,2025,4,238.07
+Pasir Gudang,Fuel,2025,4,253.1
+Alor Setar,Water,2025,4,125.4
+Alor Setar,Electricity,2025,4,408.42
+Alor Setar,Fuel,2025,4,139.45
+Sungai Petani,Water,2025,4,156.51
+Sungai Petani,Electricity,2025,4,393.2
+Sungai Petani,Fuel,2025,4,181.63
+Kota Bharu,Water,2025,4,124.97
+Kota Bharu,Electricity,2025,4,259.3
+Kota Bharu,Fuel,2025,4,131.76
+Melaka City,Water,2025,4,147.35
+Melaka City,Electricity,2025,4,375.2
+Melaka City,Fuel,2025,4,260.1
+Seremban,Water,2025,4,154.06
+Seremban,Electricity,2025,4,315.31
+Seremban,Fuel,2025,4,123.02
+Kuantan,Water,2025,4,132.01
+Kuantan,Electricity,2025,4,229.24
+Kuantan,Fuel,2025,4,142.58
+George Town,Water,2025,4,119.94
+George Town,Electricity,2025,4,249.09
+George Town,Fuel,2025,4,165.21
+Seberang Perai,Water,2025,4,132.0
+Seberang Perai,Electricity,2025,4,308.23
+Seberang Perai,Fuel,2025,4,121.23
+Ipoh,Water,2025,4,95.75
+Ipoh,Electricity,2025,4,311.65
+Ipoh,Fuel,2025,4,198.58
+Kangar,Water,2025,4,122.08
+Kangar,Electricity,2025,4,334.52
+Kangar,Fuel,2025,4,237.96
+Shah Alam,Water,2025,4,149.04
+Shah Alam,Electricity,2025,4,366.24
+Shah Alam,Fuel,2025,4,229.3
+Petaling Jaya,Water,2025,4,155.0
+Petaling Jaya,Electricity,2025,4,257.62
+Petaling Jaya,Fuel,2025,4,224.56
+Subang Jaya,Water,2025,4,105.98
+Subang Jaya,Electricity,2025,4,234.34
+Subang Jaya,Fuel,2025,4,299.91
+Klang,Water,2025,4,146.42
+Klang,Electricity,2025,4,524.83
+Klang,Fuel,2025,4,196.0
+Kuala Terengganu,Water,2025,4,135.19
+Kuala Terengganu,Electricity,2025,4,309.46
+Kuala Terengganu,Fuel,2025,4,141.44
+Kota Kinabalu,Water,2025,4,108.17
+Kota Kinabalu,Electricity,2025,4,295.32
+Kota Kinabalu,Fuel,2025,4,126.42
+Sandakan,Water,2025,4,109.36
+Sandakan,Electricity,2025,4,289.44
+Sandakan,Fuel,2025,4,124.83
+Tawau,Water,2025,4,126.25
+Tawau,Electricity,2025,4,312.31
+Tawau,Fuel,2025,4,202.48
+Kuching,Water,2025,4,92.1
+Kuching,Electricity,2025,4,365.5
+Kuching,Fuel,2025,4,231.57
+Miri,Water,2025,4,167.37
+Miri,Electricity,2025,4,318.02
+Miri,Fuel,2025,4,171.16
+Sibu,Water,2025,4,113.86
+Sibu,Electricity,2025,4,515.41
+Sibu,Fuel,2025,4,218.7
